@@ -1,65 +1,69 @@
 ---
 layout: default
+rbar: fb, calendar
 ---
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="obsah">
-
-<div id="hlavicka">
-<div id="menu">
-	<a href="msk-program.html" title="Program Pirátů pro Moravskoslezský kraj 2016">krajský program</a>
-	 | <a href="msk-kandidati.html" title="Kandidáti Pirátů pro zastupitelstvo Moravskoslezského kraje / 2016">krajští kandidáti</a>
-	 | <a href="msk-senat2016.html" title="Kandidáti Pirátů v Moravskoslezském kraji pro senátní volby 2016">kandidáti do Senátu</a>
-	 | <a href="http://msk.pirati.cz" title="Oficiální internetová prezentace České pirátské strany, Krajské sdružení Moravskoslezského kraje">msk.pirati.cz</a>
-	 | <a href="http://pirati.cz" title="Oficiální internetová prezentace České pirátské strany">pirati.cz</a>
-</div>
-<h1><a href="./">PIRÁTI</a> <span id="komunalky">v Moravskoslezském kraji</span></h1>
-</div>
-
-<hr class="cleaner" />
-<div id="hlavnipanel">
-<p class="logo"><img src="prvky/logo-kruh.png" alt="Česká pirátská strana" width="200" border="0" /></p>
-<h1 align="center">Krajské a senátní volby 2016 v Moravskoslezském kraji</h1>
-<h3 align="center" id="sedy-rozcestnik">
-	<a href="msk-program.html" title="Program Pirátů pro Moravskoslezský kraj 2016">krajský program</a>
-	 | <a href="msk-kandidati.html" title="Kandidáti Pirátů pro zastupitelstvo Moravskoslezského kraje / 2016">krajští kandidáti</a>
-	 | <a href="msk-senat2016.html" title="Kandidáti Pirátů v Moravskoslezském kraji pro senátní volby 2016">kandidáti do Senátu</a>
-<p align="center"><a href="prvky/za-5-minut-12.jpg" target="new"><img src="prvky/za-5-minut-12.jpg" width="50%" border="0" /></a>
-</h3>
-</div>
-
-<hr class="cleaner" />
-<!-- začátek socialni-prvky G+ a FB -->
- <div id="socialni-prvky">
-<!-- socialni-prvky G+ -->
-<g:plusone annotation="inline"></g:plusone>
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = '//apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<br />
-<!-- socialni-prvky FB -->
-<div class="fb-like" data-href="http://www.volimpiraty.cz<?php echo $_SERVER['REQUEST_URI']; ?>" data-send="true" data-width="450" data-show-faces="true" data-font="arial"></div>
-</div>
-<center>
-<div class="fb-like-box" data-href="https://www.facebook.com/cpsmsk" data-width="450" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
-</center>
-<!-- konec socialni-prvky G+ a FB -->
-<br /><br />
-</div>
-
-<div id="spodni-info">
-<span style="-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-khtml-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);display:inline-block;font-size:1em">©</span>
-Piráti, 2014. Všechna práva vyhlazena. Sdílejte a nechte ostatní sdílet za stejných podmínek. <a href="http://www.pirati.cz/web/podminky">Podmínky použití</a>.<br>
+{% include title/title_header.html %}
+<div class="row">
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner o-section-inner--leftBlock">
+        <header class="o-section-header">
+          <h1 class="o-section__heading">Aktuální témata</h1>
+        </header>
+        {% for article in site.posts limit: 6 %}
+        <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
+          <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+          <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
+            <div class="c-BlogPosting-excerpt-photoBox">
+              <!-- BlogPosting image -->
+              <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
+                <a href="{{article.url | relative_url}}">
+                  <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
+                </a>
+                <meta itemprop="url" content="{{ article.image | relative_url }}">
+                <meta itemprop="width" content="">
+                <meta itemprop="height" content=""> </div>
+            </div>
+            <div class="c-BlogPosting-excerpt-contentBox">
+              <!-- Headline -->
+              <h2 itemprop="headline" class="c-BlogPosting-excerpt__title">
+                <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
+              </h2>
+              <!-- BlogPosting description-->
+              <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 }} </div>
+              <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+            </div>
+            <!-- Publisher -->
+            <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+              <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}"> </div>
+              <meta itemprop="name" content="Česká pirátská strana"> </div>
+          </div>
+          <div class="c-BlogPosting-excerpt-infoBox">
+            <!-- Date published -->
+            <span itemprop="description" class="c-BlogPosting-excerpt__datePublished">
+              <i class="fa fa-calendar-o" aria-hidden="true"></i> {{article.date | date: "%d.%m.%Y"}}
+              <meta itemprop="datePublished" content="{{article.date | date_to_xmlschema }}">
+              <meta itemprop="dateModified" content=""> </span>
+            <br class="hide-for-medium">
+            <!-- Authors -->
+            <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting-excerpt__authors" itemscope="">
+              <i class="fa fa-user" aria-hidden="true"></i>
+              <span itemprop="name" class="c-BlogPosting-excerpt__author">{{ article.author }}</span>
+              <br class="hide-for-medium"> </span>
+          </div>
+        </article>
+        {% endfor %}
+        <div class="c-BlogPosting-excerpt-nextBox">
+          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+        </div>
+      </div>
+    </section>
+  </div>
+  {% if page.rbar %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html param='rbar' %}
+  </div>
+  {% endif %}
 </div>
