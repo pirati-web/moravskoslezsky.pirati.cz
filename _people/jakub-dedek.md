@@ -5,7 +5,7 @@ fullname: Jakub Dedek  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinator
 img: people/jakub-dedek.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Moravskoslezdský # kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Moravskoslezský # kratký popis, max 160 znaků
 mail:
 - jakub.dedek@pirati.cz
 mob: +420 770 113 644
