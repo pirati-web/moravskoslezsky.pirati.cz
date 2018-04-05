@@ -22,3 +22,5 @@ Kýženou změnu měl přinést zákon o sociálním bydlení. Ten ale dosud neb
 Z kontroly NKÚ vyplynulo, že dávky na bydlení příjemce příliš nemotivují, aby se snažili svou situaci změnit. Stává se, že lidé bez příjmů dostávají od státu na dávkách více než lidé, kteří pracují a příjem mají. Přesto se ale jejich finanční situace nelepší, ačkoliv příspěvek i doplatek na bydlení jim stát vyplácí po neomezenou dobu. 
 
 >„Zatímco život lidí ohrožených chudobou se výrazně nelepší, často bydlí v neudržovaných ubytovnách nebo bytových domech, opak platí pro obchodníky s chudobou. Právě v jejich kapsách peníze ze státního sociálního systému končí. To se musí změnit,“ dodává Lukáš Černohorský.
+
+- - -
