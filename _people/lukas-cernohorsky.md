@@ -29,4 +29,7 @@ Ve svém volném čase se věnuje společenskému tanci, kterému propadl před 
 
 - tiskový mluvčí a člen petičního výboru Petice za zachování tří ostravských historických budov, které tvoří celek zvaný [Ostravica-Textilia](http://ostravica-textilia.cz/)
 
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=rq39momo7ihnr2um3pmatnt2j8%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 

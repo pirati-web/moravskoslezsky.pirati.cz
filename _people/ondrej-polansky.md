@@ -21,4 +21,7 @@ Ondřej Polanský je pirátský poslanec za Moravskoslezský kraj. Narodil se ro
 
 Otázku vymezení základních lidských práv ve virtuálním světě považuje pro nastupující století za stejně významnou, jako je dnes samotný princip občanské společnosti. Věří, že z praktického přístupu k vyvažování práva na soukromí, listovního tajemství a copyrightu se stává nejvýznamnější zrcadlo stavu svobody společnosti, a zároveň největší globální výzvou pro 21. století. Pirátské hnutí bylo něj tudíž přirozenou a jedinou možnou volbou.
 
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=9bc8elbp19qb6n5fafqbmv0ks0%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
