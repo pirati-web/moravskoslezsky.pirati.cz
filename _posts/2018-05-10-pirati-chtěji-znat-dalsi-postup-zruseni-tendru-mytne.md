@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pirát Černohorský se sešel s prezidentem kvůli OKD: Kromě Bohuslava Sobotky by měl nést zodpovědnost i exministr Urban'
+title: 'Piráti chtěli po Ťokovi objasnit další kroky po zrušení výsledku tendru na mýtné'
 date: 2018-05-10T14:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
