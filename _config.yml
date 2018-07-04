@@ -9,7 +9,7 @@
 title: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
 email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Web krajského sdružení České pirátské strany ve Moravskoslezském kraji.
+  Web krajského sdružení České pirátské strany v Moravskoslezském kraji.
 url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
