@@ -1,11 +1,12 @@
 ---
-date:         2018-07-03
-category:     blog
-tags:         korupce
-layout:       post
-title:        "Piráti: Nejvyšší kontrolní úřad by měl mít pravomoc kontrolovat města, kraje i Českou televizi"
-image:        assets/img/posts/NKU.jpg
-author:       Zuzana Klusová
+layout: blog
+category: CLANKY
+title: "Piráti: Nejvyšší kontrolní úřad by měl mít pravomoc kontrolovat města, kraje i Českou televizi"
+date: 2018-07-03T10:21:23.824Z
+author: Zuzana Klusová
+authorId: zuzana.klusova
+image: /assets/img/posts/NKU.jpg
+tags: 'korupce'
 ---
 
 
