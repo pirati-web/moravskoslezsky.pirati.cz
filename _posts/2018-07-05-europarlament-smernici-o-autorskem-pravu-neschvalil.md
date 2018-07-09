@@ -1,11 +1,12 @@
 ---
-date:         2018-07-05
-category:     blog
-tags:         internet
-layout:       post
-title:        "Svoboda internetu prozatím nedotčena, směrnice o autorském právu europarlamentem neprošla"
-image:        assets/img/posts/europarlament.jpg
-author:       Jakub Dušánek
+layout: blog
+category: CLANKY
+title: "Svoboda internetu prozatím nedotčena, směrnice o autorském právu europarlamentem neprošla"
+date: 2018-07-05T10:21:23.824Z
+author: Zuzana Klusová
+authorId: zuzana.klusova
+image: /assets/img/posts/europarlament.jpg
+tags: 'internet'
 ---
 
 
