@@ -1,23 +1,77 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 title: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
-email: to@pirati.cz
+email: veronika.murzynova@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web krajského sdružení České pirátské strany v Moravskoslezském kraji.
+keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezký kraj, slezko, MSK
 url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
+
+organization:
+  name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
+  shortName: Piráti MSK
+  contactUid: jakub.pirat
+  email: example@pirati.cz
+  phone: +420 777 123 456 789
+  address: |
+    Řehořova 943/19, 
+    130 00 Praha 3
+  residenceImg:
+  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  redmineLink: https://redmine.pirati.cz/projects
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Celostátní kalendář
+  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/ceska.piratska.strana/ 
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: PiratskaStrana
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/example.pirati.cz/
+  branch: master
+
+
+###################technické
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
 markdown: kramdown
-
+theme: jekyll-theme-pirati
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
 paginate_path: "/aktuality/:num/"
@@ -27,9 +81,7 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-
-sass:
-    style: compressed
+  - vendor
 
 permalink: /aktuality/:title.html
 collections:
@@ -42,20 +94,27 @@ collections:
   teams:
     output: true
     permalink: /pripoj-se/:title/
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "member"
-      rbar: "foto"
+      layout: "member" #todo "person" in thema 
+      rbar: foto 
+          #- foto
+          #- personContact
+          #- people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
+      layout: "page" # "program-post"
       rbar: "volby"
+      #- garant
+      #   - program
   -
     scope:
       path: "_teams"
@@ -63,5 +122,25 @@ defaults:   # defaults values for collection scope
       layout: "team"
       rbar: "team-summary, teams-toc"
 
-emptyArray: []
-exclude: [vendor]
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.0.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
