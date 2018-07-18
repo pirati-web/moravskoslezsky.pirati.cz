@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'O vodě, o trávě, o lese - beseda s Janem Nezhybou'
 date: 2017-05-01T08:51:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
-image: /assets/img/posts/beseda_nezhyba.jpg
+image: beseda_nezhyba.jpg
 tags: 'beseda životní prostředí Nezhyba'
 ---
 

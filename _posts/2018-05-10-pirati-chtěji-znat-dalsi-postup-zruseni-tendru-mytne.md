@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti chtěli po Ťokovi objasnit další kroky po zrušení výsledku tendru na mýtné'
 date: 2018-05-10T14:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/polansky.jpg
+image: polansky.jpg
 tags: 'doprava'
 ---
 

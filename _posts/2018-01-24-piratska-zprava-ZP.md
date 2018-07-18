@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Ovzduší v kraji se nelepší, opakují se úniky jedů do vody'
 date: 2018-01-24T07:27:43.824Z
 author: Jan Nezhyba
 authorId: jan.nezhyba
-image: /assets/img/posts/ostrava-ovzdusi.jpg
+image: ostrava-ovzdusi.jpg
 tags: 'životní prostředí msk zpráva'
 ---
 

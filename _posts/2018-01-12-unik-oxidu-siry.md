@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti podají podnět na prošetření: Za včerejším masivním únikem oxidu síry jsou podle nich laguny Ostramo'
 date: 2018-01-12T14:59:43.824Z
 author: David Witosz
 authorId: david.witosz
-image: /assets/img/posts/centrum.jpg
+image: centrum.jpg
 tags: 'ostrava ovzduší laguny moravská ostrava'
 ---
  

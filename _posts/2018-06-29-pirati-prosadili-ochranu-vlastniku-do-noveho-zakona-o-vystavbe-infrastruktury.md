@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: "Zákon o urychlení výstavby infrastruktury míří ze Sněmovny do Senátu, Piráti v něm prosadili ochranu vlastníků"
 date: 2018-06-29T16:11:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/polansky1.jpg
+image: polansky1.jpg
 tags: 'doprava'
 ---
 

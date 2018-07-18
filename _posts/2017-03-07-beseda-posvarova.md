@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Úspěšná beseda s Miloslavou Pošvářovou'
 date: 2017-03-07T08:59:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
-image: /assets/img/posts/posvarova2.jpg
+image: posvarova2.jpg
 tags: 'beseda doprava kontrolní činnost Pošvářová'
 ---
 

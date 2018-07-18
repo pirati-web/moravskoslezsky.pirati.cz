@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti mají plán, jak zastavit stáčení tachometrů a omlazování ojetin'
 date: 2018-05-21T16:11:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/polansky1.jpg
+image: polansky1.jpg
 tags: 'doprava'
 ---
 

@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'První Pirát na půdě OSN je z Ostravy: Ondra Polanský promluvil k migraci'
 date: 2018-03-01T10:18:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/polansky-osn-1.jpg
+image: polansky-osn-1.jpg
 tags: 'Polanský OSN NewYork migrace'
 ---
 
@@ -37,9 +37,9 @@ Překlad projevu, který Ondřej Polanský přednesl v OSN:
 
 
 
-![alt text]({{ '/assets/img/posts/polansky-osn-2.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
+![alt text]({{ 'polansky-osn-2.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
-![alt text]({{ '/assets/img/posts/polansky-osn-3.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
+![alt text]({{ 'polansky-osn-3.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
 - - -
 

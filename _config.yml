@@ -102,7 +102,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
-      layout: "member" #todo "person" in thema 
+      layout: "person"
       rbar: foto 
           #- foto
           #- personContact
@@ -111,7 +111,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_program"
     values:
-      layout: "page" # "program-post"
+      layout: "program-post"
       rbar: "volby"
       #- garant
       #   - program
@@ -143,4 +143,5 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/posts
     - _sass

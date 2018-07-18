@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti: Stát dal přes 7 miliard na opravy silnic, zda se stav silnic skutečně zlepšil ale neví'
 date: 2018-03-12T23:09:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/dira-v-silnici.jpg
+image: dira-v-silnici.jpg
 tags: 'doprava'
 ---
 

@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Proč se životní prostředí na Ostravsku moc nelepší? A jak to můžeme změnit?'
 date: 2018-04-11T14:27:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/piratecon.jpg
+image: piratecon.jpg
 tags: 'piratecon'
 ---
 

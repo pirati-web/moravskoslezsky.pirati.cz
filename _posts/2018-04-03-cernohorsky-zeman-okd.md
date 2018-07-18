@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Pirát Černohorský se chce sejít s prezidentem Zemanem kvůli OKD'
 date: 2018-04-03T12:17:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/cernohorsky.jpg
+image: cernohorsky.jpg
 tags: 'kauzy okd'
 ---
 

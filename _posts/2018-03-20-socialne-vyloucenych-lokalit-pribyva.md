@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti: Miliardy na podporu bydlení nepomohly, počet sociálně vyloučených lokalit se za 10 let zdvojnásobil'
 date: 2018-03-20T13:09:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/prednadrazi.jpg
+image: prednadrazi.jpg
 tags: 'bydlení'
 ---
 

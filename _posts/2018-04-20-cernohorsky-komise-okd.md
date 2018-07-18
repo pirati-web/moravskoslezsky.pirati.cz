@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Kdo může za pád OKD? Komise vedená Pirátem Černohorským prošetřuje poslední dějství kauzy'
 date: 2018-04-20T13:27:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/cernohorsky-lukas.jpg
+image: cernohorsky-lukas.jpg
 tags: 'kauzy okd'
 ---
  

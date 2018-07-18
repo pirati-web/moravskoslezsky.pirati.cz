@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Kdy zmizí těžní věže z Beskyd? Pirát Černohorský interpeluje ministra'
 date: 2018-05-15T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/tezebni-vez.JPG
+image: tezebni-vez.JPG
 tags: 'kauzy okd životní prostředí'
 ---
 

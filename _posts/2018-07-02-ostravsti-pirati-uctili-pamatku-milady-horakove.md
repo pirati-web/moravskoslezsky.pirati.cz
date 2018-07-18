@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Ostravští Piráti uctí památku Milady Horákové i hodnoty demokratické společnosti'
 date: 2018-06-29T16:11:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/miladahorakova.jpg
+image: miladahorakova.jpg
 tags: 'svoboda demokracie piratiostrava'
 ---
 **V úterý 26. června, v předvečer popravy Milady Horákové, si Piráti připomněli 68. výročí jednoho z nejhorších justičních zločinů komunistického režimu. Pietní akce proběhla z iniciativy České pirátské strany symbolicky v Sadu Dr. Milady Horákové u sochy Pocta nejmenovaným / Pomník neznámým. Akce byla také apelem na to, abychom nebrali demokracii jako samozřejmost a aktivně hájili hodnoty, na nichž je vystavena.**
