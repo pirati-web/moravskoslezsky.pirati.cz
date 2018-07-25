@@ -10,6 +10,10 @@ keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezk
 url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
 
 
+
+administrator:
+  email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
+
 organization:
   name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
   shortName: Piráti MSK
