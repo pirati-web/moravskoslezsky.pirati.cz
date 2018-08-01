@@ -6,7 +6,7 @@ date: 2018-04-31T12:49:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: cernohorsky2.jpg
-tags: 'vláda'
+tags: 'vláda NKÚ'
 ---
 
 Vláda dnes dala souhlasné stanovisko pirátskému návrhu zákona na posílení pravomocí Nejvyššího kontrolního úřadu. Novelu připravil Pirát Lukáš Černohorský, který je místopředsedou Kontrolního výboru Sněmovny. Pokud by byla novela zákona schválena, Nejvyšší kontrolní úřad by v budoucnu mohl kontrolovat hospodaření statutárních měst, krajů i veřejnoprávních médií. 
