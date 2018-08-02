@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Vláda odsouhlasila pirátský návrh na posílení pravomocí NKÚ. Úřad tak bude moci lépe odhalovat korupci"
-date: 2018-04-31T12:49:23.824Z
+date: 2018-07-31T12:49:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: cernohorsky2.jpg
