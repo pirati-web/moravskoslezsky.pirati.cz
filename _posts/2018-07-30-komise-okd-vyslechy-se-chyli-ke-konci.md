@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Předseda komise k OKD Lukáš Černohorský: Týdenní maraton výslechů přinesl úspěchy, vyšetřování se chýlí ke konci"
-date: 2018-04-30T11:49:23.824Z
+date: 2018-07-30T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: cernohorsky.jpg
