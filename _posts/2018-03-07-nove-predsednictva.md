@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti v Moravskoslezském kraji si zvolili nové předsednictvo'
 date: 2018-03-07T15:18:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/pks.jpg
+image: pks.jpg
 tags: 'MSK předsednictvo'
 ---
 

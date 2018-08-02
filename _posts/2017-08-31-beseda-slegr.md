@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Vysokorychlostní železnice - příležitost pro ČR?'
 date: 2017-09-10T18:41:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
-image: /assets/img/posts/vrt.jpg
+image: vrt.jpg
 tags: 'beseda vysokorychlostní železnice vrt Šlégr'
 ---
 

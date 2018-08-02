@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Veřejná debata - Volím čisté ovzduší'
 date: 2016-09-18T08:06:53.514Z
 author: Pavel Kořízek
 authorId: pavel.korizek
-image: /assets/img/posts/ciste_ovzdusi.jpg
+image: ciste_ovzdusi.jpg
 tags: 'beseda ovzduší'
 ---
 Zveme vás na předvolební debatu s kandidáty na hejtmana Moravskoslezského kraje v rámci Krajských voleb 2016, kterou pořádá Čisté nebe o.p.s. ve spolupráci s Antikvariátem a klubem Fiducia a Komorní scénou Aréna dne 20. září od 18:30 v divadle Komorní scéna Aréna.

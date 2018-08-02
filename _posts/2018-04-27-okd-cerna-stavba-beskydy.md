@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Stát spolu s OKD převzal i největší černou stavbu u nás!'
 date: 2018-04-27T12:49:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/okd-beskydy.jpg
+image: okd-beskydy.jpg
 tags: 'kauzy okd beskydy'
 ---
  

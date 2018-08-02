@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Šéf komise k OKD Pirát Černohorský: Stát má stále šanci odstoupit od privatizační smlouvy'
 date: 2018-03-23T13:06:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/okd-cernohorsky.jpg
+image: okd-cernohorsky.jpg
 tags: 'kauzy okd'
 ---
 

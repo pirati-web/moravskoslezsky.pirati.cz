@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti pohlídali záruky majitelům pozemků při výstavbě infrastruktury'
 date: 2018-02-09T18:49:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
-image: /assets/img/posts/polansky.jpg
+image: polansky.jpg
 tags: 'legislativa'
 ---
 Pirátská strana zajistila, že návrh novely zákona o urychlení výstavby klíčové infrastruktury nebude obsahovat paragrafy porušující vlastnická práva majitelů pozemků, na nichž se má stavět. Události posledních dvou měsíců však ukazují, že legislativní proces je třeba bedlivě hlídat před neúměrným tlakem lobbistů. Pirátům se nakonec podařilo z návrhu zákona odstranit dodatek, podle nějž by se měl zákon vztahovat i na stavby energetické infrastruktury, a tím významně omezovat práva vlastníků pozemků.

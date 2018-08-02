@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Ostravský Stephen Hawking: „Chci na radnici bariérám navzdory!“'
 date: 2018-03-06T14:28:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/horejsi.jpg
+image: horejsi.jpg
 tags: 'rozhovor Hořejší Piráti bariéry komunálky'
 ---
 

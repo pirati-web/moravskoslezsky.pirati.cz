@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Hrozí další roky čekání, prodražování a riziko ztráty peněz od státu! Ostravští Piráti prověřili tvrzení radního Semeráka ohledně Místecké'
 date: 2018-01-18T11:37:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
-image: /assets/img/posts/mistecka.jpg
+image: mistecka.jpg
 tags: 'ostrava moap místecká doprava'
 ---
 

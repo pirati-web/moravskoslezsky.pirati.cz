@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti uspořádali v Ostravě PirateCon o životním prostředí.'
 date: 2018-03-05T13:09:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/toxic.jpg
+image: toxic.jpg
 tags: 'životní prostředí Ostrava Piratecon ToxicTour'
 ---
 

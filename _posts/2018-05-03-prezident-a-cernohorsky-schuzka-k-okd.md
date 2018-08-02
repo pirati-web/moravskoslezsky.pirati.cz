@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Pirát Černohorský se sešel s prezidentem kvůli OKD: Kromě Bohuslava Sobotky by měl nést zodpovědnost i exministr Urban'
 date: 2018-05-03T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/cernohorsky-kylofek.jpg
+image: cernohorsky-kylofek.jpg
 tags: 'kauzy okd'
 ---
 

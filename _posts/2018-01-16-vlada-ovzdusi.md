@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Výsměch lidem na Ostravsku! Hodnotí poslanec Černohorský snahu ministra průmyslu pomoci Polsku dál znečišťovat ovzduší v kraji'
 date: 2018-01-16T17:19:43.824Z
 author: Lukáš Černohorský
 authorId: lukas.cernohorsky
-image: /assets/img/posts/ostrava-ovzdusi.jpg
+image: ostrava-ovzdusi.jpg
 tags: 'ostrava ovzduší polsko vláda limity'
 ---
 

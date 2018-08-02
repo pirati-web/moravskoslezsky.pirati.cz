@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Závěry vyšetřovací komise k OKD mohou napomoci i v otázce dělení ČEZu'
 date: 2018-02-07T09:19:43.824Z
 author: Lukáš Černohorský
 authorId: lukas.cernohorsky
-image: /assets/img/posts/cernohorsky.jpg
+image: cernohorsky.jpg
 tags: 'kauzy OKD komise'
 ---
 

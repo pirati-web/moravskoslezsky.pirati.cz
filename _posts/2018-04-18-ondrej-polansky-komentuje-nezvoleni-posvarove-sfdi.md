@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Komentář poslance Pirátů Ondřeje Polanského k nezvolení Miloslavy Pošvářové do Dozorčí rady SFDI'
 date: 2018-04-18T08:29:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
-image: /assets/img/posts/polansky2.jpg
+image: polansky2.jpg
 tags: 'sněmovna'
 ---
 
