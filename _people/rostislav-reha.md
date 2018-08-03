@@ -5,7 +5,7 @@ fullname: Ing. Rostislav Řeha	  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 img: people/rostislav-reha.jpg           # 165 x 220
-description: místpředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
+description: místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
 mail:
 - rostislav.reha@pirati.cz
 profiles:
