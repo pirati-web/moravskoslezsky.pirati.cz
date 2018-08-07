@@ -19,5 +19,13 @@ PIRÁTI & OPAVANÉ nejsou jen známé tváře stávajících zastupitelů Hany B
 
 Kontakt: 
 Hana Brňáková, místopředsedkyně MS a lídryně kandidátky PIRÁTI & OPAVANÉ
-Email: hana.brnakova@pirati.cz 
-Tel. 721 741 919
+
+> Email: hana.brnakova@pirati.cz, Tel. 721 741 919
+
+Pavel Kořízek, předseda MS a 2.místo kandidátky PIRÁTI & OPAVANÉ
+
+> Email: pavel.korizek@pirati.cz, Tel. 777 237 635
+
+Jan Štěrba, 3.místo kandidátky PIRÁTI & OPAVANÉ
+
+> Email: jan.sterba@pirati.cz, Tel. 602 533 993
