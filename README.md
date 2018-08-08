@@ -12,7 +12,7 @@ Postup spuštění lokálního Jekyll serveru se stránkou (Ubuntu a ostatní De
 
 ```
 cd <adresář_kam_naklonovat_GIT_repozitář>
-git clone https://github.com/pirati-web/ostrava.pirati.cz.git
+git clone https://github.com/pirati-web/moravskoslezsky.pirati.cz.git
 cd ostrava.pirati.cz
 bundle install
 bundle install --path vendor/bundle
