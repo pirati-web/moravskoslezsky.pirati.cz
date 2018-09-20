@@ -1,77 +1,68 @@
-- locality: Pardubice
+- locality: Ostrava
   type: external
-  link: https://pardubice.pirati.cz
-  programLink: https://pardubice.pirati.cz/komunalni-volby-2018/
-  candidateListLink: https://pardubice.pirati.cz/komunalni-volby-2018/
-  coa: https://upload.wikimedia.org/wikipedia/commons/0/0e/Pardubice_CoA_CZ.svg
-- locality: Chrudim
+  link: https://ostrava.pirati.cz
+  programLink: https://ostrava.pirati.cz/magistrat/
+  candidateListLink: https://ostrava.pirati.cz/magistrat/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ostrava_CoA_CZ.svg/800px-Ostrava_CoA_CZ.svg.png
+- locality: Havířov
   type: external
-  link: https://chrudim.pirati.cz
-  programLink: https://chrudim.pirati.cz/volby-2018/
-  candidateListLink: https://chrudim.pirati.cz/volby-2018/kandidati.html
-  coa: https://upload.wikimedia.org/wikipedia/commons/7/7e/Chrudim_CoA_CZ.svg
-- locality: Svitavy
+  link: http://www.pirati-havirov.cz
+  programLink: http://www.pirati-havirov.cz
+  candidateListLink: http://www.pirati-havirov.cz/index.php/kandidatni-listina-pirati-havirov-2018/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Hav%C3%AD%C5%99ov.svg/480px-Coat_of_arms_of_Hav%C3%AD%C5%99ov.svg.png
+- locality: Opava
   type: external
-  link: https://www.piratisvitavy.cz/
-  programLink: https://www.piratisvitavy.cz/volebni-program/
-  candidateListLink: https://www.piratisvitavy.cz/kandidati/
-  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Svitavy_znak_2.jpeg/394px-Svitavy_znak_2.jpeg
-- locality: Česká Třebová
+  link: https://opava.pirati.cz
+  programLink: https://opava.pirati.cz/komunalni-volby/
+  candidateListLink: https://opava.pirati.cz/komunalni-volby/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Opava_CoA.svg/360px-Opava_CoA.svg.png
+- locality: Frýdek-Místek
   type: external
-  link: https://ceskatrebova.pirati.cz
-  programLink: https://ceskatrebova.pirati.cz/volby-2018/index.html
-  candidateListLink: https://ceskatrebova.pirati.cz/volby-2018/kandidati.html
-  coa: https://upload.wikimedia.org/wikipedia/commons/2/20/%C4%8Cesk%C3%A1_T%C5%99ebov%C3%A1.svg
-- locality: Moravská Třebová
+  link: https://frydekmistek.pirati.cz/
+  programLink: https://frydekmistek.pirati.cz/komunalni-volby/
+  candidateListLink: https://frydekmistek.pirati.cz/komunalni-volby/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fr%C3%BDdek_M%C3%ADstek_CoA_CZ.svg/732px-Fr%C3%BDdek_M%C3%ADstek_CoA_CZ.svg.png
+- locality: Karviná
   type: external
-  link: https://moravskatrebova.pirati.cz
-  programLink: https://moravskatrebova.pirati.cz/volby2018/
-  candidateListLink: https://moravskatrebova.pirati.cz/volby2018/
-  coa: https://upload.wikimedia.org/wikipedia/commons/1/15/Moravsk%C3%A1_T%C5%99ebov%C3%A1_CoA_CZ.svg
-- locality: Žamberk
+  coa: http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Karwina_herb.svg/744px-Karwina_herb.svg.png
+  note: Kandidujeme v koalici <b>Piráti a Starostové v Karviné</b>.
+  link: http://www.piratiastarostove.cz
+- locality: Hlučín
   type: external
-  uid: zamberk
-  coa: https://upload.wikimedia.org/wikipedia/commons/4/40/Žamberk_CoA_CZ.svg
-  note: Kandidujeme na společné kandidátce <b>Koalice Nezávislí a STAN s podporou Pirátské strany</b>.
-  link: https://www.chcikandidovat.cz/pardubicky-kraj/zamberk
-- locality: Radhošť
+  note: Jsme na kandidátce <b>Hlučíňáci s podporou Pirátů</b>.
+  link: https://www.hlucinaci.cz/
+  coa: https://upload.wikimedia.org/wikipedia/commons/8/8c/Hlu%C4%8D%C3%ADn_znak.png
+- locality: Český Těšín
   type: external
-  uid: radhost
-  note: Kandidujeme na společné kandidátce <b>Změna pro Radhošť</b>.
-  coa: https://upload.wikimedia.org/wikipedia/commons/3/3c/Radho%C5%A1%C5%A5_UO_CoA.jpg
-  link: https://radhost.info/
-  programLink: https://radhost.info/program/
-  candidateListLink: https://radhost.info/team/
-- locality: Rudoltice
-  type: local
-  uid: rudoltice
-  coa: https://upload.wikimedia.org/wikipedia/commons/7/76/Znak_obce_Rudoltice.gif
-- locality: Hlinsko
-  type: local
-  uid: hlinsko
-  coa: https://upload.wikimedia.org/wikipedia/commons/9/95/Hlinsko_znak.gif
-- locality: Heřmanův Městec
+  link: http://www.pirati-tesin.cz/
+  programLink: http://www.pirati-tesin.cz/program/
+  candidateListLink: http://www.pirati-tesin.cz/
+  coa: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cesky_Tesin_CoA.png
+- locality: Kopřivnice
   type: external
-  uid: hermanuv.mestec
-  coa: https://upload.wikimedia.org/wikipedia/commons/c/c0/Hermanuv_Mestec_CZ_CoA.gif
+  link: http://piratiprokoprivnici.cz
+  programLink: http://piratiprokoprivnici.cz/index.php/program
+  candidateListLink: http://piratiprokoprivnici.cz/index.php/kandidati
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Znak_m%C4%9Bsta_Kop%C5%99ivnice.svg/603px-Znak_m%C4%9Bsta_Kop%C5%99ivnice.svg.png
+- locality: Příbor
+  type: external
+  link: http://www.pirati-pribor.cz
+  programLink: http://www.pirati-pribor.cz/program
+  candidateListLink: http://www.pirati-pribor.cz/kandidati
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_P%C5%99%C3%ADbor.svg/480px-Coat_of_arms_of_P%C5%99%C3%ADbor.svg.png
+- locality: Nový Jičín
+  type: external
+  coa: https://upload.wikimedia.org/wikipedia/commons/c/ca/Coa_Novy_Jicin.jpg
   note: Detaily o naší kandidatuře připravujeme.
-- locality: Červená Voda
+- locality: Bohumín
   type: external
-  uid: cervena.voda
-  coa: https://upload.wikimedia.org/wikipedia/commons/d/d4/Červená_Voda.svg
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bohumin_CoA_CZ.svg/716px-Bohumin_CoA_CZ.svg.png
   note: Detaily o naší kandidatuře připravujeme.
-- locality: Chrast
+- locality: Rychvald
   type: external
-  uid: chrast
-  coa: https://upload.wikimedia.org/wikipedia/commons/e/e9/Znak_m%C4%9Bsta_Chrast.jpg
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rychvald_CoA.svg/90px-Rychvald_CoA.svg.png
   note: Detaily o naší kandidatuře připravujeme.
-- locality: Polička
+- locality: Hradec nad Moravicí
   type: external
-  uid: policka
-  coa: https://upload.wikimedia.org/wikipedia/commons/c/cf/Poli%C4%8Dka_CoA_CZ.svg
-  note: Detaily o naší kandidatuře připravujeme.
-- locality: Sezemice
-  type: external
-  uid: sezemice
-  coa: https://upload.wikimedia.org/wikipedia/commons/b/ba/Sezemice-znak-mesta.png
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Coa_Czech_Town_Hradec_nad_Moravic%C3%AD.svg/260px-Coa_Czech_Town_Hradec_nad_Moravic%C3%AD.svg.png
   note: Detaily o naší kandidatuře připravujeme.
