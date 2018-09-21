@@ -153,7 +153,7 @@ margin-top:10px;
   }
 }
 
-.pce-hero {
+.msk-hero {
   padding: 4rem 1rem;
   text-align: center;
 
@@ -170,27 +170,7 @@ margin-top:10px;
   }
 }
 
-.pce-hero__content {
+.msk-hero__content {
   margin: auto;
   max-width: 60em;
-}
-
-.pce-hero__cta {
-  margin-top: 2rem;
-  display: flex;
-  flex-direction: column;
-
-  @include breakpoint(medium up) {
-    margin-top: 4rem;
-    flex-direction: row;
-    justify-content: center;
-  }
-}
-
-.pce-hero__cta-item {
-  margin: .5rem 0;
-
-  @include breakpoint(medium up) {
-    margin: 0 1rem;
-  }
 }
