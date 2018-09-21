@@ -119,6 +119,8 @@ margin-top:10px;
   display: flex;
   height: 100%;
   width: 100%;
+  background: $light-gray;
+  border: 1px $light-gray solid;
 }
 
 .pk-election-crossroad__coa {
@@ -128,7 +130,7 @@ margin-top:10px;
   min-width: 6rem;
   background: #fff;
   padding: 1rem;
-  border: 2px $light-gray solid;
+  border: 1px $light-gray solid;
 }
 
 .pk-election-crossroad__link {
