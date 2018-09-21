@@ -109,13 +109,13 @@ text-align:center;
 margin-top:10px;
 }
 
-.pk-election-crossroad .pk-election-crossroad__place {
+.msk-election-crossroad .msk-election-crossroad__place {
   display: flex;
   height: 100%;
   padding-bottom: 2.5rem;
 }
 
-.pk-election-crossroad .pk-election-crossroad__place-body {
+.msk-election-crossroad .pk-election-crossroad__place-body {
   display: flex;
   height: 100%;
   width: 100%;
@@ -123,7 +123,7 @@ margin-top:10px;
   border: 1px $light-gray solid;
 }
 
-.pk-election-crossroad__coa {
+.msk-election-crossroad__coa {
   display: flex;
   align-items: center;
   max-width: 6rem;
@@ -133,7 +133,7 @@ margin-top:10px;
   border: 1px $light-gray solid;
 }
 
-.pk-election-crossroad__link {
+.msk-election-crossroad__link {
   display: inline-block;
 
   .fa {
@@ -145,7 +145,7 @@ margin-top:10px;
   }
 }
 
-.pk-election-crossroad__link + .pk-election-crossroad__link {
+.msk-election-crossroad__link + .msk-election-crossroad__link {
   margin-left: 1rem;
 
   @include breakpoint(small down) {
