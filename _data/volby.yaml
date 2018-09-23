@@ -1,0 +1,68 @@
+- locality: Ostrava
+  type: external
+  link: https://ostrava.pirati.cz
+  programLink: https://ostrava.pirati.cz/magistrat/
+  candidateListLink: https://ostrava.pirati.cz/magistrat/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ostrava_CoA_CZ.svg/800px-Ostrava_CoA_CZ.svg.png
+- locality: Havířov
+  type: external
+  link: http://www.pirati-havirov.cz
+  programLink: http://www.pirati-havirov.cz
+  candidateListLink: http://www.pirati-havirov.cz/index.php/kandidatni-listina-pirati-havirov-2018/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Hav%C3%AD%C5%99ov.svg/480px-Coat_of_arms_of_Hav%C3%AD%C5%99ov.svg.png
+- locality: Opava
+  type: external
+  link: https://opava.pirati.cz
+  programLink: https://opava.pirati.cz/komunalni-volby/
+  candidateListLink: https://opava.pirati.cz/komunalni-volby/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Opava_CoA.svg/360px-Opava_CoA.svg.png
+- locality: Frýdek-Místek
+  type: external
+  link: https://frydekmistek.pirati.cz/
+  programLink: https://frydekmistek.pirati.cz/komunalni-volby/
+  candidateListLink: https://frydekmistek.pirati.cz/komunalni-volby/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fr%C3%BDdek_M%C3%ADstek_CoA_CZ.svg/732px-Fr%C3%BDdek_M%C3%ADstek_CoA_CZ.svg.png
+- locality: Karviná
+  type: external
+  coa: http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Karwina_herb.svg/744px-Karwina_herb.svg.png
+  note: Kandidujeme v koalici <b>Piráti a Starostové v Karviné</b>.
+  link: http://www.piratiastarostove.cz
+- locality: Hlučín
+  type: external
+  note: Jsme na kandidátce <b>Hlučíňáci s podporou Pirátů</b>.
+  link: https://www.hlucinaci.cz/
+  coa: https://upload.wikimedia.org/wikipedia/commons/8/8c/Hlu%C4%8D%C3%ADn_znak.png
+- locality: Český Těšín
+  type: external
+  link: http://www.pirati-tesin.cz/
+  programLink: http://www.pirati-tesin.cz/program/
+  candidateListLink: http://www.pirati-tesin.cz/
+  coa: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cesky_Tesin_CoA.png
+- locality: Kopřivnice
+  type: external
+  link: http://piratiprokoprivnici.cz
+  programLink: http://piratiprokoprivnici.cz/index.php/program
+  candidateListLink: http://piratiprokoprivnici.cz/index.php/kandidati
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Znak_m%C4%9Bsta_Kop%C5%99ivnice.svg/603px-Znak_m%C4%9Bsta_Kop%C5%99ivnice.svg.png
+- locality: Příbor
+  type: external
+  link: http://www.pirati-pribor.cz
+  programLink: http://www.pirati-pribor.cz/program
+  candidateListLink: http://www.pirati-pribor.cz/kandidati
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_P%C5%99%C3%ADbor.svg/480px-Coat_of_arms_of_P%C5%99%C3%ADbor.svg.png
+- locality: Nový Jičín
+  type: external
+  coa: https://upload.wikimedia.org/wikipedia/commons/c/ca/Coa_Novy_Jicin.jpg
+  note: Detaily o naší kandidatuře připravujeme.
+- locality: Bohumín
+  type: external
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bohumin_CoA_CZ.svg/716px-Bohumin_CoA_CZ.svg.png
+  note: Detaily o naší kandidatuře připravujeme.
+- locality: Rychvald
+  type: external
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rychvald_CoA.svg/90px-Rychvald_CoA.svg.png
+  note: Detaily o naší kandidatuře připravujeme.
+- locality: Hradec nad Moravicí
+  type: external
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Coa_Czech_Town_Hradec_nad_Moravic%C3%AD.svg/260px-Coa_Czech_Town_Hradec_nad_Moravic%C3%AD.svg.png
+  note: Detaily o naší kandidatuře připravujeme.
