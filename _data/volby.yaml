@@ -62,7 +62,7 @@
 - locality: Rychvald
   type: external
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rychvald_CoA.svg/90px-Rychvald_CoA.svg.png
-  note: Detaily o naší kandidatuře připravujeme.
+  candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8103&xobec=599107&xstrana=720
 - locality: Hradec nad Moravicí
   type: external
   note: Jsme na kandidátce <b>Kulturní město</b> s podporou Pirátů.
