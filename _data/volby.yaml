@@ -55,14 +55,17 @@
   coa: https://upload.wikimedia.org/wikipedia/commons/c/ca/Coa_Novy_Jicin.jpg
   note: Kandidujeme v koalici <b>Piráti s podporou Svobodných</b>.
   candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8104&xobec=599191&xstrana=684
+  programLink: /assets/pdf/volby2018/pirati_novy_jicin_letak_2018.pdf  
 - locality: Bohumín
   type: external
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bohumin_CoA_CZ.svg/716px-Bohumin_CoA_CZ.svg.png
   candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8103&xobec=599051&xstrana=720
+  programLink: /assets/pdf/volby2018/pirati_bohumin_volebni_program_2018.pdf  
 - locality: Rychvald
   type: external
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rychvald_CoA.svg/90px-Rychvald_CoA.svg.png
   candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8103&xobec=599107&xstrana=720
+  programLink: /assets/pdf/volby2018/pirati_rychvald_volebni_program_2018.pdf  
 - locality: Hradec nad Moravicí
   type: external
   note: Jsme na kandidátce <b>Kulturní město</b> s podporou Pirátů.
@@ -73,4 +76,5 @@
 - locality: Krmelín
   type: external
   candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=1&xnumnuts=8102&xobec=598348&xstrana=720
+  programLink: /assets/pdf/volby2018/pirati_krmelin_volebni_program_2018.pdf
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Krmel%C3%ADn_CoA.svg/452px-Krmel%C3%ADn_CoA.svg.png
