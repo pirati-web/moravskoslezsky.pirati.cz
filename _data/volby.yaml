@@ -58,7 +58,7 @@
 - locality: Bohumín
   type: external
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bohumin_CoA_CZ.svg/716px-Bohumin_CoA_CZ.svg.png
-  note: Detaily o naší kandidatuře připravujeme.
+  candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8103&xobec=599051&xstrana=720
 - locality: Rychvald
   type: external
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rychvald_CoA.svg/90px-Rychvald_CoA.svg.png
