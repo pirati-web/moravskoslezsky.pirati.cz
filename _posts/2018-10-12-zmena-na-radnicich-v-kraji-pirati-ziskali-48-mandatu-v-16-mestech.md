@@ -2,10 +2,10 @@
 layout: post
 category: CLANKY
 title: "Změna na radnicích v kraji: Piráti získali 48 mandátů v 16 městech"
-date: 2018-10-16
+date: 2018-10-12
 author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
-image: posts/mapa.jpg
+image: posts/volebni-urna.jpg
 tags:
   - volby
   - volby2018
@@ -13,7 +13,7 @@ tags:
   - výsledky
 ---
 
-*Ostrava, 11.10. 2018*. Piráti považují výsledky komunálních voleb v moravskoslezském kraji za úspěch. Uspěli jsme v 16 ze 17 měst a obcí, kde jsme stavěli kandidátky. Celkem získali Piráti v kraji 48 mandátů. Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5% a šesti mandáty.
+Piráti považují výsledky komunálních voleb v moravskoslezském kraji za úspěch. Uspěli jsme v 16 ze 17 měst a obcí, kde jsme stavěli kandidátky. Celkem získali Piráti v kraji 48 mandátů. Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5% a šesti mandáty.
 
 <hr>
 
