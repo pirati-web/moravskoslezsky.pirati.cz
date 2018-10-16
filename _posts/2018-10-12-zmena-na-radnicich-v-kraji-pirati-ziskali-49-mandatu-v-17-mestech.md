@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Změna na radnicích v kraji: Piráti získali 48 mandátů v 16 městech"
+title: "Změna na radnicích v kraji: Piráti získali 49 mandátů v 17 městech"
 date: 2018-10-12
 author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
@@ -13,7 +13,7 @@ tags:
   - výsledky
 ---
 
-Piráti považují výsledky komunálních voleb v moravskoslezském kraji za úspěch. Uspěli jsme v 16 ze 17 měst a obcí, kde jsme stavěli kandidátky. Celkem získali Piráti v kraji 48 mandátů. Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5% a šesti mandáty.
+Piráti považují výsledky komunálních voleb v moravskoslezském kraji za úspěch. Uspěli jsme v 17 ze 17 měst a obcí, kde jsme stavěli kandidátky. Celkem získali Piráti v kraji 49 mandátů. Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5% a šesti mandáty.
 
 <hr>
 
@@ -23,9 +23,9 @@ Piráti považují výsledky komunálních voleb v moravskoslezském kraji za ú
 | **Český Těšín**         | Ireneusz Pieniazek |                           | Petr Kopečný       |
 |                     | Andrea Branná      |                           | Gabriela Macečková |
 | **Frýdek - Místek**     | Jakub Tichý        |                           | Michal Breškovec   |
-|                     | Jakub Tichý        |                           | Radim Stach        |
-|                     | Markéta Ubíková    | **Ostrava - Poruba**          | Andrea Hoffmannová |
-|                     | Igor Juriček       |                           | Martin Tomášek     |
+|                     | Markéta Ubíková    |                           | Radim Stach        |
+|                     | Igor Juriček       | **Ostrava - Poruba**          | Andrea Hoffmannová |
+|                     | Leonard Varga       |                           | Martin Tomášek     |
 | **Havířov**             | Martin Rédr        |                           | Veronika Murzynová |
 |                     | Jan Nezhyba        |                           | Jiří Rajnoch       |
 |                     | Jaroslav Kocián    |                           | Jakub Dedek        |
@@ -37,11 +37,12 @@ Piráti považují výsledky komunálních voleb v moravskoslezském kraji za ú
 |                     | Petr Letocha       |                           | Martin Kučera      |
 | **Kopřivnice**          | Ladislav Stehlík   | **Ostrava - Magistrát**       | David Witosz       |
 | **Krmelín**             | Marek Čmiel        |                           | Andrea Hoffmannová |
-| **Nový Jičín**          | Emil Adámek        |                           | Rostislav Řeha     |
-|                     | Kamil Žák          |                           | Petr Kopečný       |
-| **Opava**               | Petr Pavlíček      |                           | Veronika Murzynová |
-|                     | Hana Brňáková      | **Příbor**                    | Silvie Piškytlová  |
-|                     | Jan Kunze          |                           | Tomáš Krompolc     |
+| **Malé Hoštice**	| Pavel Gazda        |                           | Rostislav Řeha     |
+| **Nový Jičín**          | Emil Adámek          |                           | Petr Kopečný       |
+|                     | Kamil Žák      |                           | Veronika Murzynová |
+| **Opava**               | Petr Pavlíček      | **Příbor**                    | Silvie Piškytlová  |
+|                     | Hana Brňáková          |                           | Tomáš Krompolc     |
+|                     | Jan Kunze      |                           |                    |
 |                     | Pavel Kořízek      |                           |                    |
 |                     | Jan Štěrba         |                           |                    |
 
