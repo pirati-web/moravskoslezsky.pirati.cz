@@ -1,11 +1,11 @@
 ---
-layout:       post
-category:     CLANKY
-title:        'Piráti předložili přehled nelegálních billboardů na dálnici D1 a vyzývají ministra Ťoka k podání žaloby'
-date:         2018-10-25T08:00:00.000Z
-author:       Karolína Sadílková
-authorId:     karolina.sadilkova 
-image:        /assets/img/posts/michalek-polansky.jpg
+layout: post
+category: CLANKY
+title: 'Piráti předložili přehled nelegálních billboardů na dálnici D1 a vyzývají ministra Ťoka k podání žaloby'
+date: 2018-10-25T08:00:00.000Z
+author: 'Karolína Sadílková'
+authorId: karolina.sadilkova 
+image: posts/michalek-polansky.jpg
 tags:
   - doprava
   - billboard
