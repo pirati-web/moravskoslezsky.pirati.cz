@@ -1,7 +1,9 @@
 ---
 uid: david.witosz
 name:     David Witosz  	# běžně používáné jméno
-fullname: David Witosz  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 img: people/david-witosz.jpg   # 165 x 220

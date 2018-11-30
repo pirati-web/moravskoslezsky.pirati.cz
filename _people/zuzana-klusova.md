@@ -1,7 +1,9 @@
 ---
 uid: zuzana.klusova
 name:     Zuzana Klusova      		# běžně používáné jméno
-fullname: Bc. Zuzana Klusová  		# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 img: people/zuzana-klusova.jpg           # 165 x 220

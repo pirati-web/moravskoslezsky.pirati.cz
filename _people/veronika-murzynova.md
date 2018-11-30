@@ -1,7 +1,9 @@
 ---
 uid: veronika.murzynova
 name:     Veronika Murzynová  	# běžně používáné jméno
-fullname: Veronika Murzynová  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/veronika_murzynova.jpg   # 165 x 220
 description: volební koordinátor pro Moravskoslezský kraj            	# kratký popis, max 160 znaků

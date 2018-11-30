@@ -1,7 +1,9 @@
 ---
 uid: jakub.dedek
 name:     Jakub Dedek      		# běžně používáné jméno
-fullname: Jakub Dedek  		# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinator
 img: people/jakub-dedek.jpg           # 165 x 220

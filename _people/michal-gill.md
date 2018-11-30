@@ -1,7 +1,9 @@
 ---
 uid: michal.gill
 name:    Michal Gill     		# běžně používáné jméno
-fullname: Bc. Michal Gill  		# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pms
 img: people/michal-gill.jpg           # 165 x 220
