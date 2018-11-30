@@ -1,7 +1,9 @@
 ---
 uid: martin.redr
 name:     Martin Rédr  	# běžně používáné jméno
-fullname: Mgr. Martin Rédr  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 
 img: people/martin-redr.jpg   # 165 x 220

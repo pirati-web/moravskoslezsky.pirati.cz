@@ -1,7 +1,9 @@
 ---
 uid: michal.klus
 name:     Michal Klus  	# běžně používáné jméno
-fullname: Michal Klus  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/michal-klus.jpg   # 165 x 220

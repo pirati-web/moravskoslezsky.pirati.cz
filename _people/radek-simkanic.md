@@ -1,7 +1,9 @@
 ---
 uid: radek.simkanic
 name:     Radek Simkanič  	# běžně používáné jméno
-fullname: Ing. Radek Simkanič, DiS.  	# jméno s tituly etc.
+titles:
+  before: Ing
+  after: DiS.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 

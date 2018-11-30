@@ -1,7 +1,9 @@
 ---
 uid: lukas.cernohorsky
 name:     Lukáš Černohorský  	# běžně používáné jméno
-fullname: Ing. Lukáš Černohorský  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/lukas-cernohorsky.jpg   # 165 x 220

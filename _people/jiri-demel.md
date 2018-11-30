@@ -1,7 +1,9 @@
 ---
 uid: jiri.demel
 name:     Jiří Demel  	# běžně používáné jméno
-fullname: Jiří Demel  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 

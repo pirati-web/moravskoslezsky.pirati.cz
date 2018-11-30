@@ -1,7 +1,9 @@
 ---
 uid: pavel.korizek
 name:     Pavel Kořízek  	# běžně používáné jméno
-fullname: Ing. Pavel Kořízek  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 
