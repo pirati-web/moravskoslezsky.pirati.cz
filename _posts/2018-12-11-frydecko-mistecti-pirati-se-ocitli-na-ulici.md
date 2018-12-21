@@ -17,7 +17,7 @@ tags:
   - sociální politika
 ---
 
-Frýdek-Místek, 22. listopadu - **Ani teplota okolo nuly neodradila Frýdecko-místecké Piráty překročit svoji komfortní zónu a strávit noc venku. Nultý ročník akce pod názvem „Noc venku” Piráti zorganizovali za velké pomoci skupiny Food not Bombs. Ta lidem z ulice rozdává teplé jídlo pravidelně, nejen jako charitu, ale také jako protest proti plýtvání. Noc venku je ojedinělá kampaň, která si klade za cíl přiblížit široké veřejnosti život lidí bez domova a zprostředkovat jí zážitkovou formou „běžné fungování” člověka žijícího na ulici.**
+Frýdek-Místek, 22. listopadu 2018 - **Ani teplota okolo nuly neodradila Frýdecko-místecké Piráty překročit svoji komfortní zónu a strávit noc venku. Nultý ročník akce pod názvem „Noc venku” Piráti zorganizovali za velké pomoci skupiny Food not Bombs. Ta lidem z ulice rozdává teplé jídlo pravidelně, nejen jako charitu, ale také jako protest proti plýtvání. Noc venku je ojedinělá kampaň, která si klade za cíl přiblížit široké veřejnosti život lidí bez domova a zprostředkovat jí zážitkovou formou „běžné fungování” člověka žijícího na ulici.**
 
 
 <hr>

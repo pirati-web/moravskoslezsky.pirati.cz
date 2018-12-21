@@ -16,7 +16,7 @@ tags:
   - residomo
 ---
 
-_Praha, 14. listopadu 2018_ – **Už za necelé dva měsíce může stát definitivně ztratit šanci získat zpět pochybně privatizovaný majetek. Dnes odpoledne má Sněmovna poslední možnost tomu zabránit. Poslanci budou hlasovat o pirátské novele občanského zákoníku, která by o 5 let prodloužila dobu, během níž může soud vrátit nepoctivě nabytý majetek z období privatizace zpět státu. 1. ledna příštího roku totiž skončí pětiletá ochranná lhůta pro mimořádné vydržení v případě privatizačních kauz. To znamená, že stávající vlastníci si po tomto datu budou moci majetek ponechat, i pokud se prokáže, že byl během privatizace nabytý neprávem. Autorem návrhu je pirátský poslanec Lukáš Černohorský.**
+Praha, 14. listopadu 2018 – **Už za necelé dva měsíce může stát definitivně ztratit šanci získat zpět pochybně privatizovaný majetek. Dnes odpoledne má Sněmovna poslední možnost tomu zabránit. Poslanci budou hlasovat o pirátské novele občanského zákoníku, která by o 5 let prodloužila dobu, během níž může soud vrátit nepoctivě nabytý majetek z období privatizace zpět státu. 1. ledna příštího roku totiž skončí pětiletá ochranná lhůta pro mimořádné vydržení v případě privatizačních kauz. To znamená, že stávající vlastníci si po tomto datu budou moci majetek ponechat, i pokud se prokáže, že byl během privatizace nabytý neprávem. Autorem návrhu je pirátský poslanec Lukáš Černohorský.**
 
 <hr>
 
