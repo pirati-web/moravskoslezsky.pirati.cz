@@ -36,33 +36,43 @@ Tábor, 19. ledna 2019 - **Uplynulý víkend patřil každoročnímu setkání P
 * Obě změny stanov vstoupí v platnost dnem zaregistrování upravených stanov Ministerstvem vnitra ČR.
 
 ![Na Celostátní fórum se akreditovalo přes 423 Pirátů i nepirátů a 22 novinářů. Táborský Hotel Palcát tento nápor bez problémů zvládnul.]({{'cf2019-001.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Na Celostátní fórum se akreditovalo přes 423 Pirátů i nepirátů a 22 novinářů. Táborský Hotel Palcát tento nápor bez problémů zvládnul.")
+
 _Na Celostátní fórum se akreditovalo přes 423 Pirátů i nepirátů a 22 novinářů. Táborský Hotel Palcát tento nápor bez problémů zvládnul._
 
 ![Akcí jako moderátor provázel místopředseda Poslanecké sněmovny Vojtěch Pikal.]({{'cf2019-pikal.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Akcí jako moderátor provázel místopředseda Poslanecké sněmovny Vojtěch Pikal.")
+
 _Akcí jako moderátor provázel místopředseda Poslanecké sněmovny Vojtěch Pikal._
 
 ![Lídrem kandidátky byl zvolen brněnský Pirát Marcel Kolaja.]({{'cf2019-kolaja.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Lídrem kandidátky byl zvolen brněnský Pirát Marcel Kolaja.")
+
 _Lídrem kandidátky byl zvolen brněnský Pirát Marcel Kolaja._
 
 ![V prvním kole volby čelil těmto kvalitním soupeřům. Zleva od Marcela, Jana Koláříková, Ondřej Kolek, Mikuláš Peksa, Hynek Melichar a Ladislav Koubek.]({{'cf2019-002.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "V prvním kole volby čelil těmto kvalitním soupeřům. Zleva od Marcela, Jana Koláříková, Ondřej Kolek, Mikuláš Peksa, Hynek Melichar a Ladislav Koubek.")
+
 _V prvním kole volby čelil těmto kvalitním soupeřům. Zleva od Marcela, Jana Koláříková, Ondřej Kolek, Mikuláš Peksa, Hynek Melichar a Ladislav Koubek._
 
 ![Všichni bohužel uspět nemohli, přesto vládla přátelská atmosféra.]({{'cf2019-003.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Všichni bohužel uspět nemohli, přesto vládla přátelská atmosféra.")
+
 _Všichni bohužel uspět nemohli, přesto vládla přátelská atmosféra._
 
 ![Tisková konference v závěru sobotního hlasovacího dne. Na snímku zleva Markéta Gregorová, Ivan Bartoš, Marcel Kolaja, Mikuláš Peksa a tisková mluvčí Karolína Sadílková.]({{'cf2019-004.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Tisková konference v závěru sobotního hlasovacího dne. Na snímku zleva Markéta Gregorová, Ivan Bartoš, Marcel Kolaja, Mikuláš Peksa a tisková mluvčí Karolína Sadílková.")
+
 _Tisková konference v závěru sobotního hlasovacího dne. Na snímku zleva Markéta Gregorová, Ivan Bartoš, Marcel Kolaja, Mikuláš Peksa a tisková mluvčí Karolína Sadílková._
 
 ![Lukáši Blažejovi je teprve 22 let, přesto za svou mnohaletou činnost získal v prosinci Cenu za odvahu Nadačního fondu proti korupci. Do eurovoleb půjde ze čtvrtého místa kandidátky Pirátů.]({{'cf2019-blazej.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Lukáši Blažejovi je teprve 22 let, přesto za svou mnohaletou činnost získal v prosinci Cenu za odvahu Nadačního fondu proti korupci. Do eurovoleb půjde ze čtvrtého místa kandidátky Pirátů.")
+
 _Lukáši Blažejovi je teprve 22 let, přesto za svou mnohaletou činnost získal v prosinci Cenu za odvahu Nadačního fondu proti korupci. Do eurovoleb půjde ze čtvrtého místa kandidátky Pirátů._
 
 ![Druhý den se nesl ve znamení workshopů. Na snímku prezentuje ostravský radní David Witosz.]({{'cf2019-005.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Druhý den se nesl ve znamení workshopů. Na snímku prezentuje ostravský radní David Witosz.")
+
 _Druhý den se nesl ve znamení workshopů. Na snímku prezentuje ostravský radní David Witosz._
 
 ![Ivan Bartoš s manželkou Lydií Bartošovou po své pravici a poslankyní Olgou Richterovou po své levici na jednom z workshopů.]({{'cf2019-006.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Ivan Bartoš s manželkou Lydií Bartošovou po své pravici a poslankyní Olgou Richterovou po své levici na jednom z workshopů.")
+
 _Ivan Bartoš s manželkou Lydií Bartošovou po své pravici a poslankyní Olgou Richterovou po své levici na jednom z workshopů._
 
 ![Děkujeme za veškerý servis, který nám poskytnul táborský Hotel Palcát a jeho zaměstnanci.]({{'cf2019-007.jpg' | prepend: '/assets/img/articles/2019/cf2019/' | relative_url}} "Děkujeme za veškerý servis, který nám poskytnul táborský Hotel Palcát a jeho zaměstnanci.")
+
 _Děkujeme za veškerý servis, který nám poskytnul táborský Hotel Palcát a jeho zaměstnanci._
 
 - - -
