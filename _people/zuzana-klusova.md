@@ -1,6 +1,6 @@
 ---
 uid: zuzana.klusova
-name:     Zuzana Klusova      		# běžně používáné jméno
+name:     Zuzana Klusová      		# běžně používáné jméno
 titles:
   before: Bc.
   after:
