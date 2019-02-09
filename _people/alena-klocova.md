@@ -15,7 +15,7 @@ profiles:
   github:
   facebook:				
   twitter:
-  linkedin:  https://www.linkedin.com/pub/michal-gill/9b/975/a4b
+  linkedin:
 ordpms: 3  
 ---
 
