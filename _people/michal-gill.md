@@ -5,7 +5,7 @@ titles:
   before: Bc.
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pms
+- clenove
 img: people/michal-gill.jpg           # 165 x 220
 description: předseda místního sdružení Karvinsko # kratký popis, max 160 znaků
 mail:
@@ -16,7 +16,7 @@ profiles:
   facebook:				
   twitter:
   linkedin:  https://www.linkedin.com/pub/michal-gill/9b/975/a4b
-ordpms: 1  
+ordpms: 3  
 ---
 
 

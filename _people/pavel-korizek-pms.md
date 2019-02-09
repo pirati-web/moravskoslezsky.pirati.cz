@@ -5,9 +5,9 @@ titles:
   before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
+- pms
 img: people/pavel-korizek.jpg   # 165 x 220
-description: předseda krajského sdružení Moravskoslezského kraje       	# kratký popis, max 160 znaků
+description: předseda místního sdružení Opavské Slezsko       	# kratký popis, max 160 znaků
 mail:
 - pavel.korizek@pirati.cz
 mob: +420 777 237 635		  
@@ -17,7 +17,7 @@ profiles:
   twitter: 		  
   flickr: 
 
-ordpks: 1
+ordpms: 2
 ---
 
 Vystudoval obor Informatika a výpočetní technika na Vysokém Učení Technickém v Brně (2005). V současné době pracuje jako IT specialista. Je ženatý a má 3 děti. Ve svém volném čase se věnuje rodině. 

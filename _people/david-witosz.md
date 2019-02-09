@@ -11,7 +11,7 @@ description: předseda místního sdružení Piráti MOaP a garant programového
 mail:
 - david.witosz@pirati.cz
 
-ordpms: 2
+ordpms: 1
 ---
 
 Ing.David Witosz (*26. dubna 1981) je členem Krajského sdružení Moravskoslezského kraje, garant programového bodu Doprava pro parlamentní volby 2017.
