@@ -8,9 +8,9 @@ authorId: zuzana.klusova
 image: posts/cernohorsky-polansky-nemec.jpg
 tags:
   - Praha
-  - Černohorský
-  - Polanský
-  - Němec
+  - Lukáš-Černohorský
+  - Ondřej-Polanský
+  - Jaroslav-Němec
   - Výstava
   - Jadran
   - Architektura

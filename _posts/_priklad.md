@@ -6,10 +6,10 @@ date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
 author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
-tags:						#Jedno slovo, první písmeno velké, s diakritikou, v případě jmen jen příjmení
+tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou.
   - Město/obvod			#Ostrava-Jih
   - Programová oblast		#Transparence
-  - Osoby			#Černohorský (vždy jen příjmení)
+  - Osoby			#Lukáš-Černohorský
   - Spojený tag			#Evropská-komise (tag o dvou slovech vždy spojit pomocí "-")
   - Kauza			#Další relevantní tagy
 ---

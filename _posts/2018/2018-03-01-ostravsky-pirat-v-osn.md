@@ -6,10 +6,13 @@ date: 2018-03-01T10:18:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: polansky-osn-1.jpg
-tags: 'Polanský OSN NewYork migrace'
+tags:
+  - Ondřej-Polanský
+  - OSN
+  - Migrace
 ---
 
-„New York, New York!“ Známý hit Franka Sinatry si jistě připomněl Ondřej Polanský, poslanec Pirátské strany za Moravskoslezský kraj, po svém výstupu na plénu OSN v New Yorku. Svou první velkou zahraniční cestu v pozici předsedy Stálé delegace Parlamentu do Meziparlamentní unie doprovodil projevem na téma migrace. Tato problematika vyvolává kontroverze nejenom v Evropě. Nicméně jak řekl Ondřej: "Opravdový život začíná, když vystoupíš ze své komfortní zóny."
+„New York, New York!“ Známý hit Franka Sinatry si jistě připomněl Ondřej Polanský, poslanec Pirátské strany za Moravskoslezský kraj, po svém výstupu na plénu OSN v New Yorku. Svou první velkou zahraniční cestu v pozici předsedy Stálé delegace Parlamentu do Meziparlamentní unie doprovodil projevem na téma migrace. Tato problematika vyvolává kontroverze nejenom v Evropě. Nicméně jak řekl Ondřej: „Opravdový život začíná, když vystoupíš ze své komfortní zóny."
 
 Global Compact for Migration neboli Globální úmluva o migraci je označení plánované globální dohody o migraci. Ta má být první mezivládní dohodou zabývající se všemi aspekty migrace. V minulém týdnu se sešli zástupci parlamentů členských zemí na půdě OSN v New Yorku a vyměnili si své zkušenosti, názory i návrhy pro připravovaný dokument. Ten by se měl stát výchozím materiálem pro řešení globální migrace. Po slyšeních v OSN budou nyní probíhat mezivládní jednání. Další slyšení v OSN pak proběhnou v dubnu a červnu.
 
@@ -35,12 +38,8 @@ Překlad projevu, který Ondřej Polanský přednesl v OSN:
 > 
 > Je zřejmé, že Česká republika vytváří pozitivní příklady a drží se ustanovení Global Compact. Upřímně doufám, že dosáhneme smysluplného kompromisu, který pomůže lidem, kteří to potřebují.
 
-
-
 ![alt text]({{ 'polansky-osn-2.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
 ![alt text]({{ 'polansky-osn-3.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
 - - -
-
-

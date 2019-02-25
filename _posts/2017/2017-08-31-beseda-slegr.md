@@ -6,7 +6,13 @@ date: 2017-09-10T18:41:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: vrt.jpg
-tags: 'beseda vysokorychlostní železnice vrt Šlégr'
+tags:
+  - Beseda
+  - Doprava
+  - Petr-Šlégr
+  - Vysokorychlostní-Železnice
+  - VRT
+  - Železnice
 ---
 
 Přednáška a beseda s předním českým odborníkem na VRT
@@ -22,6 +28,5 @@ Datum: 26.září 2017
 Čas: 18:00
 
 Vstupné je zdarma.
-
 
 - - -

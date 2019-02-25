@@ -6,8 +6,12 @@ date: 2017-12-08T15:59:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: 2017-12-08-lavka3.jpg
-tags: 'ostrava moravská ostrava lávka sepněme moravskou'
+tags:
+  - David-Witosz
+  - MS-MOaP
+  - Sepněme-Moravskou
 ---
+
 Iniciativu „Sepněme Moravskou“ jsme chystali pro komunální volby 2018 v Ostravě ještě daleko dříve, než někoho z nás napadlo, že bych se mohl dostat do Parlamentu. S radostí proto oznamuji, že dnes byla jak (znovu)založena místní buňka pirátské strany v Moravské Ostravě a Přívoze, ale také představen náš hlavní projekt.
 
 „Sepněme Moravskou“ je název projektu, který představilo právě založené místní sdružení Pirátů pro Moravskou Ostravu a Přívoz. Smyslem iniciativy je propojit dvě dosud oddělené části obvodu tak, aby se z jednoho konce na druhý dostali chodci, lidé na invalidním vozíku, cyklisté i bruslaři.
@@ -48,6 +52,4 @@ Na této iniciativě Piráti navíc chtějí také prezentovat otevřený způso
 
 - [www.msstavby.cz/propojeni-moravske-ostravy-08-12-2017/](http://www.msstavby.cz/propojeni-moravske-ostravy-08-12-2017/)
 
-
 - - -
-

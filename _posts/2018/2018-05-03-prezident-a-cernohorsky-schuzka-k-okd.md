@@ -6,7 +6,11 @@ date: 2018-05-03T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: cernohorsky-kylofek.jpg
-tags: 'kauzy okd'
+tags:
+  - Kauza
+  - OKD
+  - Lukáš-Černohorský
+  - Miloš-Zeman
 ---
 
 Sobotka nebyl u rozhodování o privatizaci OKD jediný zodpovědný, exministr průmyslu Milan Urban nese stejný díl odpovědnosti za zpackaný prodej těžařského kolosu. To dnes zaznělo na schůzce pirátského předsedy sněmovní vyšetřovací komise kauzy OKD Lukáše Černohorského s prezidentem Milošem Zemanem. „Podle všeho měli Sobotka s Urbanem dostatek indicií, že nabízená cena za OKD neodpovídala tržní hodnotě,” informoval Lukáš Černohorský.
@@ -19,3 +23,4 @@ Jako dárek prezidentovi Pirát Černohorský přinesl ručně vyřezávaný “
 
 „Prezident nás na jednání informoval, že projedná okolnosti kauzy i budoucnosti OKD se všemi dotčenými ministry v nově jmenované vládě,” doplnil Černohorský.
 
+- - -

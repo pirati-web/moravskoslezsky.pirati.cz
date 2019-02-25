@@ -6,7 +6,12 @@ date: 2018-02-07T09:19:43.824Z
 author: Lukáš Černohorský
 authorId: lukas.cernohorsky
 image: cernohorsky.jpg
-tags: 'kauzy OKD komise'
+tags:
+  - Kauza
+  - OKD
+  - ČEZ
+  - Lukáš-Černohorský
+  - Vyšetřovací-komise
 ---
 
 V úterý proběhla první schůze vyšetřovací komise ke kauze OKD. Její vznik iniciovali Piráti na konci loňského roku, předsedou komise je pirátský poslanec Lukáš Černohorský z Ostravy. Komise si už vyžádala dokumenty od Ministerstva financí ČR, Úřadu vlády ČR i od Bezpečnostní informační služby a nyní čeká na jejich dodání příslušnými institucemi. Další setkání vyšetřovací komise proběhne 1. března. 
@@ -16,7 +21,5 @@ V úterý proběhla první schůze vyšetřovací komise ke kauze OKD. Její vzn
 V souvislosti s financováním dostavby 5. reaktoru Jaderné elektrárny Dukovany se hovoří o rozdělení a částečné privatizaci ČEZu. 
 
 > „To je přesně situace, kdy si stát musí dát velký pozor. Věřím, že závěry vyšetřovací komise k OKD by mohly být i v tomto důležitým vodítkem,“ doplňuje Černohorský další pozitivní aspekt zřízení vyšetřovací komise. 
-
-
 
 - - -

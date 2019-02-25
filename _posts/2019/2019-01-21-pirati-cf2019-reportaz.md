@@ -8,7 +8,7 @@ image: posts/cf2019.jpg
 tags:
   - CF2019
   - Tábor
-  - Kolaja
+  - Marcel-Kolaja
 ---
 
 Tábor, 19. ledna 2019 - **Uplynulý víkend patřil každoročnímu setkání Pirátů. Celostátní fórum je nejvyšší stranický orgán, který hlasuje o vedení strany nebo kandidátních listinách. Protože volba vedení proběhla před rokem, volili letos účastníci čelo kandidátky pro volby do Evropského parlamentu. Ty proběhnou 23. a 24. května. Přinášíme souhrn nejdůležitějších informací: výsledy hlasování, změny stanov a také pár fotek ilustrujících atmosféru letošního setkání.**

@@ -6,7 +6,11 @@ date: 2018-01-24T07:27:43.824Z
 author: Jan Nezhyba
 authorId: jan.nezhyba
 image: ostrava-ovzdusi.jpg
-tags: 'životní prostředí msk zpráva'
+tags:
+  - Ekologie
+  - Ovzduší
+  - Jan-Nezhyba
+  - Ministerstvo-životního-prostředí
 ---
 
 Piráti komentují zprávu ministerstva ke stavu životního prostředí. To je ale se stavem spokojeno. 
@@ -20,7 +24,6 @@ Piráti komentují zprávu ministerstva ke stavu životního prostředí. To je 
 - Problémem je také znečištění vod, u některých toků dosahuje až 4. stupně, tedy silného znečištění. Dva průmyslové závody vypustily do vody **téměř 2 tuny kyanidu!**
 
 - Uspokojivá není ani produkce průmyslových odpadů. 18 provozovatelů vyprodukovalo odpad obsahující celkem 3,7 tuny arsenu. Téměř polovinu nebezpečného odpadu dokonce následně recyklovalo. Nebezpečné látky se tak vracejí zpátky do prostředí například podivnými rekultivacemi, namísto toho aby byly likvidovány. Likvidace je totiž pro podniky nákladnější.
-
 
 Ministerstvo životního prostředí přesto situaci hodnotí pozitivně, můžeme prý údajně být rádi, že se stav v době prosperujícího průmyslu ještě nezhoršil. Piráti v Moravskoslezském kraji si to ale rozhodně nemyslí. Situaci považujeme i nadále za kritickou.
 
@@ -37,6 +40,5 @@ Jedinou pozitivní zprávou je, že **produkce směsných komunálních odpadů 
 **„Podle Pirátů by bylo namístě takovéto zprávy pro politiky i občany interpretovat i v souvislostech, které jinak neznalému čtenáři „úspěšně&quot; unikají, abychom nenabývali mylného dojmu, že vše je v naprostém pořádku. Naopak náš kraj čeká obří strastiplná a dlouhá cesta ke zlepšení všech složek životního prostředí, které byly průmyslovou a lidskou činností doposud zdárně devastovány. Účelem tohoto hodnocení není lidi vyděsit, ale probudit v nich patřičný zájem o svůj život a prostředí, v němž žijeme a společně všichni sdílíme.&quot;** shrnuje pirátský Garant programového bodu životní prostředí Jan Nezhyba.
 
 Zde najdete úplnou verzi <a href="{{'/assets/pdf/Final_Zprava_o_ZP_MSK_9_1_2018.pdf' | relative_url }}">Stínové pirátské zprávy</a> a také podrobné <a href="{{'/assets/pdf/IRZ_Tabulky_vyhodnoceni-2016-MSK.pdf' | relative_url }}">tabulky TOP znečišťovatelů a vybraných skupin látek v MSK</a> dle hlášení v IRZ za rok 2016.
-
 
 - - -

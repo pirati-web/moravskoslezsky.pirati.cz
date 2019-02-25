@@ -6,7 +6,10 @@ date: 2018-04-11T14:27:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: piratecon.jpg
-tags: 'piratecon'
+tags:
+  - Ekologie
+  - PirateCon
+  - Toxic-Tour
 ---
 
 **Dozvíš se ve videích z PirateConu k životnímu prostředí**
@@ -18,6 +21,5 @@ Nemohl jsi tam být? Nevadí! Piráti celou akci natáčeli, sestříhali a teď
 [Máte jen 5 minut? Podívejte se na upoutávku!](https://youtu.be/4tyiBvadxPc)
 
 [Prezentace a videa k přednáškám](http://pirati-msk.cz/piratecon)
-
 
 ---

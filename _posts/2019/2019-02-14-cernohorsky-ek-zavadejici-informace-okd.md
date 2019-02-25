@@ -7,7 +7,7 @@ author: Mediální odbor
 image: posts/cernohorsky-komisarka.jpg
 tags:
   - OKD
-  - Černohorský
+  - Lukáš-Černohorský
   - Kauza
   - Karbon-Invest
   - Moravskoslezský-kraj

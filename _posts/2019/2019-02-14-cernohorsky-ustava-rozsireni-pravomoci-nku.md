@@ -7,7 +7,7 @@ author: Lukáš Černohorský
 authorId: lukas.cernohorsky
 image: posts/cernohorsky2.jpg
 tags:
-  - Černohorský
+  - Lukáš-Černohorský
   - NKÚ
   - Ústava
 ---

@@ -6,11 +6,13 @@ date: 2018-03-06T14:28:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: horejsi.jpg
-tags: 'rozhovor Hořejší Piráti bariéry komunálky'
+tags:
+  - Rozhovor
+  - Jaroslav-Hořejší
 ---
 
-ROZHOVOR s Jaroslavem Hořejším:  
-Jaroslav Hořejší je neuvěřitelně akční muž. Pracuje jako programátor, k tomu si dokončuje doktorát na Vysoké Škole Báňské – Technická Univerzita Ostrava, kde tvoří metodiku používání hardwarových i softwarových nástrojů pro lidi s postižením. Baví ho jazyky. Umí jich už celou škálu. Angličtinu, němčinu, italštinu, teď koketuje s ruštinou a španělštinou. Teď chce za Piráty na radnici!**
+ROZHOVOR s Jaroslavem Hořejším:
+Jaroslav Hořejší je neuvěřitelně akční muž. Pracuje jako programátor, k tomu si dokončuje doktorát na Vysoké Škole Báňské – Technická Univerzita Ostrava, kde tvoří metodiku používání hardwarových i softwarových nástrojů pro lidi s postižením. Baví ho jazyky. Umí jich už celou škálu. Angličtinu, němčinu, italštinu, teď koketuje s ruštinou a španělštinou. Teď chce za Piráty na radnici!
 
 **Jarku, jak to všechno zvládáš ty a tvá rodina. Nejen teď, ale po celou dobu? Školu, práci, studium jazyků, politiku? Máš pocit, že tě tvůj handicap vůbec nějak omezuje? Vypadá to, že toho zvládáš víc, než si dokáže představit spousta lidí bez handicapu.**
 

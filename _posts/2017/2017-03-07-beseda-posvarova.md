@@ -6,13 +6,16 @@ date: 2017-03-07T08:59:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: posvarova2.jpg
-tags: 'beseda doprava kontrolní činnost Pošvářová'
+tags:
+  - Beseda
+  - Doprava
+  - Miloslava-Pošvářová
+  - David-Witosz
 ---
 
 V pondělí 6.3.2017 proběhla ve Staré aréně v Ostravě beseda „Důvěřuj, ale prověřuj“ o kontrolní činnosti ve výstavbě s Ing. Miloslavou Pošvářovou, Ph.D. Tématem byla kvalita, či spíše nekvalita dopravních staveb v ČR.
 
 Beseda se uskutečnila za podpory České pirátské strany v Ostravě a Ing. Miloslavy Pošvářové, Ph.D., která je známá především jako supervizorka kvality dopravních staveb, někdejší ředitelka úseku kontroly kvality staveb Ředitelství silnic a dálnic, držitelka ceny Františka Kriegla za občanskou statečnost udělovanou Nadací Charty 77, soudní znalkyně z kauzy havárie mostu ve Studénce z roku 2008, autorkou několika odborných publikací, předpisů a českých norem.
-
 
 Hlavním tématem besedy byly problémy, které se nejčastěji opakují u většiny dopravních projektů v ČR a investor, ať už jde o státní nebo soukromý sektor, se k tomu staví nedostatečné nebo dokonce laxně. Toto jednání nakonec vede k neúměrnému navyšování ceny a hlavně k ohrožení bezpečnosti lidí, kteří tyto komunikace využívají.
 
