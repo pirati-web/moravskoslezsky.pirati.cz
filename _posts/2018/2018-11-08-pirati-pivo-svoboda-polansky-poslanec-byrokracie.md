@@ -7,12 +7,11 @@ author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
 image: posts/polansky-holomcik-pivo.jpeg
 tags:
-  - pivo
-  - byrokracie
-  - poslanec
-  - polanský
-  - piráti
-  - svoboda
+  - Zákon
+  - Pivo
+  - Byrokracie
+  - Ondřej-Polanský
+  - Radek-Holomčík
 ---
 
 **Ostrava 8. listopadu 2018** – Domácí nekomerční výrobu piva, tzv. domovarnictví, v současnosti zatěžuje příliš bujná byrokracie i přísné limity. Pirátští poslanci Ondřej Polanský a Radek Holomčík proto připravili novelu zákona o spotřební dani, která tyto podle nich nesmyslné překážky odstraní. Poslanci v rámci parlamentního semináře představí svůj návrh a vysvětlí význam a tradici domovarnictví.
@@ -37,4 +36,5 @@ Pirátští poslanci chtějí odstranit povinnost hlásit se na celním úřadě
 podotkl poslanec a druhý místopředseda Pirátů Radek Holomčík.
 
 Radek Holomčík a Ondřej Polanský představili novelu zákona a vysvětlili význam a tradici domovarnictví v rámci parlamentního semináře. Ten proběhl ve čtvrtek 8. listopadu 2018 od 14:00 v Poslanecké sněmovně PČR.
+
 - - -

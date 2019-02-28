@@ -6,7 +6,14 @@ date: 2018-08-07T12:49:23.824Z
 author: Veronika Murzynová
 authorId: veronika.murzynova
 image: tk-ostrava.jpg
-tags: 'volby ostrava'
+tags:
+  - Ostrava
+  - Volby
+  - David-Witosz
+  - Pavlína-Nováčková
+  - Andrea-Hoffmannová
+  - Rostislav-Řeha
+  - Martin-Tomášek
 ---
 
 Ostrava, 7.8. 2018 - Piráti představili své lídry do komunálních voleb v Ostravě. Kandidátky staví na “velkou radnici” i tři městské obvody: Jih, Porubu a Moravskou Ostravu a Přívoz. Všechny programové body pirátů pro Ostravu mají dva společné jmenovatele: důraz na transparentnost a rozvoj města jako centra milionové aglomerace.
@@ -26,3 +33,4 @@ Na tiskové konferenci se představil také nezávislý kandidát do senátu za 
 
 V Ostravě odevzdalo kandidátní listiny celkem 15 politických stran a uskupení. Piráti v souladu se svou celostátní povolební strategií budou o případné povolební koalici jednat se všemi stranami, které dodržují demokratické principy, a které nejsou spojeny s korupčními skandály.
 
+- - -

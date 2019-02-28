@@ -21,3 +21,4 @@ Potvrzenými hosty debaty jsou: Jakub Unucka (ODS), Ivo Vondrák (ANO), Petr Jan
 Koná se v divadle Komorní scéna Aréna v rámci diskuzního cyklu Fiducia v Aréně.
 
 - - -
+

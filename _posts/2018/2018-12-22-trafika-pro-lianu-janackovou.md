@@ -7,14 +7,11 @@ author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
 image: posts/tichy-daniel.jpg
 tags:
-  - tisková zpráva
-  - piráti
-  - mariánské hory
-  - liana Janáčková
-  - patrik hujdus
-  - trafika
-  - starostka
-  - daniel tichý
+  - Mariánské-Hory
+  - Korupce
+  - Liana-Janáčková
+  - Patrik-Hujdus
+  - Daniel-Tichý
 ---
  
 Ostrava, 22. prosince 2018 - **Na radnici obvodu Mariánské Hory a Hulváky je rušno i těsně před Vánoci. Poprask způsobilo rozhodnutí koalice, která uvolnila paní Janáčkovou a zvolila ji na post předsedkyně nově vytvořené komise pro strategický rozvoj a investice. Trafika pro bývalou starostku stojí městský obvod 1 milion korun ročně. Pro malý obvod jde o velké náklady.**
@@ -33,4 +30,4 @@ Paní Janáčková sice vystudovala architekturu, architektuře se ovšem již 3
 Daniel Tichý, Pirát a obyvatel městského obvodu k tomu dodává:
 >„Situaci kolem paní Janáčkové sleduji už dlouho. Paní Janáčková skončila po 28 letech v radě a místo toho, aby se městský obvod posunul dál, jsme uzavřeni v kruhu devadesátých let. Vládnoucí koalice má pouze 8 z 15 zastupitelů, kde Nezávislí mají pouze 4. Situace mi proto přijde o to víc absurdní, že se nenašel jediný koaliční partner, který by se proti trafice postavil. Celá situace dokazuje, že neoficiální starostkou zůstává i nadále paní Janáčková a pan Hujdus s ostatními ji jdou na ruku. Zisk vedoucí pozice v komisi její vliv jen potvrzuje.”
 
----
+- - -

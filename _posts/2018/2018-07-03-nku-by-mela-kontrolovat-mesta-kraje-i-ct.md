@@ -6,7 +6,11 @@ date: 2018-07-03T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: NKU.jpg
-tags: 'korupce'
+tags:
+  - NKÚ
+  - Zákon
+  - Korupce
+  - Lukáš-Černohorský
 ---
 
 
@@ -27,3 +31,5 @@ Piráti svým návrhem navazují na někdejšího ministra Sobotkovy vlády Jiř
 doplňuje Černohorský.
 
 Existence NKÚ je zakotvena v Ústavě ČR a jeho činnost a pravomoci upravuje zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu. NKÚ plní svou funkci samostatně a je nezávislý jak na moci zákonodárné, tak na moci výkonné i soudní. Nezávislé postavení brání v maximální možné míře tomu, aby činnost NKÚ ovlivňovaly politické vlivy. Členy NKÚ volí na návrh prezidenta NKÚ Poslanecká sněmovna Parlamentu ČR a jejich funkční období trvá nepřetržitě do dosažení šedesáti pěti let věku. Institucionální nezávislost NKÚ je ve vztahu k členům Kolegia podtržena zvláštním institutem kárného řízení, které probíhá před Kárnou komorou NKÚ. Členy této komory jsou prezident NKÚ a dva soudci Nejvyššího soudu.
+
+- - -

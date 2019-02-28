@@ -7,13 +7,15 @@ author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
 image: posts/opava_dum.jpeg
 tags:
-  - opava
-  - fotbal
-  - bydlení
-  - hospodaření
+  - Opava
+  - Kauza
+  - Korupce
+  - Fotbal
+  - Bydlení
+  - Hana-Brňáková
 ---
 
-26.10.2018, Opava: Pirátští zastupitelé chtějí v rámci nově vzniklé koalice v Opavě zvrátit prodej většinového podílu fotbalového klubu Slezský FC v hodnotě 50 milionů korun. Město ho chtělo prodat dubajské společnosti **Group Privee & Cie Limited**. Svolalo kvůli tomu mimořádné zastupitelstvo  jen den před volbami, na což upozornili nejen opavští Piráti, ale i Transparency International. Podobně se novopečení pirátští zastupitelé v Opavě postaví také za obyvatele městského bytového domu na Horním náměstí. Ty chtělo původní vedení města vystěhovat a bytové domy zbourat nebo celkově zrekonstruovat pro *„lukrativní nájemce,“* byť již byla zpracovaná projektová dokumentace na výměnu oken a zateplení.
+Opava, 26. 10. 2018 - Pirátští zastupitelé chtějí v rámci nově vzniklé koalice v Opavě zvrátit prodej většinového podílu fotbalového klubu Slezský FC v hodnotě 50 milionů korun. Město ho chtělo prodat dubajské společnosti **Group Privee & Cie Limited**. Svolalo kvůli tomu mimořádné zastupitelstvo  jen den před volbami, na což upozornili nejen opavští Piráti, ale i Transparency International. Podobně se novopečení pirátští zastupitelé v Opavě postaví také za obyvatele městského bytového domu na Horním náměstí. Ty chtělo původní vedení města vystěhovat a bytové domy zbourat nebo celkově zrekonstruovat pro *„lukrativní nájemce,“* byť již byla zpracovaná projektová dokumentace na výměnu oken a zateplení.
 
 <hr>
 
@@ -30,4 +32,5 @@ Bohužel zásady dobré správy nevyhrály a bývalé zastupitelstvo rizikový p
 Podle Hany Brňákové (Piráti & Opavané) je nutné znovu zhodnotit všechny rozběhlé projekty. Situace kolem rekonstrukce bytového domu se vyvíjela více než podivně. Nájemníkům byla slíbena výměna oken a zateplení,obdobně jak tomu bylo u dalších bytových domů na Horním náměstí a následně na ulici Mezi trhy. Byla zpracována kompletní projektová dokumentace, financování mělo běžet s dotační podporou. Náhle došlo k zvratu investičního záměru, kdy se tuto skutečnost nájemníci dozvěděli prostřednictvím místního tisku prostřednictvím  informace interpretované  jako výstup z oficiální  tiskové konference vedení města. Obyvatelé domu se marně dožadovali seriózního vysvětlení ze strany vedení města.Tím celá záležitost více a více eskalovala. V konečném důsledku Radnice nabídla současným nájemníkům přestěhování, nicméně kapacita volných městských bytů pro všechny stávající nájemníky je nedostatečná.
 
 Celá přestavba byla kontroverzní také z hlediska zpracování návrhu pro realizaci nenadálé investiční akce. Byl vybrán starý návrh, který se v soutěži umístil jako druhý. Jeho autorem je údajně architektonická kancelář manželky stávajícího hlavního architekta města. Nicméně skončilo volební období, nastává zima a obyvatelé dále bydlí v domě bez zateplení a s okny, kterými silně profukuje a nejdou pořádně otevřít, či zavřít. *„Je třeba zajistit výměnu oken a zateplení bytového domu na Horním náměstí, a zajistit tak obyvatelům důstojné podmínky k bydlení. Stav oken a rozsah plísní tvořících se na zdech bytů, lze považovat za havarijní, byť současně došlo k renovaci sklepních prostor vč. podlah a elektrických rozvodů, k opravě výtahů a výmalbě chodeb. Naše představa o péči řádného hospodáře a nakládání s obecním majetkem, včetně způsobu komunikace s občany  je jiná“* upřesnila Hana Brňáková postoj Pirátů.
+
 - - -

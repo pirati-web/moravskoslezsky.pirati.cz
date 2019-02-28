@@ -6,7 +6,11 @@ date: 2018-07-31T12:49:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: cernohorsky2.jpg
-tags: 'vláda NKÚ'
+tags:
+  - NKÚ
+  - Korupce
+  - Zákon
+  - Lukáš-Černohorský
 ---
 
 Vláda dnes dala souhlasné stanovisko pirátskému návrhu zákona na posílení pravomocí Nejvyššího kontrolního úřadu. Novelu připravil Pirát Lukáš Černohorský, který je místopředsedou Kontrolního výboru Sněmovny. Pokud by byla novela zákona schválena, Nejvyšší kontrolní úřad by v budoucnu mohl kontrolovat hospodaření statutárních měst, krajů i veřejnoprávních médií. 
@@ -22,3 +26,5 @@ V současnosti může NKÚ dohlížet pouze na to, jak hospodaří stát. Kontro
 Piráti svým návrhem navazují na někdejšího ministra Sobotkovy vlády Jiřího Dientsbiera, který už podobný zákon před dvěma lety předložil. Zákon tehdy sice prošel Sněmovnou, Senát jej ale zamítl. Podruhé se už zákon schválit nestihl, protože legislativní proces přerušily volby.
 
 > „Oproti původnímu návrhu chceme předložit rozumný kompromis a vyjmout z kontrolovaných subjektů obce. Pro ně může kontrola NKÚ znamenat velkou administrativní zátěž. Statutární města by ale měla být schopna během kontroly zajistit chod úřadu bez problémů. Financování veřejnoprávních médií bylo v minulosti hodně diskutováno a myslím, že občané chtějí mít jistotu, že se s jejich příspěvky hospodaří zodpovědně,“ doplňuje Černohorský.
+
+- - -

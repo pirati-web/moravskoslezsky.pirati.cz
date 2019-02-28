@@ -7,10 +7,9 @@ author: Ondřej Polanský
 authorId: ondrej.polansky    # uid nekoho z _people
 image: posts/polansky.jpg
 tags:
-  - doprava
-  - ondrejpolansky
-  - snemovna
-  - zakon
+  - Doprava
+  - Zákon
+  - Ondřej-Polanský
 ---
 
 Předposlední červnový den prošel sněmovnou zákon, který podle odhadů o pět let urychlí výstavbu dopravní infrastruktury, tedy především silnic a železnic. Jde o zákon, na kterém jsem intenzivně pracoval od prosince loňského roku, a na kterém jsem se vlastně legislativní proces ve sněmovně učil. Šlo o sedm měsíců docela tvrdé práce a vyjednávání, které doufám skončilo tak, že se za něj nemusím stydět.

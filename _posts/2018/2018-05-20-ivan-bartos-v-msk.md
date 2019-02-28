@@ -6,7 +6,11 @@ date: 2018-05-20T15:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: Opava_s Harmonikou.jpg
-tags: 'bartoš kampaň karviná ostrava opava'
+tags:
+  - Ivan-Bartoš
+  - Karviná
+  - Opava
+  - Ostrava 
 ---
 
 Že je mimořádně multifunkční muž dokázal Ivan Bartoš během víkendové tour Moravskoslezským krajem. Zatímco ostatní politici promlouvají k občanům na náměstích, severomoravští Piráti zahájili komunální kampaň originálně. Ani šestihodinová cesta autem z Prahy po nechvalně známé D1 předsedu Pirátů neodradila od návštěvy východního cípu republiky, který rozhodně nepatří k pirátským baštám.  Zatím.
@@ -29,3 +33,4 @@ Uvolněná nálada i hra na harmoniku pokračovala také odpoledne v Opavě. Pir
 
 Ivanova tour přilákala několik stovek lidí a probíhala v neformálním duchu. “Věřím, že úspěch z parlamentních voleb proměníme i na komunální úrovni, začneme otevírat radnice a proměňovat města,” dodává Ivan Bartoš, který spanilou jízdu pokračuje v neděli zahájením pražské kampaně.
 
+- - -

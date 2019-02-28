@@ -29,6 +29,10 @@ Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspo�
 
 Pod obrázek můžete přidat popisek, ale musí být od obrázku oddělen mezerou.
 
+Vložení odkazu na lokální soubor:
+
+[Text odkazu]({{'jmeno-soubor.pdf' | prepend: '/assets/pdf/' | relative_url}} "Text který se objeví po najetí na odkaz")
+
 # Nadpis H1
 
 ## Nadpis H2
@@ -58,7 +62,7 @@ Všechny následující příklady seznamu jsou ekvivalentní:
 
 + A zase seznam
 
-[Toto je text odkazu](https://www.pirati.cz "Alternativní text")
+[Toto je text odkazu](https://www.pirati.cz "Text který se objeví po najetí na odkaz")
 
 Jednoduchá tabulka:
 

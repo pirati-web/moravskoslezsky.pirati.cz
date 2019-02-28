@@ -21,3 +21,4 @@ Jan Nezhyba již léta bojuje za zlepšení životního prostředí. Založil o.
 Beseda bude rozdělena na dvě části. První část bude věnována přehledu hlavních problémů životního prostředí na Ostravsku. V druhé části se budeme věnovat tomu, jak se velmi podobné situace řeší v zahraničí. Následná diskuze bude zaměřena především na možnosti, jak tato opatření aplikovat v našich podmínkách.
 
 - - -
+

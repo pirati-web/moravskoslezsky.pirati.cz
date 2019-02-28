@@ -7,11 +7,11 @@ author: 'Karolína Sadílková'
 authorId: karolina.sadilkova 
 image: posts/michalek-polansky.jpg
 tags:
-  - doprava
-  - billboard
-  - dálnice
-  - ťok
-  - žaloba
+  - Doprava
+  - D1
+  - Jakub-Michálek
+  - Ondřej-Polanský
+  - Dan-Ťok
 ---
 
 Praha, 25. října 2018 – Piráti zpracovali komplexní přehled nelegálních billboardů na dálnici D1 mezi Prahou a Brnem a vyzývají Ministerstvo dopravy ČR k podání žaloby pro nedovolené obohacení. Experti strany dokonce identifikovali případy, kdy byly instalovány zcela nové nelegální billboardy v době, kdy to zákon již zakazoval. Nelegální plochy využívaly v letošní předvolební kampani i některé politické strany. 
@@ -29,3 +29,5 @@ Poslanec a místopředseda Podvýboru pro dopravu Pirátů Ondřej Polanský adr
 Nelegální billboardy nejenom velice pomalu mizí z českých dálnic, ale dokonce jsou i nově instalovány. „K instalaci nových reklamních zařízení na nové mosty, které byly postaveny v rámci modernizace dálnice D1, došlo například na mostě s kódovým označením D1-039 u obce Ostředek (rok 2016) či na mostě v úseku dálnice Loket-Hořice. Při tomto namontování reklamních bannerů došlo k navrtání tělesa nového mostu a umístění kotev, čímž pravděpodobně došlo k poškození mostu. Pravidla jsou jasná a srozumitelná, nicméně přesto se někteří  provozovatelé snaží tento zákon obcházet různými kličkami. Ministerstvo dopravy se musí probudit z nečinnosti a proti této billboardové svévoli zakročit. Místo toho s provozovateli nelegálních billboardů organizuje společné tiskové konference v přátelské atmosféře,“ komentuje situaci pirátský poslanec Polanský.
 
 [Konkrétní příklady nelegálních billboardů.](https://www.pirati.cz/assets/pdf/billboardy-d1.pdf)
+
+- - -

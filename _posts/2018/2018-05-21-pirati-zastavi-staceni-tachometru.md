@@ -6,9 +6,12 @@ date: 2018-05-21T16:11:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: polansky1.jpg
-tags: 'doprava'
+tags:
+  - Doprava
+  - Car-Pass
+  - Ondřej-Polanský
+  - Miloš-Zmeškal
 ---
-
 
 Piráti chtějí konečně vyřešit vleklé problémy se stáčením tachometrů.  V pátek 18. května 2018 představili odborníkům z praxe svůj návrh řešení, který je založen na osvědčeném belgickém systému Car-Pass. Piráti tedy nechtějí jít cestou represivních opatření ve smyslu trestnosti stáčení tachometrů, ale cestou zveřejňování garantovaných informací o vozidlech, na které se kupující budou moci skutečně spolehnout. Dopravní tým Pirátů uspořádal kulatý stůl z iniciativy pirátského místopředsedy podvýboru pro dopravu Ondřeje Polanského. Všichni zúčastnění se shodli na tom, že je potřeba situaci s nekalými obchodními praktikami při prodeji ojetin začít systémově řešit. Novátorským prvkem po technologické stránce by mohla být technologie Blockchain, která díky decentralizované povaze systému zaručuje vysokou míru ochrany dat. 
 
@@ -22,4 +25,4 @@ Car-Pass je certifikát, který obsahuje záznamy o historii tachometru (odborn�
 
 Debaty u kulatého stolu organizované Piráty se zúčastnil europoslanec Tomáš Zdechovský, který se problematikou zabývá již několik let, dále zástupci Ministerstva dopravy ČR, Asociace obchodu s ojetými automobily, Asociace prodejců použitých automobilů, AAA Auto, Cebia a Iris Ident. Další krok bude spočívat v hledání podpory navrhovaného řešení u ostatních poslaneckých klubů, ale také v senátu. Spolu s europoslancem Zdechovským plánují Piráti uspořádat seminář na půdě sněmovny, na kterém by Michel Peelman, výkonný ředitel Car-Pass Belgium, představil celý systém, princip jeho fungování a odpověděl i na otázky týkající se věrohodnosti vkládaných dat a odpovědnosti za ně. 
 
-
+- - -

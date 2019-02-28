@@ -7,15 +7,12 @@ author: Lukáš Černohorský
 authorId: lukas.cernohorsky    # uid nekoho z _people
 image: posts/cernohorsky.jpg
 tags:
-  - rpg
-  - okd
-  - privatizace
-  - piráti
-  - lukáš černohorský
-  - residomo
-  - sněmovna
-  - kauza
-  - byty
+  - Kauza
+  - OKD
+  - RPG
+  - Bydlení
+  - Privatizace
+  - Lukáš-Černohorský
 ---
  
 Praha, 20. prosince 2018 – **Stát měl do konce roku 2018 velkou šanci pokusit se získat zpět své byty. Bohužel se ale rozhodl šanci nevyužít. Podle šéfa vyšetřovací komise Piráta Lukáše Černohorského komise shromáždila dostatek podkladů, které potvrzují, že byly byty v roce 1990 ze státního majetku do společnosti OKD a.s. převedeny v rozporu s předpisy. Podle právních analýz, které si komise nechala zpracovat, mohl být tedy převod majetku neplatný. Komise tedy požádala Úřad pro zastupování státu ve věcech majetkových i Ministerstvo financí ČR, aby podalo určovací žalobu ještě do konce roku, kdy by byla její naděje na úspěch výrazně vyšší. V případě úspěšné žaloby by byty připadly státu. Obě instituce ale podat žalobu odmítly.**
@@ -30,4 +27,4 @@ Vyšetřovací komise na svém dnešním zasedání vyslechla další dva svědk
 
 Komise bude dál shromažďovat důkazy a svědectví, závěrečná zpráva bude podána do 12. dubna 2019.
 
----
+- - -

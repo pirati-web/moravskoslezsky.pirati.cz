@@ -7,10 +7,8 @@ author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
 image: posts/volebni-urna.jpg
 tags:
-  - volby
-  - volby2018
-  - komunál
-  - výsledky
+  - Volby
+  - Otevřená-radnice
 ---
 
 Piráti považují výsledky komunálních voleb v moravskoslezském kraji za úspěch. Uspěli jsme v 17 ze 17 měst a obcí, kde jsme stavěli kandidátky. Celkem získali Piráti v kraji 49 mandátů. Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5% a šesti mandáty.

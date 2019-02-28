@@ -6,7 +6,10 @@ date: 2018-07-30T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: cernohorsky.jpg
-tags: 'kauzy okd'
+tags:
+  - OKD
+  - Kauza
+  - Lukáš-Černohorský
 ---
 
 Vyšetřovací komise k OKD vedená Pirátem Lukášem Černohorským měla minulý týden na pilno, přestože běží parlamentní prázdniny. Během uplynulého týdne komise vyslechla 15 svědků z 27. Nechyběli Bohuslav Sobotka, Vladimír Špidla nebo Milan Urban, kteří v klíčovém období zastávali vládní posty. Hlavní akcionář OKD Zdeněk Bakala se nedostavil. Vymluvil se na to, že mu nebylo předvolání doručeno do datové schránky. Bude tedy pozván znovu během srpna a září, stejně jako zbylých 11 svědků. Hlavním smyslem vyšetřování je identifikovat díry v zákonech a zamezit podobným fatálním chybám při prodeji státního majetku do budoucna.
@@ -20,3 +23,5 @@ Hlavní aktér celé kauzy, kontroverzní miliardář Zdeněk Bakala, se před k
 > „Nenecháme se snadno odbýt a Zdeňka Bakalu předvoláme znovu. Vyšetřovací komise samozřejmě nedisponuje osobními údaji ani adresami svědků. Jejich seznam jsme pouze předali Ministerstvu vnitra ČR, které pověřené osobě poskytlo adresy, kde by se uvedené osoby měly zdržovat. Že je Zdeněk Bakala ve Švýcarsku víme, ale nedisponujeme detektivním týmem, pouze adresou z registru. Pozvánku mu nyní odešleme dle jeho přání znovu datovou schránkou,“ dodává Černohorský.
 
 Zbylých 12 svědků komise vyslechne během srpna a září. Ze svědků dosud odmítli vypovídat pouze dva s odvoláním na advokátní tajemství.
+
+- - -

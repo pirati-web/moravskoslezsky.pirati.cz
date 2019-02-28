@@ -7,14 +7,12 @@ author: Ondřej Polanský
 authorId: ondrej.polansky    # uid nekoho z _people
 image: posts/polansky.jpg
 tags:
-  - d1
-  - ťok
-  - kalamita
-  - řsd
-  - ondřej polanský
-  - geosan group
-  - sněmovna
-  - doprava
+  - Doprava
+  - D1
+  - ŘSD
+  - Geosan-Group
+  - Ondřej-Polanský
+  - Dan-Ťok
 ---
  
 Praha, 20. prosince 2018 – **Pirátský poslanec Ondřej Polanský bude dnes odpoledne interpelovat ministra dopravy Dana Ťoka ohledně dopravního kolapsu na D1 a zajištění pokračování stavby na dálnici. Reaguje tak na situaci na opravovaném úseku dálnice D1 mezi Humpolcem a Větrným Jeníkovem, kde vznikají od 12. prosince z důvodu zpoždění stavebních prací a očekávatelných zhoršených klimatických podmínek několikahodinové kolony.**
@@ -31,4 +29,4 @@ Polanského budou zajímat odpovědi na tyto otázky:
 
 3. Existovaly ve smlouvě s Geosan Group kontrolní dny a jak bylo řešeno neplnění dílčích termínů?
 
----
+- - -

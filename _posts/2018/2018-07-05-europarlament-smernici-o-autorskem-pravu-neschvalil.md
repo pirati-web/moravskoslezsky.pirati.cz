@@ -6,9 +6,13 @@ date: 2018-07-05T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: europarlament.jpg
-tags: 'internet'
+tags:
+  - Internet
+  - Copyright
+  - Evropský-parlament
+  - Ivan-Bartoš
+  - Mikuláš-Peksa
 ---
-
 
 Praha, 5. července 2018 – Evropský parlament dnes odmítl přijmout zprávu ke směrnici o autorském právu na jednotném digitálním trhu. Aktivity Pirátů i veřejnosti, které se návrh omezující fungování vyhledávačů a filtrování obsahu nahraného uživateli nelíbí, přispěly ke změně postojů některých frakcí, jež přijetí směrnice podpořily ve Výboru pro právní záležitosti. Směrnice nyní může být dále upravována a Pirátské strany z celé Evropy doufají, že její podobu budou moci přímo ovlivnit po volbách do Evropského parlamentu v květnu 2019.
 
@@ -21,3 +25,5 @@ uvádí předseda Pirátů Ivan Bartoš.
 říká Pirát Mikuláš Peksa, místopředseda sněmovního Výboru pro evropské záležitosti.
 
 Piráti na problematickou směrnici upozorňovali dlouho. Německá europoslankyně za Piráty Julie Reda se problematikou autorských práv a svobody internetu zabývá již od zisku mandátu. Čeští Piráti spustili web [www.zachraninternet.cz](www.zachraninternet.cz), na němž návštěvníci najdou odkaz na znění směrnice a další informace.
+
+- - -
