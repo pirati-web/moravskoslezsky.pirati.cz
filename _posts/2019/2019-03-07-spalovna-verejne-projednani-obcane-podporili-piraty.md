@@ -16,7 +16,7 @@ tags:
  - Zuzana-Klusová 
 ---
 
-Ostrava, 7. 3. 2019 - **Ostravané další spalovnu nebezpečných odpadů nechtějí, proti je také vedení města, městské části Mariánské Hory nebo nedalekých Ludgeřovic. Jasně to zaznělo na včerejším veřejném projednávání záměru nadnárodní společnosti Suez. Za Piráty vyjádřil nesouhlas místostarosta Moravské Ostravy a Přívozu Rostislav Řeha. Bouřlivý potlesk sklidil Jan Nezhyba, pirátský garant pro životní prostředí, když svůj dotaz uvedl slovy „Proč nenaložit koňovi, který vydrží!“ Tak by se dal v zásadě shrnout hlavní problém. Dohromady by se totiž v Ostravě do budoucna spalovalo 45 000 tun nebezpečných odpadů. V jiných krajích mají přitom spalovny kapacitu okolo 4 000 tun. Zarážející je nepřítomnost zástupců Moravskoslezského kraje na jednání.**
+Ostrava, 7. března 2019 – **Ostravané další spalovnu nebezpečných odpadů nechtějí, proti je také vedení města, městské části Mariánské Hory nebo nedalekých Ludgeřovic. Jasně to zaznělo na včerejším veřejném projednávání záměru nadnárodní společnosti Suez. Za Piráty vyjádřil nesouhlas místostarosta Moravské Ostravy a Přívozu Rostislav Řeha. Bouřlivý potlesk sklidil Jan Nezhyba, pirátský garant pro životní prostředí, když svůj dotaz uvedl slovy „Proč nenaložit koňovi, který vydrží!“ Tak by se dal v zásadě shrnout hlavní problém. Dohromady by se totiž v Ostravě do budoucna spalovalo 45 000 tun nebezpečných odpadů. V jiných krajích mají přitom spalovny kapacitu okolo 4 000 tun. Zarážející je nepřítomnost zástupců Moravskoslezského kraje na jednání.**
 
 <hr />
 

@@ -16,7 +16,7 @@ tags:
   - Architektura
 ---
 
-Praha, 21. ledna 2019 - **Počátky fenoménu českých turistů na Jadranu zachycuje unikátní výstava, kterou se díky záštitě pirátských poslanců za Moravskoslezský kraj podařilo uspořádat přímo v atriu poslanecké sněmovny. Rodinná dovolená v Jugoslávii se stala důležitou příčkou na žebříku vedoucímu k naplnění socialistického snu. Obliba chorvatského pobřeží ale mezi Čechy zdaleka nezačala v socialismu a neskončila s jeho pádem. Chorvatsko je nejoblíbenější destinací Čechů i dnes, kdy se můžeme podívat kamkoliv na světě a ne jen tam, kam nás režim pustí. Jen málokdo ale ví, jak to všechno začalo a jak se na současné podobě chorvatského pobřeží podepsali čeští architekti.**
+Praha, 21. ledna 2019 – **Počátky fenoménu českých turistů na Jadranu zachycuje unikátní výstava, kterou se díky záštitě pirátských poslanců za Moravskoslezský kraj podařilo uspořádat přímo v atriu poslanecké sněmovny. Rodinná dovolená v Jugoslávii se stala důležitou příčkou na žebříku vedoucímu k naplnění socialistického snu. Obliba chorvatského pobřeží ale mezi Čechy zdaleka nezačala v socialismu a neskončila s jeho pádem. Chorvatsko je nejoblíbenější destinací Čechů i dnes, kdy se můžeme podívat kamkoliv na světě a ne jen tam, kam nás režim pustí. Jen málokdo ale ví, jak to všechno začalo a jak se na současné podobě chorvatského pobřeží podepsali čeští architekti.**
 
 <hr>
 
