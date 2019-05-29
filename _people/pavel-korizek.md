@@ -24,6 +24,7 @@ Vystudoval obor Informatika a výpočetní technika na Vysokém Učení Technick
 
 Mezi jeho koníčky patří vaření a střelba. 
 
-Je členem kontrolního výboru zastupitelstva města Opavy a Hradce nad Moravicí.
+Je členem zastupitelstva a rady statutárního města Opavy od roku 2018.
+Působí v kontrolním výboru zastupitelstva statutárního města Opavy od roku 2014.
 
 
