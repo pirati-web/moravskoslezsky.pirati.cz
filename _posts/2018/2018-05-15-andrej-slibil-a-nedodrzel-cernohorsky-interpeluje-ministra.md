@@ -9,6 +9,7 @@ image: tezebni-vez.JPG
 tags:
   - Kauza
   - OKD
+  - Důl-Frenštát
   - Ekologie
   - Lukáš-Černohorský
   - Tomáš-Hüner

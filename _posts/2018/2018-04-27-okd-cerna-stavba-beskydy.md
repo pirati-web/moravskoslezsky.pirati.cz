@@ -9,6 +9,7 @@ image: okd-beskydy.jpg
 tags:
   - Kauza
   - OKD
+  - Důl-Frenštát
   - Ekologie
   - Jan-Nezhyba
 ---

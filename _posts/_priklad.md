@@ -26,8 +26,9 @@ Mezi odstavci musí být vždy jeden prázdný řádek.
 Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku):
 
 ![Text který se objeví místo obrázku, pokud ten nelze zobrazit]({{'jmeno-obrazku.jpg' | prepend: '/assets/img/articles/cesta_k_obrazku/' | relative_url}} "Text který se objeví po najetí na obrázek")
-
-Pod obrázek můžete přidat popisek, ale musí být od obrázku oddělen mezerou.
+<p style="text-align: center">
+<i>Popis obrázku, vystředěný a italikou.</i>
+</p>
 
 Vložení odkazu na lokální soubor:
 
