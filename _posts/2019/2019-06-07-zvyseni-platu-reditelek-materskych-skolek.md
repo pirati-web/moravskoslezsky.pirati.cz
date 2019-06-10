@@ -7,13 +7,15 @@ author: Zuzana Klusová
 authorId: zuzana.klusova
 image: posts/skolky.jpg
 tags:
-  - školství
+  - Školství
   - Opava
-  - Hana Brňáková
-  - Gabriela Lacková
+  - Hana-Brňáková
+  - Gabriela-Lacková
 ---
 
 Opava, 7. června 2019 – **Ředitelkám mateřských škol v Opavě by mohla být od počátku nového školního roku přiznána 11. platová třída. Zvýšení mezd o jednu platovou třídu umožňuje školský zákon a řada měst už vedení školek vyšší odměny odsouhlasila.  Opava mezi ně zatím nepatří. To by se mělo ale brzy změnit. Pirátská náměstkyně pro oblast školství Hana Brňáková návrh předloží radě města už příští týden. Pokud ho vedení města odsouhlasí, přidáno dostanou už od září. “Ředitelkám mateřských škol, které odvádějí dobře svou práci a mají velkou zodpovědnost, by měla náležet všude stejná odměna. Pokud návrh projde a já věřím, že ano, Opava se připojí k městům jako je Ostrava, Brno, Praha nebo Pardubice,” komentuje Hana Brňáková. Prostředky na zvýšení mezd přitom nepůjdou z rozpočtu města, ale přispívá na ně Moravskoslezský kraj.**
+
+<hr />
 
 Zařazení ředitelek a ředitelů MŠ do vyšší platové třídy je už dlouho zavedeno ve středočeském kraji, ústeckém a v jihomoravském kraji dokonce už 11 let. O tom, jak náročnou prací je vedení mateřské školy, se pirátská náměstkyně osobně přesvědčuje při osobních návštěvách opavských mateřských škol. 
 

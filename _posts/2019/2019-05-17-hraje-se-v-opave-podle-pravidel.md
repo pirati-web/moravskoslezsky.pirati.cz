@@ -6,14 +6,15 @@ date: 2019-05-17T08:00:00.000Z
 author: Jana Ožanová
 image: posts/hc_slezan_tribuna.jpg
 tags:
-  - sport
+  - Sport
   - Opava
-  - HC Slezan Opava
-  - Hana Brňáková
-  - Pavel Beran
+  - Hana-Brňáková
+  - Pavel-Beran
 ---
 
 Opava, 17. května 2019 – **Hokej patří k nejpopulárnějším sportům v Česku. Těší se velké oblibě nejen v nejvyšších soutěžích, ale i na místní úrovni. A nejinak je tomu i v Opavě. Téma sportovních klubů se tady v poslední době skloňuje ve všech pádech. Nejsou to ale výsledky sportovců nebo kázeň fanoušků, co hýbe žlučí opavské veřejnosti a samosprávy a plní stránky místních plátků. Řeší se hlavně pozadí financování opavského hokeje, jeho současný i minulý management a role města jako vlastníka klubu. V této souvislosti se snesla kritika i na hlavu pirátské náměstkyně Hany Brňákové, které je přisuzována zodpovědnost za současný stav. V nedávném vyjádření opozičních zastupitelů Změny pro Opavu byla nejen ona, ale i ostatní zastupitelé - Piráti, nařčeni z mnoha tvrzení, které se nezakládají na pravdě. Oplácet stejnou mincí a plivat na opoziční stranu nebudeme. Nicméně aby byly věci uvedeny na pravou míru, je třeba zrekapitulovat si základní fakta celé kauzy, která tyto jedovatá nařčení vyvrací.**
+
+<hr />
 
 Jedním z principů, které Piráti v politice prosazují, je transparentnost a otevřená komunikace s veřejností. Když po volbách Hana Brňáková usedla na radnici a dostala jako náměstkyně primátora do vínku mimo jiné oblast sportu a konkrétně i opavský hokejový klub, začala se logicky o dění v něm zajímat. Ukázalo se, že to, že je město většinovým vlastníkem klubu, automaticky neznamená, že má přehled o jeho manažerském řízení a finančních tocích. Jednatelé informovali o neuhrazené faktuře ze strany generálního partnera společnosti OpavaNet a.s. za prokazatelné reklamní plnění ve výši 726 000 Kč. Když dva členové dozorčí rady zvolení v minulém volebním období téměř současně podali rezignaci, byla ustanovena nová dozorčí rada a situace se musela rychle řešit. Bezprostředně po ustanovení nových členů dozorčí rady začala šňůra jednání všech zúčastněných stran – vedení radnice, managementu klubu, stávajících i potenciálních parterů – za účelem narovnání poměrů v klubu a zlepšení jeho kondice. Podrobnější informace o činnosti nové dozorčí rady se dočtete v prohlášení jejího člena Pavla Berana, pro úplnost ho přikládáme za naše vyjádření.
 
