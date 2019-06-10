@@ -6,8 +6,9 @@ titles:
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
+- zast
 img: people/david-witosz.jpg   # 165 x 220
-description: předseda místního sdružení Piráti MOaP a garant programového bodu Doprava pro parlamentní volby 2017   	# kratký popis, max 160 znaků
+description: zastupitel města Ostravy a garant programového bodu Doprava pro parlamentní volby 2017   	# kratký popis, max 160 znaků
 mail:
 - david.witosz@pirati.cz
 

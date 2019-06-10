@@ -5,8 +5,9 @@ titles:
   before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- zast
 img: people/veronika_murzynova.jpg   # 165 x 220
-description: volební koordinátor pro Moravskoslezský kraj            	# kratký popis, max 160 znaků
+description: zastupitelka městského obvodu Ostrava-Poruba            	# kratký popis, max 160 znaků
 mail:
 - veronika.murzynova@pirati.cz
 mob:			  

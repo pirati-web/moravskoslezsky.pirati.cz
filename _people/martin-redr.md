@@ -5,9 +5,9 @@ titles:
   before: Mgr.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-
+- zast
 img: people/martin-redr.jpg   # 165 x 220
-description: místopředseda místního sdružení Karvinsko          	# kratký popis, max 160 znaků
+description: zastupitel města Havířov a místopředseda místního sdružení Karvinsko          	# kratký popis, max 160 znaků
 mail:
 - martin.redr@pirati.cz
 mob:			  

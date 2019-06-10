@@ -6,8 +6,9 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
+- zast
 img: people/rostislav-reha.jpg           # 165 x 220
-description: místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
+description: zastupitelka městského obvodu MOaP a místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
 mail:
 - rostislav.reha@pirati.cz
 profiles:

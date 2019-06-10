@@ -6,8 +6,9 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinator
+- zast
 img: people/jakub-dedek.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Moravskoslezský # kratký popis, max 160 znaků
+description: zastupitel městského obvodu Ostrava-Poruba a koordinátor dobrovolníků pro Moravskoslezský # kratký popis, max 160 znaků
 mail:
 - jakub.dedek@pirati.cz
 mob: +420 770 113 644
