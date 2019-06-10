@@ -1,26 +1,28 @@
 ---
 uid: jakub.dedek
-name:     Jakub Dedek      		# běžně používáné jméno
+name: Jakub Dedek
 titles:
-  before:
-  after:
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+  before: 
+  after: 
+category:
 - koordinator
+- kontaktni_osoba
 - zast
-img: people/jakub-dedek.jpg           # 165 x 220
-description: zastupitel městského obvodu Ostrava-Poruba a koordinátor dobrovolníků pro Moravskoslezský # kratký popis, max 160 znaků
-mail:
-- jakub.dedek@pirati.cz
+ordpak: 1
+img: people/jakub-dedek.jpg
+description: zastupitel městského obvodu Poruba, koordinátor dobrovolníků pro Moravskoslezský kraj
+mail: jakub.dedek@pirati.cz
 mob: +420 770 113 644
 profiles:
   github:
   facebook:				
   twitter:
   linkedin: 
-ordkoord: 1
 ---
 
-Jakub Dedek (* 21. dubna 1992) je členem Pirátské strany od začátku roku 2017. Jakub pochází z Ostravy, kde taky momentálně i působí.
+(* 21. dubna 1992)
+
+Jakub Dedek je členem Pirátské strany od začátku roku 2017. Jakub pochází z Ostravy, kde taky momentálně i působí.
 
 Do Pirátů se přidal, aby se podílel na změně politiky zespoda a pomáhal k vzestupu jedině slušně liberální straně v České republice. Věří, že do politiky by se mělo zapojit co nejvíce slušných a morálních lidí, aby už přestala být doménou prospěchářů. U Pirátů má každý jednotlivec stejnou možnost ovlivnit politiku. Každý hlas má stejnou váhu a o dalším vývoji nerozhoduje pár vyvolených, ale celá členská základna.
 
