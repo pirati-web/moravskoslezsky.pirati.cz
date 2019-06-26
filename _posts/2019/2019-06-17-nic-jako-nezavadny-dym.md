@@ -12,7 +12,7 @@ tags:
  - MOaP
  - Ekologie
  - Jan-Nezhyba
- - Zuzana-Klusova
+ - Zuzana-Klusová
  - Daniel-Galuszka
 ---
 
