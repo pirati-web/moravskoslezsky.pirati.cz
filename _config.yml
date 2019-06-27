@@ -12,7 +12,9 @@ url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your
 
 
 administrator:
-  email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
+  email: michal.breskovec@pirati.cz # mail kam pujdou chybove vystupy
+
+emptyArray: []
 
 organization:
   name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
@@ -21,19 +23,39 @@ organization:
   email: pavel.korizek@pirati.cz
   phone: +420 777 237 635
   address: |
-    Řehořova 943/19, 
-    130 00 Praha 3
+    Ostravské pirátské centrum (OPiCe)
+    Denisova 639/2
+    702 00 Moravská Ostrava a Přívoz  
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  mapLink: https://goo.gl/maps/dakQGzwQKng8ER9o7
   redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+contactSummaryItems:
+ - type: organizationEmail
+ - type: organizationPhone
+ - type: organizationRedmineLink
+ - type: organizationDataBox
+ - type: organizationTransparentAccount
+ - type: piratiRootWebsite
+   includeMoreLink: true
+ - type: custom
+   iconClass: fa fa-facebook
+   label: Facebook
+   body: <a href="https://www.facebook.com/cpsmsk">@cpsmsk</a>
+ - type: custom
+   iconClass: fa fa-twitter
+   label: Twitter
+   body: <a href="https://twitter.com/PiratiMSK">@PiratiMSK</a>
 
 video:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Krajský kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
+#  title: Krajský kalendář
+#  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+#  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -45,19 +67,16 @@ calendar:
 
 facebook:
   loadSDK: true
-  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/cpsmsk/ 
+  #vyplntě adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: "https://www.facebook.com/cpsmsk/"
   appId: 1526197851008996
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: PiratiMSK
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
@@ -134,6 +153,9 @@ defaults:   # defaults values for collection scope
       layout: "team"
       rbar: "team-summary, teams-toc"
 
+fb: https://www.facebook.com/cpsmsk
+tw: PiratiMSK
+
 assets:
   source_maps: true
   compression: true
@@ -150,7 +172,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.4.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
