@@ -6,7 +6,7 @@ date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
 author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
-tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou. Seznam již použitých tagů je zde: https://mrak.pirati.cz/f/45085
+tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou. Seznam již použitých tagů je zde: https://mrak.pirati.cz/s/aJM27bpD7QfDCwg
   - Město/obvod			#Ostrava-Jih
   - Programová oblast		#Transparence
   - Osoby			#Lukáš-Černohorský
@@ -23,7 +23,7 @@ Mezi odstavci musí být vždy jeden prázdný řádek.
 
 >„Přímá řeč se odděluje do vlastního odstavce, který je graficky odělen. Nezapomeňte správný, Český tvar úvozovek, tak jako jsou v této poznámce.”
 
-Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku):
+Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku). Nezapomeň zmínit autora a licenci pod kterou je obrázek zveřejněn - ukázku viz na konci šablony.
 
 ![Text který se objeví místo obrázku, pokud ten nelze zobrazit]({{'jmeno-obrazku.jpg' | prepend: '/assets/img/articles/cesta_k_obrazku/' | relative_url}} "Text který se objeví po najetí na obrázek")
 <p style="text-align: center">
@@ -105,5 +105,15 @@ rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae
 placerat pede sem sit amet enim. Ut enim ad minima veniam, quis nostrum
 exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
 consequatur?
+
+---
+
+Poznámka o autorovi licenci použitého obrázku v HTML:
+
+Úvodní obrázek zdroj: Lukáš Mižoch [<a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:ArcelorMittal_Ostrava,_pohled_z_Nov%C3%A9_radnice,_srpen_2011.jpg">z Wikimedia Commons</a>
+
+nebo podbně v Markdown:
+
+Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
