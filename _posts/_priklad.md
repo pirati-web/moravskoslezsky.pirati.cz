@@ -112,7 +112,7 @@ Poznámka o autorovi licenci použitého obrázku v HTML:
 
 Úvodní obrázek zdroj: Lukáš Mižoch [<a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:ArcelorMittal_Ostrava,_pohled_z_Nov%C3%A9_radnice,_srpen_2011.jpg">z Wikimedia Commons</a>
 
-nebo podbně v Markdown:
+nebo podobně v Markdown:
 
 Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
