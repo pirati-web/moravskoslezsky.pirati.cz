@@ -3,8 +3,7 @@ layout: post
 category: CLANKY
 title: 'Piráti podali připomínky k doplněné dokumentaci záměru společnosti SUEZ, která chce otevřít novou spalovnu nebezpečných odpadů'
 date: 2019-08-13T20:00:00.000Z
-author: Rostislav Řeha
-authorId: rostislav.reha
+author: Jana Ožanová
 image: posts/spalovna1.jpg
 tags:
  - Spalovna
@@ -16,6 +15,8 @@ tags:
 ---
 
 Ostrava, 12. srpna 2019 – **Dnes naposled bylo možné se písemně vyjádřit k přepracované dokumentaci záměru procesu EIA, který řeší otevření nové spalovny nebezpečných odpadů v Ostravě. Piráti v doplněné dokumentaci společnosti SUEZ našli opět řadu nedostatků a poslali ministerstvu životního prostředí celkem devět připomínek a nesouhlasné stanovisko k záměru. Zamítavý postoj dnes schválilo také vedení městského obvodu Moravská Ostrava a Přívoz na jednání rady.**
+
+<hr />
 
 Opravená dokumentace reaguje na některé z námitek, pro které byla její původní verze vrácena k přepracování, nicméně většina vysvětlení a doplňujících informací je pro Piráty nedostačující.
 

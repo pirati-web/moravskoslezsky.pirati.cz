@@ -63,6 +63,15 @@ Všechny následující příklady seznamu jsou ekvivalentní:
 
 + A zase seznam
 
+Co když děláš seznam a potřebuješ v jedné položce třeba adresu na více řádků? Použij na konci řádku dvě mezery:
+
+- email: jakub.pirat@pirati.cz
+- telefon: +420 609 112 777
+- adresa:  
+Ulice Johna Silvera 1  
+Ostrov pokladů  
+- datová schránka: pffu666
+
 [Toto je text odkazu](https://www.pirati.cz "Text který se objeví po najetí na odkaz")
 
 Pokud je potřeba nezalomitelná mezera, použij &nbsp;
