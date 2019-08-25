@@ -8,7 +8,7 @@ category:
 - zast
 img: people/jiri-rajnoch.jpg
 description: radní městského obvodu Poruba
-mail: # - jiri.rajnoch@pirati.cz - ověřit
+mail: jiri.rajnoch@pirati.cz
 ---
 
 Jirka Rajnoch chodil do školky na základní, střední a vysokou školu do Ostravy-Poruby!

@@ -8,7 +8,7 @@ category:
 - zast
 img: people/petr-kopecny.jpg
 description: zastupitel města Ostravy, zastupitel městského obvodu Ostrava-Jih
-mail: # - zjistit
+mail: petr.kopecny@pirati.cz
 ---
 
 (* 19. března 1984, Ostrava) 

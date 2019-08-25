@@ -8,7 +8,7 @@ category:
 - zast
 img: people/pavlina-novackova.jpg
 description: zastupitelka městského obvodu Ostrava-Jih
-mail: pavlina.novackova1@gmail.com
+mail: pavlina.novackova@pirati.cz
 mob:			  
 profiles:
   github:       

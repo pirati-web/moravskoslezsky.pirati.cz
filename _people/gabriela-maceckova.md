@@ -8,7 +8,7 @@ category:
 - zast
 img: people/gabriela-maceckova.jpg
 description: zastupitelka městského obvodu Ostrava-Jih
-mail: # - zjistit
+mail: gabriela.maceckova@pirati.cz
 ---
 
 (* 13. února 1997) 

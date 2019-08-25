@@ -15,6 +15,7 @@ profiles:
   facebook:
   twitter:	https://twitter.com/breskmic
   linkedin:	https://www.linkedin.com/in/michalbreskovec/
+  flickr:	https://www.flickr.com/photos/146942302@N03/ 
 ---
 
 (* 7. října 1978, Přerov) 
