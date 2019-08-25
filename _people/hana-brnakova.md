@@ -1,6 +1,6 @@
 ---
 uid: hana.brnakova
-name:     Bc. Hana Brňáková      		# běžně používáné jméno
+name:     Hana Brňáková      		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 img: people/hana-brnakova.jpg           # 165 x 220

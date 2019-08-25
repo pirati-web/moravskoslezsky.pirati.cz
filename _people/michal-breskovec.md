@@ -8,7 +8,13 @@ category:
 - zast
 img: people/michal-breskovec.jpg
 description: zastupitel městského obvodu Ostrava-Jih
-mail: michal.breskovec@pirati.cz 
+mail:
+- michal.breskovec@pirati.cz 
+profiles:
+  github:	https://github.com/mbreskovec
+  facebook:
+  twitter:	https://twitter.com/breskmic
+  linkedin:	https://www.linkedin.com/in/michalbreskovec/
 ---
 
 (* 7. října 1978, Přerov) 

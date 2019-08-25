@@ -5,7 +5,7 @@ titles:
   before: Mgr. 
   after: Ph.D.
 category:
-- zast
+- representativeJih
 img: people/arnost-zidek.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # - zjistit
