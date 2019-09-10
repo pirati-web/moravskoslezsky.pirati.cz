@@ -12,7 +12,7 @@ tags:
   - Romana-Körösi
 ---
 
-Ostrava, 8. 9. 2019 - **Uveřejňujeme komentář Romany Körösi, pirátské členky bytové komise Ostravy-Jihu. Už pár let hýbe českou společností problém nešťastně nastaveného systému doplatků na bydlení, který likviduje sociální systém. Současná právní úprava totiž ve své podstatě nepomáhá chudým a potřebným, ale přihrává obrovské peníze ze státní kasy do kapsy soukromých osob, kterým se říká „obchodníci s chudobou“.**
+Ostrava, 8. září 2019 - **Uveřejňujeme komentář Romany Körösi, pirátské členky bytové komise Ostravy-Jihu. Už pár let hýbe českou společností problém nešťastně nastaveného systému doplatků na bydlení, který likviduje sociální systém. Současná právní úprava totiž ve své podstatě nepomáhá chudým a potřebným, ale přihrává obrovské peníze ze státní kasy do kapsy soukromých osob, kterým se říká „obchodníci s chudobou“.**
 
 <hr />
 

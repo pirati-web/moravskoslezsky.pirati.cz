@@ -16,7 +16,7 @@ tags:
  - Jan-Nezhyba
 ---
 
-Ostrava, 7. 9. 2019 - **Včera se v Ostravě uskutečnilo veřejné projednání záměru společnosti SUEZ na rozšíření spalovny nebezpečných odpadů (CENNZO Ostrava). Stávající spalovna s kapacitou 25 tis. tun je největší spalovnou nebezpečného odpadu v ČR a má být rozšířena o dalších 15 tis. tun. Spalovna leží na hranici Přívozu a Mariánských Hor, a to v blízkosti sídliště Fifejdy (ca 1 km), obvodů Lhotka, Hošťálkovice a Petřkovice, a konečně 3 km od centrálního Masarykova náměstí.**
+Ostrava, 7. září 2019 - **Včera se v Ostravě uskutečnilo veřejné projednání záměru společnosti SUEZ na rozšíření spalovny nebezpečných odpadů (CENNZO Ostrava). Stávající spalovna s kapacitou 25 tis. tun je největší spalovnou nebezpečného odpadu v ČR a má být rozšířena o dalších 15 tis. tun. Spalovna leží na hranici Přívozu a Mariánských Hor, a to v blízkosti sídliště Fifejdy (ca 1 km), obvodů Lhotka, Hošťálkovice a Petřkovice, a konečně 3 km od centrálního Masarykova náměstí.**
 
 <hr />
 
@@ -33,7 +33,7 @@ Piráti rozumí nutnosti omezit skládkování nebezpečného odpadu, ale je nap
 **Obstrukce?**
 
 Ministerstvo životního prostředí, které tento záměr podporuje, původně jako termín zvolilo pondělí&nbsp;2.9.2019. Na poslední chvíli termín posunulo na páteční odpoledne, což je pro občany vzhledem k počátku víkendu zdaleka nejméně přitažlivý termín. Zarážející bylo i to, že byl ze strany zástupkyně ministerstva svévolně omezen počet položených otázek na jednu osobu, a to pouze na dvě otázky. Piráti okamžitě vznesli protest, že jde o porušení zákona o posuzování vlivu na životní prostředí, který upravuje veřejné projednání. Na to reagovala zástupkyně ministerstva, že to bylo myšleno jinak a že každý může klást otázek, kolik bude chtít. Závěr si jistě uděláte sami.
- 
+
 **Proč rozšíření spalovny v Ostravě a co za tím stojí?**
 
 Za vším hledej peníze! Na veřejném projednávání zaznělo z úst zástupců soukromé společnosti SUEZ, že důvodem, proč by k rozšíření spalovny nebezpečných odpadů mělo dojít v Ostravě, je výhodná infrastruktura a existence stávající spalovny. Na dotaz ze strany Pirátů, jaký by byl finanční rozdíl mezi tím, kdyby byla spalovna umístěna v jiné lokalitě (ideálně tam, kde není takový dopad na zdraví občanů), odpovězeno nebylo. Je evidentní, že SUEZ a zejména její management má maximální snahu ušetřit, a to bez ohledu na dopady rozšíření na prostředí a zdraví obyvatel Ostravy.
