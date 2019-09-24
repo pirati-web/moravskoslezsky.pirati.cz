@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: Aktuálně v Moravskoslezském kraji fungují tato místní sdružení...
 ---
 
 <div class="row">
@@ -8,63 +9,31 @@ layout: default
       <div class="o-section-inner">
         <div class="c-BasicPage">
           <div class="vspace-nb-m">
-            <h1>Aktuálně v Moravskoslezském kraji fungují tato místní sdružení...</h1>
             <div class="row vspace-nb-m">
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/karvina.jpg' | relative_url }}" alt="Karviná - Fryštát, náměstí" title="Karviná - Fryštát, náměstí - autor: Hons084 [CC BY-SA 4.0]; zdroj: https://commons.wikimedia.org/wiki/File:2013_Karwina,_Frysztat,_%C5%BBeliwna_fontanna_na_rynku_01.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="{{ '/mistni-sdruzeni/karvina.html' | relative_url }}" target="_blank">				
-                        Místní sdružení Karvinsko
-					  </a>
-                    </h3>
-                    <ul>
-                      <li>Působnost: okres Karviná</li>
-                      <li>Předsedkyně: <a href="https://wiki.pirati.cz/lide/alena_klocova">Alena Klocová</a></li>
-		      <li>FB: <a href="https://www.facebook.com/pirati.karvinsko" target="_blank">pirati.karvinsko</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/moap.jpg' | relative_url }}" alt="{{item.name}}">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-			    <a href="https://ostrava.pirati.cz" target="_blank">
-                        Místní sdružení Moravská Ostrava a Přívoz
-				      </a>
-                    </h3>
-                    <ul>
-                      <li>Působnost: městský obvod Moravská Ostrava a Přívoz</li>
-                      <li>Předseda: <a href="{{ 'lide/david-witosz/' | relative_url }}">David Witosz</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/opava.jpg' | relative_url }}" alt="{{item.name}}">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://opava.pirati.cz" target="_blank">
-                        Místní sdružení Opavské Slezsko
-                      </a>
-                    </h3>
-                    <ul>
-                      <li>Působnost: okresy Opava a Bruntál</li>
-                      <li>Předseda: <a href="{{ 'lide/pavel-korizek/' | relative_url }}">Pavel Kořízek</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+           
+{% include ms/item.html 
+    img='teams/karvina.jpg'
+    name='Místní sdružení Karvinsko'
+    area='okres Karviná'
+    link='/mistni-sdruzeni/karvina.html'
+    president='<a href="https://wiki.pirati.cz/lide/alena_klocova">Alena Klocová</a>'
+    fb="pirati.karvinsko"
+    %}
+
+{% include ms/item.html 
+    img= 'teams/moap.jpg'
+    name='Místní sdružení Moravská Ostrava a Přívoz'
+    area= "městský obvod Moravská Ostrava a Přívoz"
+    link= "https://ostrava.pirati.cz"
+    president= 'david.witosz'
+    %}
+{% include ms/item.html 
+    img="teams/opava.jpg" 
+    name="Místní sdružení Opavské Slezsko"
+    area="okresy Opava a Bruntál"
+    link="https://opava.pirati.cz"
+    president="pavel.korizek"
+    %}
             </div>
           </div>
         </div>
