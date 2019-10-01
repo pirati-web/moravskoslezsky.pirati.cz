@@ -28,7 +28,7 @@ residences:
    mapLink: "https://goo.gl/maps/dakQGzwQKng8ER9o7"
 contactPersons:
  - id: jakub.dedek
-   position: Kontakt pro dorovolníky
+   position: Kontakt pro dobrovolníky
  - id: zuzana.klusova
    position: Kontakt pro novináře
 ---
