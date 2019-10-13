@@ -2,12 +2,12 @@
 uid: jiri.rajnoch
 name: Jiří Rajnoch
 titles:
-  before: Ing. 
-  after: 
+  before: Ing.
+  after:
 category:
 - zast
 img: people/jiri-rajnoch.jpg
-description: radní městského obvodu Poruba
+description: radní městského obvodu Poruba a místopředseda místního sdružení Ostrava
 mail: jiri.rajnoch@pirati.cz
 ---
 
@@ -19,4 +19,4 @@ Kdyby to šlo tak by v porubě i pracoval, jenže Poruba funguje jako satelitní
 
 Například změnit Černou perlu v místo, kde bude dost práce s přidanou hodnotou.
 
-Razí heslo, které se line tribunama na porubském hokeji: Pro Porubu, za Porubu!
+Razí heslo, které se line tribunami na porubském hokeji: Pro Porubu, za Porubu!

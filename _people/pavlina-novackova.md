@@ -2,12 +2,14 @@
 uid: pavlina.novackova
 name: Pavlína Nováčková
 titles:
-  before: Bc. 
-  after: 
+  before: Bc.
+  after:
 category:
 - zast
+- pms
+ordpms: 2
 img: people/pavlina-novackova.jpg
-description: zastupitelka městského obvodu Ostrava-Jih
+description: zastupitelka městského obvodu Ostrava-Jih a předsedkyně místního sdružení Ostrava
 mail: pavlina.novackova@pirati.cz
 mob:			  
 profiles:
@@ -17,7 +19,7 @@ profiles:
   flickr:	 
 ---
 
-(* 1. března 1988) 
+(* 1. března 1988)
 
 Pavlína Nováčková je od května roku 2016 registrovaným příznivcem České pirátské strany. Narodila se a stále žije v Ostravě.
 
