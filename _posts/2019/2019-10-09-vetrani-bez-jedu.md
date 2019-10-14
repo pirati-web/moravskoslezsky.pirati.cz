@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti spouštějí unikátní webovou aplikaci &bdquo;Větrání bez jedů&ldquo;'
-date: 2019-10-09T00:00:00.000Z
+date: 2019-10-09T08:00:00.000Z
 author: Václav Parchaňský
 image: posts/vetranibezjedu.jpg
 tags:
@@ -16,6 +16,8 @@ tags:
 ---
 
 Ostrava, 9. října 2019 – **Piráti spouštějí unikátní webovou aplikaci [&bdquo;Větrání bez jedů&ldquo;](https://vetrani.pirati.cz). Aplikace zobrazuje mapu s kombinací předpovědi větru podle numerického modelu a informacemi o zdrojích znečišťování. Aplikace umožní obyvatelům Ostravy, žijícím v částech zasažených nadměrným vlivem průmyslového znečištění zjistit, zda k nim vítr přinese emise z těchto zdrojů a zařídit se podle toho (např. zavřít včas okna).**
+
+<hr />
 
 Aplikaci najdete na následující adrese: [https://vetrani.pirati.cz](https://vetrani.pirati.cz).
 
