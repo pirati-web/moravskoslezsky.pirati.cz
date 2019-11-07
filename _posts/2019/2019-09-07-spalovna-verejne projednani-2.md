@@ -4,6 +4,7 @@ category: CLANKY
 title: 'Piráti opět bojovali proti rozšíření spalovny nebezpečných odpadů v Ostravě'
 date: 2019-09-07T08:00:00.000Z
 author: Lukáš Jansa
+authorId: lukas.jansa
 image: posts/spalovna_projednani_0919.jpg
 tags:
  - Spalovna
