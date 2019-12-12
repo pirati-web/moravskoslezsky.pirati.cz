@@ -7,7 +7,7 @@ titles:
 category:
 - zast
 img: people/daniel-galuszka.jpg
-description: zastupitel města Bohumína
+description: zastupitel města Bohumína a místopředseda místního sdružení Karvinsko
 mail:
 - daniel.galuszka@pirati.cz 
 
