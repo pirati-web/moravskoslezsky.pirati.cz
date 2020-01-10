@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Nadpis článku'			#Zachovat jednoduché úvozovky
-date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
+date: 2020-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
 author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
@@ -14,7 +14,7 @@ tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např
   - Kauza			#Další relevantní tagy
 ---
 
-Ostrava, 31. ledna 2019 – **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
+Ostrava, 31. ledna 2020 – **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
 
 Odděluje perex a text čárou:
 <hr />
@@ -119,10 +119,6 @@ consequatur?
 ---
 
 Poznámka o autorovi licenci použitého obrázku v HTML:
-
-Úvodní obrázek zdroj: Lukáš Mižoch [<a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:ArcelorMittal_Ostrava,_pohled_z_Nov%C3%A9_radnice,_srpen_2011.jpg">z Wikimedia Commons</a>
-
-nebo podobně v Markdown:
 
 Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
