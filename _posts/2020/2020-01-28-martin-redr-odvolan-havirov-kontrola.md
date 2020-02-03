@@ -7,10 +7,14 @@ author: Jana Ožanová
 image: posts/redr-nezhyba.jpg
 tags:
   - Havířov
-  - Martin Rédr
+  - Kauza
+  - Martin-Rédr
+  - Jan-Nezhyba
 ---
 
 Havířov, 28. ledna 2020 – **Na pondělním zasedání Zastupitelstva města Havířova byl koaličními partnery neplánovaně zařazen k projednání bod o odvolání předsedy kontrolního výboru Martina Rédra (Piráti). Jeho odvolání bylo odhlasováno a zároveň byl zvolen předseda nový – člen koalice Jakub Chlopecký (ANO). Ještě absurdnější než fakt, že teď koalice bude kontrolovat sama sebe, jsou důvody odvolání a to, co mu předcházelo.** 
+
+<hr />
 
 Počátky sporu musíme hledat na jiném zasedání zastupitelstva, kde občan vystoupil s dotazem k plánovanému obchvatu Havířova. Primátor města mu tehdy nedal adekvátní prostor pro reakci a následoval tak podnět ke kontrolnímu výboru, který chtěl jeho tehdejší předseda Martin Rédr prošetřit. Podle vedení města však tímto krokem postupoval v rozporu se zákonem, což bylo uvedeno jako hlavní důvod jeho odvolání. 
 
@@ -27,3 +31,6 @@ popisuje situaci na včerejším zastupitelstvu Pirát Jan Nezhyba.
 >„Pomyslnou třešničkou na dortu je zvolení nového předsedy kontrolního výboru pana Chlopeckého, který si platné předpisy vykládá dosti svévolným způsobem a hystericky reaguje, pokud se v jednání výboru objeví cokoliv kritického vůči vládnoucí koalici. Můžeme jen tiše doufat, že mezi prvními kroky nového předsedy nebude odstranění jednoho bodu ze Statutu kontrolního výboru, a to Vyřizování stížností a podnětů občanů adresovaných kontrolnímu výboru,“
 
 dodává Rédr.
+
+- - -
+
