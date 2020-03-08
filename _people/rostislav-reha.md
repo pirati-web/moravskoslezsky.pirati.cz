@@ -7,15 +7,16 @@ titles:
 category:
 - zast
 - pks
-ordpks: 3
 img: people/rostislav-reha.jpg
-description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy
+description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy a místopředseda krajského sdružení Moravskoslezského kraje
 mail: rostislav.reha@pirati.cz
 profiles:
   github:
   facebook:	https://www.facebook.com/rostislav.reha	
   twitter:
   linkedin:
+
+ordpks: 3
 ---
 
 (* 16. záři 1973)

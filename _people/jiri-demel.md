@@ -21,7 +21,7 @@ profiles:
 ordpks: 1
 ---
 
-Jiří Demel (*1957 ) se narodil v Novém Jičíně, po celou dobu života zůstal věrný městu Příboru, ve kterém od narození žije.
+Jiří Demel (*1957) se narodil v Novém Jičíně, po celou dobu života zůstal věrný městu Příboru, ve kterém od narození žije.
 
 Absolvoval SOU v Kopřivnici a následně vojenskou základní službu. Pracoval v automobilce TATRA a.s., oženil se, krátce na to ovdověl a vychovával své dva syny. Od roku 1982 začal vyvíjet podnikatelskou činnost v širokém spektru působnosti. V rámci sebevzdělávání prošel několika kurzy v oblasti IT, kde získal několik certifikátů a následně založil firmu decom IT. Začal spolupracovat s bývalým Telecomem a ERI na zavádění internetu v ČR. Mimo oblast IT působil pět let na pozici finančního poradce u Allianz pojišťovny a.s, později na pozici manager v soukromé společnosti.
 
@@ -29,6 +29,5 @@ K politické aktivitě jej přivedla nově vznikající strana, která je nejbl�
 
 V současné době působí jako předseda krajského sdružení Moravskoslezského kraje a člen republikového výboru
 
-E-mail: jiri.demel@pirati.cz
+www: [www.jiridemel.cz](http://www.jiridemel.cz/)
 
-www: www.jiridemel.cz  
