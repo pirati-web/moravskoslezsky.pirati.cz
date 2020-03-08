@@ -36,9 +36,9 @@ contactPersons:
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Přidejte se</h1>
 
-Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
+Zajímá vás co piráti dělají? <a href="https://nalodeni.pirati.cz/">Naloďte se</a> a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
 
-Finanční dary můžete posílat na [zde](https://dary.pirati.cz).
+Finanční dary můžete posílat na <a href="https://dary.pirati.cz">zde</a>.
 Pokud chcete darovat přimo našemu kraji, poraďte se prosím s koordinátorem.
 </div>
 

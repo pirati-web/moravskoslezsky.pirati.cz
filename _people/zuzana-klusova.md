@@ -17,7 +17,7 @@ profiles:
   facebook:				
   twitter:
   linkedin:
-ordpks: 3  
+ordpks: 2  
 ---
 
 
