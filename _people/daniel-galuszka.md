@@ -12,10 +12,12 @@ description: zastupitel města Bohumína a místopředseda místního sdružení
 mail:
 - daniel.galuszka@pirati.cz 
 
-mob: +420 737 027 376
+mob: 
+- +420 737 027 376
+
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/daniel.galuszka.3
   twitter:
   linkedin:
   flickr:
@@ -25,8 +27,20 @@ ordpks: 4
 
 (* 5. ledna 1995)
 
-Daniel Galuszka  je členem KS Moravskoslezský kraj a zastupitelem města Bohumína, ze kterého pochází.
+Daniel Galuszka pochází z Moravskoslezska, kde se angažuje jak v pirátských předsednictvech, tak ve volené funkci na městě.
 
-Vystudoval gymnázium Fr. Živného v Bohumíně, poté získal titul z žurnalistiky v Olomouci a v současné době dokončuje studium v Praze - obor Veřejná a sociální politika na Fakultě sociálních věd. Společně s kolektivem založil publicistický server HoupacíOsel.cz, který byl nominován na prestižní novinářské ocenění „Křišťálovou lupu“. Mimo jiné publikoval vlastní sbírku povídek.
+Coby asistent poslanců Lukáše Koláříka a Tomáše Vymazala se ve Sněmovně zabývá zejména problematikou dluhů, IT systémů na Ministerstvu práce a sociálních věcí, nadále dekriminalizací pěstění konopí pro vlastní účely, a agendou Ministerstva vnitra.
 
-V současném profesním životě pracuje Daniel jako zastupitel města Bohumína, asistent poslanců Lukáše Koláříka a Tomáše Vymazala, a rovněž je tajemníkem sněmovního resortního týmu Vnitro a bezpečnost. Jako zastupitel se zajímá o životní prostředí a kulturu. Jeho sněmovní témata jsou pak: exekuce, insolvence, IT zakázky na Ministerstvu práce a sociálních věcí, dekriminalizace konopí pro osobní potřebu, agenda Ministerstva vnitra. Znát ho můžete například jako moderátora pořadu „V kanclu s poslancem.“ 
+Má vystudovanou žurnalistiku na Univerzitě Palackého (zaměření: televizní, politická) v Olomouci a nyní dokončuje studium veřejné a sociální politiky na Karlově univerzitě v Praze.
+
+Jako zastupitel se v Bohumíně věnuje kultuře, životnímu prostředí a popularizaci politiky i veřejného života.
+
+Vydal knihu, se studentským internetovým portálem Houpaciosel.cz získal nominaci na Křišťálovou lupu, a taky si vyčepoval Jánského plaketu za darování krve.
+
+Je místopředsedou KS Moravskoslezský kraj a místopředsedou MS Karvinsko.
+
+__Kancelář:__  
+Sněmovní 7/19  
+Praha 1 - Malá Strana, 118 00  
+Česká republika  
+

@@ -12,6 +12,7 @@ description: předseda krajského sdružení Moravskoslezského kraje           
 mail:
 - jiri.demel@pirati.cz
 mob:			  
+- +420 731 417 618
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/jiri.demel.1
@@ -29,5 +30,5 @@ K politické aktivitě jej přivedla nově vznikající strana, která je nejbl�
 
 V současné době působí jako předseda krajského sdružení Moravskoslezského kraje a člen republikového výboru
 
-www: [www.jiridemel.cz](http://www.jiridemel.cz/)
+* web: [www.jiridemel.cz](http://www.jiridemel.cz/)
 
