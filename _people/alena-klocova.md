@@ -5,9 +5,8 @@ titles:
   before: Mgr.
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pms
 img: people/alena-klocova.jpg         # 165 x 220
-description: předsedkyně místního sdružení Karvinsko # kratký popis, max 160 znaků
+description: místní sdružení Karvinsko # kratký popis, max 160 znaků
 mail:
 - alena.klocova@pirati.cz
 #mob: +420
@@ -16,7 +15,6 @@ profiles:
   facebook:				
   twitter:
   linkedin:
-ordpms: 3  
 ---
 
 
