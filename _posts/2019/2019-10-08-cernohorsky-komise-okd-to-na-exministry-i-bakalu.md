@@ -5,7 +5,7 @@ title: 'Komise vedená Pirátem Černohorským uzavírá vyšetřování – pod
 date: 2019-10-08T08:00:00.000Z
 author: Mediální odbor
 image: posts/lukas-cernohorsky.jpg
-tags:         
+tags:
   - OKD
   - Lukáš-Černohorský
   - Karbon-Invest

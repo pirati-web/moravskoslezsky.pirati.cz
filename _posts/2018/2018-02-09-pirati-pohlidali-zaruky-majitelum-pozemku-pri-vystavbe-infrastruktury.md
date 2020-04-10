@@ -6,7 +6,6 @@ date: 2018-02-09T18:49:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: polansky.jpg
-tags: 'legislativa'
 tags:
   - Doprava
   - Ondřej-Polanský
