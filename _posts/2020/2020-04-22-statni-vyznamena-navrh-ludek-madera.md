@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Piráti navrhli na státní vyznamenání Luďka Maďeru, bojovníka za právo občanů na informace'
+title: 'Piráti navrhli na státní vyznamenání Luďka Maděru, bojovníka za právo občanů na informace'
 date: 2020-04-22T08:00:00.000Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
