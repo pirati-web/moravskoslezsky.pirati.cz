@@ -13,3 +13,5 @@ vendor/
 .bundle
 
 .directory
+
+.idea/
