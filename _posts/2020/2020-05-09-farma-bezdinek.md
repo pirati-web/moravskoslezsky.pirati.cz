@@ -13,7 +13,7 @@ tags:
   - MS-Karvinsko
 ---
 
-Dolní Lutyně, 10. května 2020 – **Farma Bezdínek je ukázkovým příkladem toho, že transformace našeho regionu už začala. Na vlastní oči se o tom přesvědčili Piráti Zuzana Klusová a Radim Kravčík, kteří farmu navštívili a mohli si tak „osahat” zdejší šetrný způsob pěstování zeleniny ve sklenících. Z exkurze si odnášeli kromě čerstvě natrhaných rajčat a okurek taky naději, že nikdy není pozdě přehodit výhybku a vydat se (staro)novými cestami udržitelného zemědělství s ohledem na životní prostředí. Místní farmáři využívají řadu chytrých a přitom jednoduchých řešení a do budoucna mají cílevědomé a smysluplné vize.**
+Dolní Lutyně, 10. května 2020 – **Farma Bezdínek je ukázkovým příkladem toho, že transformace našeho regionu už začala. Na vlastní oči se o tom přesvědčili Zuzana Klusová a Radim Kravčík, kteří farmu navštívili a mohli si tak „osahat” zdejší šetrný způsob pěstování zeleniny ve sklenících. Z exkurze si odnášeli kromě čerstvě natrhaných rajčat a okurek taky naději, že nikdy není pozdě přehodit výhybku a vydat se (staro)novými cestami udržitelného zemědělství s ohledem na životní prostředí. Místní farmáři využívají řadu chytrých a přitom jednoduchých řešení a do budoucna mají cílevědomé a smysluplné vize.**
 
 <hr />
 
@@ -26,7 +26,7 @@ Ohleduplnost k životnímu prostředí se promítá do všech činností a postu
 {% asset 'articles/2020/farmar2.jpg' alt='Rajčata' %}
 {% asset 'articles/2020/farmar3.jpg' alt='Okurky' %}
 
-Denně sklidí v průměru 7 tun rajčat a okurek, aktuálně sklízejí 15 tun denně. Jejich čerstvou zeleninu si můžete koupit buď přímo na [farmě](https://www.farmabezdinek.cz/kde-koupit/) nebo některých supermarketech, kam ji pravidelně dodávají. Farma dnes zaměstnává asi 300 lidí především z Karvinska a plánuje další rozvoj.
+Denně sklidí v průměru 7 tun rajčat a okurek, aktuálně sklízejí 15 tun denně. Jejich čerstvou zeleninu si můžete koupit buď přímo na [farmě](https://www.farmabezdinek.cz/kde-koupit/) nebo v některých supermarketech, kam ji pravidelně dodávají. Farma dnes zaměstnává asi 300 lidí především z Karvinska a plánuje další rozvoj.
 
 Nás zaujala jejich „Vize 0“, která si klade nemalé cíle přesahující hranice našeho regionu:
 
