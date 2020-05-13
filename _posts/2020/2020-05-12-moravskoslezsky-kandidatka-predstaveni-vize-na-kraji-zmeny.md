@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Moravskoslezští Piráti představují kandiátku i vizi do voleb: Stojíme na kraji změny'
+title: 'Moravskoslezští Piráti představují kandidátku i vizi do voleb: Stojíme na kraji změny'
 date: 2020-05-12T08:00:00.000Z
 author: Jana Ožanová
 image: posts/na-kraji-zmeny.jpg
