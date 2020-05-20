@@ -35,21 +35,4 @@ Zuzana Klusová a Petr Letocha za koalici Piráti a Starostové v Karviné
 
 Dopis adresovaný ministryni financí a managementu OKD reaguje na včerejší situaci, kdy bylo po zahájení plošného testování potvrzeno 82 případů nákazy u zaměstanců OKD a s největší pravděpodobností se nejedná o číslo konečné.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
-
-Zdroj: [Pirati.cz](https://www.pirati.cz/tiskove-zpravy/stavebni-denik-elektronicky.html)
-
-- - -
