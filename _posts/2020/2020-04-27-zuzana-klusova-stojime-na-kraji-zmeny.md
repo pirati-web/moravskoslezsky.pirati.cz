@@ -8,7 +8,7 @@ image: posts/zuzana-klusova.jpg
 tags:
   - Moravskoslezský-kraj
   - Rozhovor
-  - Na-prahu-změny
+  - Na-kraji-změny
   - Zuzana-Klusová
 ---
 

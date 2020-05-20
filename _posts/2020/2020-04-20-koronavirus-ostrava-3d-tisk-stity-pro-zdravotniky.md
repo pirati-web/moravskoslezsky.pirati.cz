@@ -17,8 +17,6 @@ Ostrava, 20. dubna 2020 – **Nedostatek ochranných pomůcek v době pandemie p
 
 <hr />
 
-Nákup respirátorů v řádech milionů korun pomohl ochránit pracovníky městské policie a další lidi v první linii. 4 000 ochranných štítů pak putovalo městské nemocnici, domovům pro seniory, magistrátu a městské policii. Město již v počátcích krize přišlo také jako jedno z mála s nabídkou rychlé finanční pomoci podnikatelům, o kterou se okamžitě po vyhlášení hlásily stovky zájemců. O dar do výše 20 tisíc korun si mohou zažádat všichni menší podnikatelé s ročním obratem do 6 milionů korun, kteří mají provozovnu na území města Ostravy.
-
 Ostravské pirátské centrum se za poslední měsíc proměnilo v ostravské tiskařské centrum. 3D tiskárna tady už nějakou dobu ležela ladem, teď ale našla nečekané využití. Dobrovolníci z řad Pirátů nyní pomocí 3D tisku vyrábí komponenty pro ochranné pomůcky, tisknou zakladače pro šití roušek i ochranné štíty.
 
 Když se ozvali z Městské nemocnice Ostrava Fifejdy, že akutně potřebují ochranné štíty pro ARO, ostravská zastupitelka Veronika Murzynová neváhala a v době velikonočních svátků vyrazila držet službu nad tiskem další várky ochranných pomůcek. Ještě ten den je pak doručila zdravotníkům do nemocnice. Veronika dobrovolnicky pomáhá od začátku krizového stavu a 3D tisk v pirátském centru pomáhala „rozchodit“. V rozhovoru prozradí, jak se k 3D tisku štítů dostala a jak vnímá události posledních týdnů.
