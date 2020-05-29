@@ -2,7 +2,7 @@
 uid: zuzana.klusova
 name:     Zuzana Klusová      		# běžně používáné jméno
 titles:
-  before: Bc.
+  before: Mgr.
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
