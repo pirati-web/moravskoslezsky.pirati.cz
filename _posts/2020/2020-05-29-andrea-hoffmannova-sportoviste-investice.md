@@ -32,6 +32,6 @@ Další investice promění sportoviště ve Staré Bělé. Na kompletní rekons
 
 ---
 
-Úvodní obrázek zdroj - se svolením: Pavel Ožana (TJ Unie Hlubina z.s.)
+Úvodní obrázek zdroj - se svolením: Jan Vlček (TJ Unie Hlubina z.s.)
 
 - - -
