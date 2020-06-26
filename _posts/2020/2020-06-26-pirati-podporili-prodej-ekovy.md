@@ -9,6 +9,7 @@ tags:
   - Ekova
   - Doprava
   - Ostrava
+  - Radnice
 ---
 
 Ostrava, 26. června 2020 – **Ostravští zastupitelé na středečním zasedání města schválili prodej společnosti Ekova Electric, dceřiné firmy Dopravního podniku Ostrava (DPO), která vyrábí, servisuje a modernizuje tramvaje, trolejbusy a elektrické autobusy. Prodej podpořili jako nejvýhodnější variantu i městští zastupitelé Pirátů. Hlavním rozhodujícím faktorem byl kromě kupní ceny společnosti především vliv jejího prodeje na DPO. Novým vlastníkem Ekovy se stane společnost Škoda Transportation, která byla jedním ze dvou zájemců o koupi. Nabídková kupní cena činí 416,3 milionu korun.**
