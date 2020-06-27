@@ -7,6 +7,7 @@ author: Jana Ožanová
 image: posts/2020-06-25-zastupko-ova.jpg
 tags:
   - Ekova
+  - DPO
   - Doprava
   - Ostrava
   - Radnice
@@ -26,7 +27,7 @@ Zástupci Pirátů na magistrátu se opírají o myšlenku, že městské spole�
 
 Konečnému rozhodnutí o prodeji předcházely hodiny a hodiny strávené nad posudky, analýzami, dokumentací, workshopy, schůzky se všemi zainteresovanými stranami, debaty s odborníky i veřejností a zvažování pro a proti jednotlivých variant. Piráti měli mnoho otázek hlavně ve vztahu prodeje Ekovy směrem k DPO a jeho budoucnosti. Záměr prodeje se projednával v orgánech města a na dozorčí radě Dopravního podniku, Piráti toto téma diskutovali také na veřejné schůzi místního sdružení Ostrava konané v květnu a následně i v červnu před samotným prodejem, včetně argumentů pro a proti této variantě.
 
-Hlavním dotazem byla další budoucnost oprav ostravských tramvají. DPO má své vlastní dílny, ve kterých se provádí základní údržba a servis. Střední a těžké opravy zajišťuje dnes pro DPO Ekova, tento kontrakt však příští rok bude znovu vysoutěžen veřejnou zakázkou. Na českém a například i polském trhu působí i další firmy, které ji dokáží konkurovat, přes nepopiratelnou výhodu Ekovy např. v možnostech transportu tramvají. 
+Hlavním dotazem byla další budoucnost oprav ostravských tramvají. DPO má své vlastní dílny, ve kterých se provádí základní údržba a servis. Střední a těžké opravy zajišťuje dnes pro DPO Ekova, tento kontrakt však příští rok bude znovu vysoutěžen veřejnou zakázkou. Na českém a například i polském trhu působí i další firmy, které ji dokáží konkurovat, přes nepopiratelnou výhodu Ekovy např. v možnostech transportu tramvají.
 
 Otázek kolem prodeje Ekovy je samozřejmě víc a problematika je odborná, občané se na Piráty obracejí s různými dotazy vyžadujícími obsáhlejší zasvěcení do problematiky a podrobnější vysvětlení souvislostí. Jako strana prosazující otevřenost a transparentnost proto ostravští Piráti chystají přehled nejčastěji kladených otázek a odpovědí, které zveřejní na svých komunikačních kanálech.
 
