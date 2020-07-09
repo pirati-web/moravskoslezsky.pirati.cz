@@ -19,7 +19,7 @@ emptyArray: []
 organization:
   name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
   shortName: Piráti MSK
-  contactUid: jiri.demel
+#  contactUid: jiri.demel
   email: jiri.demel@pirati.cz
   phone: +420 731 417 618
   address: |
@@ -172,7 +172,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
