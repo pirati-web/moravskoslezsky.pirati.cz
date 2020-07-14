@@ -84,6 +84,12 @@ Třeba \* Toto nebude seznam.
 Text který má být kůs kódu se uzavírá mezi obrácené úvozovky, viz příklad:
  toto je `kód`.
 
+Poznámka pod čarou:
+Ahoj tady[^1] je poznámka pod čarou. A zde [^2] je druhá.
+
+[^1]: První poznámka pod čarou.
+[^2]: Druhá poznámka pod čarou.
+
 Jednoduchá tabulka:
 
 | **První řádek tabulky** | **druhý sloupec** |

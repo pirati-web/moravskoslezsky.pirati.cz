@@ -13,7 +13,7 @@ tags:
   - Zuzana-Klusová
 ---
 
-Praha, 14. července 2020 – **Vláda rozhodla prostřednictvím Prisko pomoci OKD finanční injekcí ve výši 600 milionů korun. „Rozhodnutí považuji za správné. Obávám se ale, že tato částka nemůže stačit. Není ovšem zároveň jasné, na co se prostředky použijí. OKD by podle nás mělo peníze použít hlavně na to, aby zajistilo zaměstnancům férovou odměnu za koronavirovou krizi a zpracovalo co nejdříve analýzu, která řekne, co bude s těžařským kolosem dál. Situace je dlouhodobě neudržitelná a Karvinsko žije v nejistotě, kdy zejména zaměstnanci dodavatelských firem doteď neví, jak a zda vůbec dostanou mzdu po dobu uzavření dolů,“ vysvětluje pirátský poslanec Lukáš Černohorský, který dnes odeslal interpelaci ministryni financí, pod kterou státní OKD spadá.**
+Praha, 14. července 2020 – **Vláda rozhodla prostřednictvím Prisko pomoci OKD finanční injekcí ve výši 600 milionů korun. „Rozhodnutí považuji za správné. Obávám se ale, že tato částka nemůže stačit. Není ovšem zároveň jasné, na co se prostředky použijí. OKD by podle nás mělo peníze použít hlavně na to, aby zajistilo zaměstnancům férovou odměnu za koronavirovou krizi a zpracovalo co nejdříve analýzu, která řekne, co bude s těžařským kolosem dál. Situace je dlouhodobě neudržitelná a Karvinsko žije v nejistotě, kdy zejména zaměstnanci dodavatelských firem doteď neví, jak a zda vůbec dostanou mzdu po dobu uzavření dolů,“ vysvětluje pirátský poslanec Lukáš Černohorský, který dnes odeslal interpelaci ministryni financí[^1], pod kterou státní OKD spadá.**
 
 <hr />
 
@@ -25,7 +25,7 @@ Zuzana Klusová společně s pirátským analytikem podrobně zmapovali situaci 
 
 Z tohoto důvodu se Klusová rozhodla spojit s jednotlivými dodavatelskými firmami.
 
-> „Dotazovala jsem se na výši odměn horníků v případě, že je zaměstnanec pozitivně testovaný na nemocenské, v karanténě nebo je zdravý na takzvaných překážkách na straně zaměstnavatele. Prozatím pouze společnost Dubos přislíbila, že ve všech těchto případech horníci dostanou 100% průměrné odměny - tedy bez ohledu na to, zdali je horník na nemocenské či na překážkách. Jedná se přitom o celou částku - nikoliv pouze základní mzdu. Dotazovali jsme se rovněž vedení OKD ohledně kmenových zaměstnanců. Zde by v případě překážek měli horníci dostat sice 100% odměny, nicméně v případě pozitivního testování a nemocenské pouze 60%. Mluvili jsme rovněž se zástupci agentury Polcarbo, kteří potvrdili, že se budou snažit zajistit 100% náhrady mzdy, nicméně budou to mít velmi složité a spoléhají na program Antivirus. V případě nemocenské počítají spíše s 60% odměny. Společnost Bastav nehodlá propouštět, bude se ale řídit čistě zákoníkem práce, protože vzhledem k situaci nemůže riskovat případné finanční problémy. Zaměstnanci ve všech případech tedy dostanou 60% mzdy. Dalším zástupcům dodavatelských firem se nepodařilo dovolat a Piráti se až od horníků dozvěděli, že mají obavy, zdali vůbec dostanou 60% odměny,“
+> „Dotazovala jsem se na výši odměn horníků v případě, že je zaměstnanec pozitivně testovaný na nemocenské, v karanténě nebo je zdravý na takzvaných překážkách na straně zaměstnavatele. Prozatím pouze společnost Dubos přislíbila, že ve všech těchto případech horníci dostanou 100% průměrné odměny - tedy bez ohledu na to, zdali je horník na nemocenské či na překážkách. Jedná se přitom o celou částku - nikoliv pouze základní mzdu. Dotazovali jsme se rovněž vedení OKD ohledně kmenových zaměstnanců[^2]. Zde by v případě překážek měli horníci dostat sice 100% odměny, nicméně v případě pozitivního testování a nemocenské pouze 60%. Mluvili jsme rovněž se zástupci agentury Polcarbo, kteří potvrdili, že se budou snažit zajistit 100% náhrady mzdy, nicméně budou to mít velmi složité a spoléhají na program Antivirus. V případě nemocenské počítají spíše s 60% odměny. Společnost Bastav nehodlá propouštět, bude se ale řídit čistě zákoníkem práce, protože vzhledem k situaci nemůže riskovat případné finanční problémy. Zaměstnanci ve všech případech tedy dostanou 60% mzdy. Dalším zástupcům dodavatelských firem se nepodařilo dovolat a Piráti se až od horníků dozvěděli, že mají obavy, zdali vůbec dostanou 60% odměny,“
 
 komentuje plánované odměňování horníků Klusová.
 
@@ -34,6 +34,9 @@ Paradoxně jsou tak nejvíce zasaženy právě rodiny nemocných horníků, kter
 >  „Neřízený útlum OKD by způsobil regionu obrovské problémy. Společnost tedy samozřejmě podporu potřebuje. Zároveň k tomu ale nelze přistupovat tak, že vláda napumpuje znova do OKD miliardy jako do černé díry, aniž by společnost představila plán útlum a reorganizaci. Část zaměstnanců se může uplatnit v rekultivacích a útlumových pracech, ale teď všichni potřebují vědět, na čem jsou,“
 
 dodává Lukáš Černohorský.
+
+[^1]: Písemná interpelace poslance Lukáše Černohorského na ministryni financí Alenu Schillerovou ([PDF](https://a.pirati.cz/msk/doc/interpelace-lukase-cernohorskeho-na-alenu-schillerovou.pdf "Písemná interpelace poslance Lukáše Černohorského na ministryni financí Alenu Schillerovou")).
+[^2]: Odpověď mluvčí OKD ohledně mezd zaměstnanců ([PDF](https://a.pirati.cz/msk/doc/koronavirus-okd-dopis-mzdy.pdf "Odpověď mluvčí OKD ohledně mezd zaměstnanců")).
 
 ---
 
