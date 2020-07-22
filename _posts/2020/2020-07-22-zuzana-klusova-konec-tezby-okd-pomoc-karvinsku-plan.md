@@ -5,7 +5,7 @@ title: 'Komentář Zuzany Klusové: Konec těžby v OKD už za rok? Chceme znát
 date: 2020-07-22T08:00:00.000Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: posts/zuzana-klusova-halda.jpg
+image: posts/zuzana-klusova-halda-2.jpg
 tags:
   - Karviná
   - OKD
