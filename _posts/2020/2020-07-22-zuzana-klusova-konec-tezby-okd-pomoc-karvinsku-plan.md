@@ -14,7 +14,7 @@ tags:
   - Zuzana-Klusová
 ---
 
-Karviná, 22. července 2020 – **Vláda opět potvrzuje, že umí překvapit. Ještě před necelými dvěma týdny jsem se už poněkolikáté stala terčem kritiky poslance Hájka z vládního hnutí ANO, když místo věcných připomínek k nezvládnuté situaci se šířením koronaviru v OKD komentoval mé několikaměsíční snahy pomoci horníkům a tvrdil, že chci zavřít OKD. Nakonec tím, kdo jen pár dní poté rozhoduje o konci těžařského kolosu, je jeho vláda. Odkazoval se tehdy na můj únorový článek s podtitulem „Má Karvinsko budoucnost? Ano, ale jedině bez uhlí.” V článku jsem upozorňovala na neudržitelnou situaci v OKD a také na to, že se o útlumu sice bavíme mnoho let, stále ale nemá jasné obrysy a Karvinsko místo příprav přešlapuje na místě.**
+Karviná, 22. července 2020 – **Vláda opět potvrzuje, že umí překvapit. Ještě před necelými dvěma týdny jsem se už poněkolikáté stala [terčem kritiky poslance Hájka](https://www.psp.cz/eknih/2017ps/stenprot/056schuz/s056027.htm) z vládního hnutí ANO, když místo věcných připomínek k nezvládnuté situaci se šířením koronaviru v OKD komentoval mé několikaměsíční snahy pomoci horníkům a tvrdil, že chci zavřít OKD. Nakonec tím, kdo jen pár dní poté rozhoduje o konci těžařského kolosu, je jeho vláda. Odkazoval se tehdy na můj únorový článek s podtitulem [„Má Karvinsko budoucnost? Ano, ale jedině bez uhlí.”](https://denikreferendum.cz/clanek/30755-ma-karvinsko-budoucnost-ano-ale-jedine-bez-uhli) V článku jsem upozorňovala na neudržitelnou situaci v OKD a také na to, že se o útlumu sice bavíme mnoho let, stále ale nemá jasné obrysy a Karvinsko místo příprav přešlapuje na místě.**
 
 <hr />
 
