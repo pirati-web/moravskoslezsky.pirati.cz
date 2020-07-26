@@ -13,7 +13,7 @@ tags:
   - Daniel-Galuszka
 ---
 
-Český Těšín, 26. července 2020: **Nejvýznamnější projekt v oblasti drogové prevence v ČR“, píše se na  stránkách revolutiontrain.cz, které prezentují projekt protidrogového vlaku. Opravdu? O jaká data se toto marketingové tvrzení opírá? Piráti se problematice tohoto odborníky diskutovaného projektu věnují již delší dobu a teď přicházejí se syntézou odborných stanovisek, která dokládají neúčinnost nákladného preventivního programu.**
+Český Těšín, 26. července 2020: **„Nejvýznamnější projekt v oblasti drogové prevence v ČR“, píše se na  stránkách revolutiontrain.cz, které prezentují projekt protidrogového vlaku. Opravdu? O jaká data se toto marketingové tvrzení opírá? Piráti se problematice tohoto odborníky diskutovaného projektu věnují již delší dobu a teď přicházejí se syntézou odborných stanovisek, která dokládají neúčinnost nákladného preventivního programu.**
 
 <hr />
 
@@ -26,7 +26,7 @@ Expertní tým tvořený mimo jiné těšínskou pirátskou příznivkyní Báro
 uvedla Bára Branná, která se na na přípravě materiálu podílela.  
 
 Projekt navíc nemá certifikaci a v mnoha ohledech nesplňuje:
-- mezinárodně uznávané Standardy kvality prevence Evropského monitorovacího centra pro drogy a drogovou závislosti
+- mezinárodně uznávané Standardy kvality prevence Evropského monitorovacího centra pro drogy a drogovou závislost
 - mezinárodní standardy prevence Úřadu OSN pro drogy a kriminalitu
 - české národní standardy kvality.
 
