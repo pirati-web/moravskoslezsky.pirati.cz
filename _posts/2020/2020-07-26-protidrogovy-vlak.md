@@ -6,14 +6,15 @@ date: 2020-07-26T08:00:00.000Z
 author: Jana Ožanová
 image: posts/prevence-01.jpg
 tags:
-  - Protidrogový vlak
+  - Prevence
+  - Protidrogový-vlak
   - Revolution-Train
   - Bára-Branná
   - Tomáš-Vymazal
   - Daniel-Galuszka
 ---
 
-Český Těšín, 26. července 2020: **„Nejvýznamnější projekt v oblasti drogové prevence v ČR“, píše se na  stránkách revolutiontrain.cz, které prezentují projekt protidrogového vlaku. Opravdu? O jaká data se toto marketingové tvrzení opírá? Piráti se problematice tohoto odborníky diskutovaného projektu věnují již delší dobu a teď přicházejí se syntézou odborných stanovisek, která dokládají neúčinnost nákladného preventivního programu.**
+Český Těšín, 26. července 2020 - **„Nejvýznamnější projekt v oblasti drogové prevence v ČR“, píše se na  stránkách revolutiontrain.cz, které prezentují projekt protidrogového vlaku. Opravdu? O jaká data se toto marketingové tvrzení opírá? Piráti se problematice tohoto odborníky diskutovaného projektu věnují již delší dobu a teď přicházejí se syntézou odborných stanovisek, která dokládají neúčinnost nákladného preventivního programu.**
 
 <hr />
 
@@ -26,15 +27,15 @@ Expertní tým tvořený mimo jiné těšínskou pirátskou příznivkyní Báro
 uvedla Bára Branná, která se na na přípravě materiálu podílela.  
 
 Projekt navíc nemá certifikaci a v mnoha ohledech nesplňuje:
-- mezinárodně uznávané Standardy kvality prevence Evropského monitorovacího centra pro drogy a drogovou závislost
-- mezinárodní standardy prevence Úřadu OSN pro drogy a kriminalitu
+- mezinárodně uznávané Standardy kvality prevence Evropského monitorovacího centra pro drogy a drogovou závislost,
+- mezinárodní standardy prevence Úřadu OSN pro drogy a kriminalitu,
 - české národní standardy kvality.
 
 Těšínští opoziční zastupitelé teď chtějí problematiku Protidrogového vlaku konzultovat s ostatními zástupci stran. S odkazem na důvodovou zprávu k projektu budou navrhovat přehodnocení dalšího financování projektu, na který byla pro tento rok v jejich městě alokována částka 108 000 Kč.
 
 Tematice protidrogového vlaku se Piráti aktivně věnují nejen v Těšíně, ale i na dalších místech v kraji i v celém Česku. Výstupy expertního týmu a závěry důvodové zprávy tak přispějí k osvětě, informovanosti a další diskuzi o účinnosti projektu na základě relevantních argumentů i jinde.
 
-Souhrnný dokument k problematice Protidrogového vlaku [ke stažení (PDF, 110 KB)]({{'revolution-train.pdf' | prepend: '/assets/pdf/' | relative_url}}). 
+Souhrnný dokument k problematice Protidrogového vlaku [ke stažení (PDF, 110 KB)](https://a.pirati.cz/msk/doc/revolution-train.pdf "Proč nepodpořit projekt „Revolution train – protidrogový vlak“ v roce 2021"). 
 
 ---
 
