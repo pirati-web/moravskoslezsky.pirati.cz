@@ -63,3 +63,14 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - id: jakub.dedek
+    position: Koordinátor
+  - id: sarka.vaclavikova
+    position: Volební manažerka
+  - id: zuzana.klusova
+    position: Kontakt pro novináře

@@ -29,13 +29,3 @@ Zajímá vás co piráti dělají? <a href="https://nalodeni.pirati.cz/">Naloďt
 Finanční dary můžete posílat na <a href="https://dary.pirati.cz">zde</a>.
 Pokud chcete darovat přimo našemu kraji, poraďte se prosím s koordinátorem.
 
-
-## Poslanci
-
-{% assign person = site.people | where_exp: "item","item.uid contains 'lukas.cernohorsky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-<br>
-{% assign person = site.people | where_exp: "item","item.uid contains 'ondrej.polansky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-</div>
-
