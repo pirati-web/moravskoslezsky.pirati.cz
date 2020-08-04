@@ -8,7 +8,7 @@ contentSize: even
 contactPersons:
   - id: lukas.cernohorsky
     position: Poslanec
-  - id: ondrej.polanecky
+  - id: ondrej.polansky
     position: Poslanec    
   - id: jiri.demel
     position: Předseda krajského sdružení
