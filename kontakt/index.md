@@ -35,19 +35,20 @@ contactPersons:
 
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Přidejte se</h1>
+</div>
+
 
 Zajímá vás co piráti dělají? <a href="https://nalodeni.pirati.cz/">Naloďte se</a> a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
 
 Finanční dary můžete posílat na <a href="https://dary.pirati.cz">zde</a>.
 Pokud chcete darovat přimo našemu kraji, poraďte se prosím s koordinátorem.
-</div>
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Poslanci</h1>
+
+## Poslanci
 
 {% assign person = site.people | where_exp: "item","item.uid contains 'lukas.cernohorsky'" | first  %}
 {% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
 <br>
 {% assign person = site.people | where_exp: "item","item.uid contains 'ondrej.polansky'" | first  %}
 {% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-</div>
+
