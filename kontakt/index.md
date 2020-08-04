@@ -6,6 +6,10 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # noresidence: yes
 contentSize: even
 contactPersons:
+  - id: lukas.cernohorsky
+    position: Poslanec
+  - id: ondrej.polanecky
+    position: Poslanec    
   - id: jiri.demel
     position: Předseda krajského sdružení
   - id: zuzana.klusova
