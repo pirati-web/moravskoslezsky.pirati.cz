@@ -29,9 +29,6 @@ main:
       - link: /volby/senat
         name: Senát
         match: senat
-  - link: /pripoj-se/
-    name: Připoj se
-    match: pripoj-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
