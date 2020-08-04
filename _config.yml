@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezký kraj, slezko, MSK
 url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
 
-
+mediaStorage: moravskoslezsky
 
 administrator:
   email: michal.breskovec@pirati.cz # mail kam pujdou chybove vystupy
@@ -172,10 +172,12 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.2.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - assets/img/posts
     - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

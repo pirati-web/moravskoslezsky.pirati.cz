@@ -1,32 +1,12 @@
 ---
 layout: default
-rbar:
-   - video
-   - calendar
-   - fb
-youtube:
-  id: 4tyiBvadxPc
-  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
-  title: "Video"
-  button:
-    url: "https://www.youtube.com/channel/UCya0OFabCRA92GAEqo6hgpw/videos"
-    title: "Další videa na našem YouTube kanálu"
 ---
 
-<!--Municipal elections results on the main page disabling. Request from Zuzka Klusová.
+{% include homepage/banner.html href="/volby-2020/" cta="Volby" title="Piráti Moravskoslezského kraje" img="banner-default.jpg" %}
 
-<div class="row">
-  <div class="columns">
-    <div class="msk-hero">
-      <div class="msk-hero__content">
-        <h1 class="t-h1-super">Komunální volby 2018</h1>
-      </div>
-    </div>
-  </div>
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2020-10-02 00:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
 </div>
-
-{% include election-crossroad.html places=site.data.volby %}
-
--->
-
-{% include homepage/news-with-rbar.html %}
