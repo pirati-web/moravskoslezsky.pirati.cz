@@ -20,8 +20,8 @@ main:
     name: Volby
     match: volby
     submenu:
-      - link: "Krajské volby 2020"
-        url:  "https://nakrajizmeny.cz/"
+      - link: https://nakrajizmeny.cz/
+        name: Krajské volby 2020
       - link: /volby/kde-kandidujeme
         name: Kde kandidujeme?
         match: radnice
