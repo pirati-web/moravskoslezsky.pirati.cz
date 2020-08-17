@@ -19,19 +19,21 @@ main:
 #  - link: /volby/kde-kandidujeme
   - link: /volby/kraj2020
     name: Volby
-    match: volby
+#    match: volby
     submenu:
       - link: /volby/kraj2020
         name: Krajské volby 2020
-        match: kraj2020
-      - link: /volby/kde-kandidujeme
-        name: Kde kandidujeme?
-        match: radnice
-      - link: /volby/obecny-program
-        name: Obecný program
-        match: radnice
+      - link: /volby/
+        name: Komunální volby 2018
+        submenu:
+          - link: /volby/kde-kandidujeme
+            name: Kde kandidujeme?
+            match: radnice
+          - link: /volby/obecny-program
+            name: Obecný program
+            match: radnice
       - link: /volby/senat
-        name: Senát
+        name: Senát 2018
         match: senat
   - link: /pripoj-se/
     name: Připoj se
@@ -54,7 +56,7 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /volby/
+      - link: /volby/kraj2020
         name: Volby
       - link: /aktuality/
         name: Aktuality
