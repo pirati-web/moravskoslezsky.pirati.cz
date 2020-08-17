@@ -16,7 +16,8 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /volby/kde-kandidujeme
+#  - link: /volby/kde-kandidujeme
+  - link: /volby/kraj2020
     name: Volby
     match: volby
     submenu:
