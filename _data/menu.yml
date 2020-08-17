@@ -24,10 +24,10 @@ main:
       - link: /volby/kraj2020
         name: Krajské volby 2020
         match: kraj2020
-      - link: /volby/
+      - link: /volby/kde-kandidujeme
         name: Komunální volby 2018
         match: komunal2018
-        subsubmenu:
+        submenu:
           - link: /volby/kde-kandidujeme
             name: Kde kandidujeme?
             match: radnice
