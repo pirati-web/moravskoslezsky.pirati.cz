@@ -133,6 +133,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
+      heroImg: https://a.pirati.cz/crop/1moravskoslezsky/img/posts/opava-obecni-dum-oko.jpg
       layout: "person"
       rbar:
         - profile
