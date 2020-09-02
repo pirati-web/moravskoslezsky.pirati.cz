@@ -19,22 +19,12 @@ main:
   - link: /volby/kde-kandidujeme
     name: Volby
     match: volby
-    submenu:
-      - link: /volby/kde-kandidujeme
-        name: Kde kandidujeme?
-        match: radnice
-      - link: /volby/obecny-program
-        name: Obecný program
-        match: radnice
-      - link: /volby/senat
-        name: Senát
-        match: senat
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
 
 bottom:
   - class: small-12 medium-4
