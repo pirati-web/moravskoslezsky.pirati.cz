@@ -119,12 +119,12 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
     output: true
-    permalink: /volby/:path/
-  teams:
-    output: true
-    permalink: /pripoj-se/:title/
+    permalink: /program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false
 
@@ -134,24 +134,17 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: foto 
-          #- foto
-          #- personContact
-          #- people
+      rbar:
+        - profile
+        - people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: "volby"
-      #- garant
-      #   - program
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
+      rbar:
+         - garant
+         - program
 
 fb: https://www.facebook.com/cpsmsk
 tw: PiratiMSK
