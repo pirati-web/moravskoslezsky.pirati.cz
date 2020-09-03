@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Nadpis článku'			#Zachovat jednoduché úvozovky
-date: 2020-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
+date: 2020-01-31T08:00:00.000+02:00	#Datum a čas, kdy má být článek zveřejněn
 author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
