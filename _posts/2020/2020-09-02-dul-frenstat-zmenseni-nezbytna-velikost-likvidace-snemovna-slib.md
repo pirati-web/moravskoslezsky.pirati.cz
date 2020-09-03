@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Dobývací prostor Dolu Frenštát se zmenší na nezbytnou velikost potřebnou k jeho likvidaci, slíbili ve Sněmovně zástupci státu'
-date: 2020-09-02T08:00:00.000+02:00
+date: 2020-09-02
 author: Mediální odbor
 image: posts/lukas-cernohorsky-stul.jpg
 tags:
