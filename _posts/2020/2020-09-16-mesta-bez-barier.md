@@ -16,7 +16,7 @@ Ostrava, 16. září. 2020: **Piráti usilují o větší bezbariérovost ve ve�
 <hr />
 Ten zjistil třeba to, že při rekonstrukcích ulic není vždy dodržována vyhláška o bezbariérovosti, která je přílohou stavebního zákona, a platí pro nové stavby a rekonstrukce. Jednak zde tedy dochází k porušení zákona a jednak mají handicapované skupiny obyvatel problém používat občanskou vybavenost města.
 
->&ldquo;Bez toho, aby města byla bezbariérová, nemůže být uskutečněna integrace znevýhodněných osob do společnosti. Naší prioritou je nejen zlepšení dopravní dostupnosti v rámci celého kraje, ale i odbourávání bariér v prostoru. Je to téma, které zajímá poměrně velkou část obyvatelstva,&bdquo;
+>&bdquo;Bez toho, aby města byla bezbariérová, nemůže být uskutečněna integrace znevýhodněných osob do společnosti. Naší prioritou je nejen zlepšení dopravní dostupnosti v rámci celého kraje, ale i odbourávání bariér v prostoru. Je to téma, které zajímá poměrně velkou část obyvatelstva,&ldquo;
 
 uvedl Jaroslav Hořejší, který se sám musí s četnými překážkami každodenně potýkat. 
 
@@ -30,7 +30,7 @@ A to už se dostáváme k dopravě. Když osoba se zdravotním postižením jede
 
 Bezbariérové jsou i státní instituce - Městský úřad a Okresní správa sociálního zabezpečení a Úřad práce.
 
->&ldquo;Situace v Bruntále je v rámci kraje z mé zkušenosti spíše podprůměrná. Vypadá to, že se tím úředníci buď nechtějí zabývat, nebo prostě bezbariérovou vyhlášku neznají. Já si spíš myslím, že si nechtějí přidělávat práci. Výrazně by zde pomohlo zapojení kraje, který by situaci ve spolupráci s městy mohl ze své úrovně řešit. Jsem rád, že si Pirátská strana vzala toto téma jako jednu ze svých priorit do krajských voleb, protože je důležité, aby se všichni lidé bez ohledu na svá omezení mohli svobodně pohybovat,&bdquo;
+>&bdquo;Situace v Bruntále je v rámci kraje z mé zkušenosti spíše podprůměrná. Vypadá to, že se tím úředníci buď nechtějí zabývat, nebo prostě bezbariérovou vyhlášku neznají. Já si spíš myslím, že si nechtějí přidělávat práci. Výrazně by zde pomohlo zapojení kraje, který by situaci ve spolupráci s městy mohl ze své úrovně řešit. Jsem rád, že si Pirátská strana vzala toto téma jako jednu ze svých priorit do krajských voleb, protože je důležité, aby se všichni lidé bez ohledu na svá omezení mohli svobodně pohybovat,&ldquo;
 
 uzavírá s nadějí na lepší budoucnost Jaroslav Hořejší. 
 
