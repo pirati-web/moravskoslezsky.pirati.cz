@@ -7,18 +7,19 @@ author: Mediální odbor
 image: posts/jaroslav-horejsi.jpg
 tags:
   - Bruntál
-  - Jaroslav-Hořejší
   - Bezbariérovost
+  - Jaroslav-Hořejší
 ---
 
-Ostrava, 16. září. 2020: **Piráti usilují o větší bezbariérovost ve veřejném prostoru. Ta by měla být v dnešní době samozřejmostí a také součástí vyspělé společnosti. Bohužel tomu tak není vždy a všude. Bezbariérový přístup je přitom důležitý nejen pro osoby se zdravotním postižením, ale třeba i pro maminky s kočárky. V rámci Moravskoslezského kraje se stav bezbariérovosti liší. V zásadě platí, že čím je město větší, tím je jeho přístupnost pro osoby se zdravotním postižením lepší. Jak to vypadá ve městě na úplném kraji našeho kraje, v Bruntále, jsme se přesvědčili na vlastní oči. Nebo lépe řečeno na vlastní kolečka, se svým vozíkem se do bruntálského terénu vydal pirátský kandidát do krajských voleb Jaroslav Hořejší.**
+Ostrava, 16. září 2020 – **Piráti usilují o větší bezbariérovost ve veřejném prostoru. Ta by měla být v dnešní době samozřejmostí a také součástí vyspělé společnosti. Bohužel tomu tak není vždy a všude. Bezbariérový přístup je přitom důležitý nejen pro osoby se zdravotním postižením, ale třeba i pro maminky s kočárky. V rámci Moravskoslezského kraje se stav bezbariérovosti liší. V zásadě platí, že čím je město větší, tím je jeho přístupnost pro osoby se zdravotním postižením lepší. Jak to vypadá ve městě na úplném kraji našeho kraje, v Bruntále, jsme se přesvědčili na vlastní oči. Nebo lépe řečeno na vlastní kolečka, se svým vozíkem se do bruntálského terénu vydal pirátský kandidát do krajských voleb Jaroslav Hořejší.**
 
 <hr />
+
 Ten zjistil třeba to, že při rekonstrukcích ulic není vždy dodržována vyhláška o bezbariérovosti, která je přílohou stavebního zákona, a platí pro nové stavby a rekonstrukce. Jednak zde tedy dochází k porušení zákona a jednak mají handicapované skupiny obyvatel problém používat občanskou vybavenost města.
 
->&bdquo;Bez toho, aby města byla bezbariérová, nemůže být uskutečněna integrace znevýhodněných osob do společnosti. Naší prioritou je nejen zlepšení dopravní dostupnosti v rámci celého kraje, ale i odbourávání bariér v prostoru. Je to téma, které zajímá poměrně velkou část obyvatelstva,&ldquo;
+> „Bez toho, aby města byla bezbariérová, nemůže být uskutečněna integrace znevýhodněných osob do společnosti. Naší prioritou je nejen zlepšení dopravní dostupnosti v rámci celého kraje, ale i odbourávání bariér v prostoru. Je to téma, které zajímá poměrně velkou část obyvatelstva,“
 
-uvedl Jaroslav Hořejší, který se sám musí s četnými překážkami každodenně potýkat. 
+uvedl Jaroslav Hořejší, který se sám musí s četnými překážkami každodenně potýkat.
 
 Co konkrétně není v Bruntále dodrženo? Bezbariérovost nesplňují nájezdy na chodníky nebo sklon nájezdů pro osoby s tělesným postižením a maminky s kočárky, ale také vodící pásy pro osoby se zrakovým postižením. Bez těchto stavebních úprav se nemohou zdravotně postižení po městě pohybovat bez pomoci další osoby.
 
@@ -30,11 +31,12 @@ A to už se dostáváme k dopravě. Když osoba se zdravotním postižením jede
 
 Bezbariérové jsou i státní instituce - Městský úřad a Okresní správa sociálního zabezpečení a Úřad práce.
 
->&bdquo;Situace v Bruntále je v rámci kraje z mé zkušenosti spíše podprůměrná. Vypadá to, že se tím úředníci buď nechtějí zabývat, nebo prostě bezbariérovou vyhlášku neznají. Já si spíš myslím, že si nechtějí přidělávat práci. Výrazně by zde pomohlo zapojení kraje, který by situaci ve spolupráci s městy mohl ze své úrovně řešit. Jsem rád, že si Pirátská strana vzala toto téma jako jednu ze svých priorit do krajských voleb, protože je důležité, aby se všichni lidé bez ohledu na svá omezení mohli svobodně pohybovat,&ldquo;
+> „Situace v Bruntále je v rámci kraje z mé zkušenosti spíše podprůměrná. Vypadá to, že se tím úředníci buď nechtějí zabývat, nebo prostě bezbariérovou vyhlášku neznají. Já si spíš myslím, že si nechtějí přidělávat práci. Výrazně by zde pomohlo zapojení kraje, který by situaci ve spolupráci s městy mohl ze své úrovně řešit. Jsem rád, že si Pirátská strana vzala toto téma jako jednu ze svých priorit do krajských voleb, protože je důležité, aby se všichni lidé bez ohledu na svá omezení mohli svobodně pohybovat,“
 
-uzavírá s nadějí na lepší budoucnost Jaroslav Hořejší. 
+uzavírá s nadějí na lepší budoucnost Jaroslav Hořejší.
 
 ---
 
-Úvodní obrázek zdroj: Jaroslav Hořejší st. 
+Úvodní obrázek zdroj: Jaroslav Hořejší st. \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
 - - -
