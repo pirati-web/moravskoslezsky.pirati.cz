@@ -1,0 +1,30 @@
+---
+layout: post
+category: CLANKY
+title: 'Moravskoslezští Piráti mají devět krajských zastupitelů a míří do opozice'
+date: 2020-10-06T08:00:00
+author: Jana Ožanová
+image: posts/zastupiteleMSK.jpg
+tags:
+  - Moravskoslezský-kraj
+  - Krajské-volby
+  - Zuzana-Klusová
+---
+Ostrava, 6. 10. 2020: **Z nuly na devět. Tak si v Moravskoslezském kraji polepšili Piráti v počtu mandátů v krajském zastupitelstvu. Volební zisk 11,86¨% zajistil Pirátům třetí nejlepší výsledek v kraji a devět zastupitelských křesel. Zvítězilo hnutí ANO, druhá skončila koalice ODS + TOP 09. Tato uskupení se v rekordním čase dohodla na koaliční spolupráci v podobném jako předvolebním složení - ANO, ODS + TOP 09 a KDU-ČSL, a překvapivě přizvali i ČSSD, jejíž volební výsledek nijak přesvědčivý nebyl. Piráti tak končí v opozici, ve které rozhodně chtějí být slyšet.**
+
+<hr/>
+
+>&bdquo;Musím říct, že rychlost a způsob povolebních jednání mne překvapily. I když jsme měli třetí nejlepší výsledek v kraji, nikdo s námi oficiálně nevyjednával, jediné jednání iniciovalo hnutí v ANO v momentě, kdy už byla budoucí koalice ‘upečena’. Je jasné, že karty byly předem rozdány a čekalo se jen na to, zda to získaná procenta dovolí. My se těšíme na práci v opozici, já sama mohu ze zkušenosti z komunálu potvrdit, že se dá spoustu věcí ovlivnit i odsud,&ldquo; 
+
+komentuje vznikající “staronové” vedení kraje volební lídryně a budoucí krajská zastupitelka Zuzana Klusová. 
+
+Kromě spolupráce s ČSSD u Pirátů budí otazníky i plánované rozdělení některých gescí na krajském úřadě. Transformaci průmyslu a alokaci miliardových částek by měl dostat na starost právě sociální demokrat Petr Kajnar, člověk, který jako primátor nezvládl uhlídat stamiliony. Korupční kauza lobbisty Dědice z doby, kdy byl Kajnar ve vedení města, ještě ani nebyla soudně dořešena. Životní prostředí by pak mělo připadnout Zdence Němečkové Crkvenjaš, lékařce, která zřejmě specialistkou na tuto oblast nebude. Svědčí to o tom, jak vysokou důležitost těmto gescím vedení kraje přisuzuje. 
+
+>&bdquo;Naopak oceňujeme vstřícnost kraje v případě obsazení míst ve výborech a komisích. Vyhověli naší preferenci obsazení pozice předsedy výboru pro životní prostředí a já se této pozice ráda ujmu, protože oblast životního prostředí je pro nás prioritou,&ldquo;
+
+dodává Zuzana Klusová.
+
+
+---
+
+Úvodní obrázek zdroj: Šárka Václavíková /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
