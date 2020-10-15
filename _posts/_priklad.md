@@ -21,7 +21,7 @@ Odděluje perex a text čárou:
 
 Mezi odstavci musí být vždy jeden prázdný řádek.
 
->„Přímá řeč se odděluje do vlastního odstavce, který je graficky odělen. Nezapomeňte správný, Český tvar úvozovek, tak jako jsou v této poznámce.”
+> „Přímá řeč se odděluje do vlastního odstavce, který je graficky oddělen. Nezapomeňte správný, Český tvar uvozovek, tak jako jsou v této poznámce.“
 
 Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku). Nezapomeň zmínit autora a licenci pod kterou je obrázek zveřejněn - ukázku viz na konci šablony.
 
@@ -81,7 +81,7 @@ Třeba OS&nbsp;X.
 Pokud chceš použít v textu nějaký znak, který Markdown používá v textu pro formátování, dej před něj znak \.
 Třeba \* Toto nebude seznam.
 
-Text který má být kůs kódu se uzavírá mezi obrácené úvozovky, viz příklad:
+Text který má být kůs kódu se uzavírá mezi obrácené uvozovky, viz příklad:
  toto je `kód`.
 
 Poznámka pod čarou:
