@@ -19,7 +19,7 @@ Ostrava, 29. října 2020 – **Co je psáno, to je dáno? To už dnes, a na int
 
 ## Ovládne nás Bill Gátes a spol.
 
-Internet v tomto týdnu pobavilo [video](https://www.facebook.com/fred.vychytanecz/videos/3369928716388485/ "Facebook video"), ve kterém neznámá žena tvrdí, že „očkované ženy už nikdy nebudou mít děti,“ že „z vás normálně budou roboti“ a „bude vás ovládat Bill Gátes a spol.“ O věrohodnosti této zprávy hovoří už to, že dotyčná nezvládá ani správnou výslovnost jména slavného zakladatele počítačové firmy Microsoft [Billa Gatese](https://cs.wikipedia.org/wiki/Bill_Gates "Wikipedia: Bill Gates") (čte se to: “Gejts”).
+Internet v tomto týdnu pobavilo [video](https://www.facebook.com/fred.vychytanecz/videos/3369928716388485/ "Facebook video"), ve kterém neznámá žena tvrdí, že „očkované ženy už nikdy nebudou mít děti,“ že „z vás normálně budou roboti“ a „bude vás ovládat Bill Gátes a spol.“ O věrohodnosti této zprávy hovoří už to, že dotyčná nezvládá ani správnou výslovnost jména slavného zakladatele počítačové firmy Microsoft [Billa Gatese](https://cs.wikipedia.org/wiki/Bill_Gates "Wikipedia: Bill Gates") (čte se to: „Gejts“).
 
 S určitostí nedokážeme určit, odkud neznámá čerpala své informace, nicméně na internetu je celá řada [dezinformačních článků](https://dr.frej.cz/zdravi/ockovani-a-snizeni-populace "Dr. Frej: Očkování a snížení populace"), reagujících na Gatesův [projev vytržený z kontextu](https://www.youtube.com/watch?v=iMl0ty6evhU "YouTube: Bill Gates wants to WHAT??! Depopulation Through Vaccines and Healthcare??!"). A jaká je pravda? Zakladatel Microsoftu založil [nadaci](https://www.gatesfoundation.org/ "Bill & Melinda Gates Foundation"), která doslova lije miliardy dolarů do zdravotnických projektů. Díky jeho podpoře zmizela z několika afrických zemí třeba [dětská obrna](https://www.africanews.com/2020/06/19/africa-gets-closer-to-eradication-of-wild-poliovirus-who/ "AfricaNews: Africa gets closer to eradication of wild poliovirus - WHO").
 
@@ -37,6 +37,6 @@ Dezinformátoři samozřejmě nelenili a ihned se pustili do práce. Brzy tak do
 
 ---
 
-Úvodní obrázek zdroj: Aleksandr Davydov ([fizkes](https://www.shutterstock.com/cs/g/fizkes)), ID stock fotografie bez autorských poplatků: 1196195281, [ze Shutterstock](https://www.shutterstock.com/cs/image-photo/confused-millennial-man-sitting-alone-on-1196195281).
+Úvodní obrázek zdroj: Aleksandr Davydov ([fizkes](https://www.shutterstock.com/cs/g/fizkes "fizkes")), ID stock fotografie bez autorských poplatků: 1196195281, [ze Shutterstock](https://www.shutterstock.com/cs/image-photo/confused-millennial-man-sitting-alone-on-1196195281).
 
 - - -
