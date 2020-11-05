@@ -38,6 +38,6 @@ Děkujeme, že pomáháte!
 
 ---
 
-Úvodní obrázek zdroj: https://pixabay.com/photos/sandwich-bread-poverty-homeless-5549852/, Pixabay licence
+Úvodní obrázek zdroj: Myriams-Fotos \[[Pixabay License](https://pixabay.com/service/license/)\], [z Pixabay](https://pixabay.com/photos/sandwich-bread-poverty-homeless-5549852/).
 
 - - -
