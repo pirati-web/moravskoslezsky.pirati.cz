@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: '#4 Pravda bolí: Vakcíny – účinné, ale nepopulární řešení '
+title: '#4 Pravda bolí: Vakcíny – účinné, ale nepopulární řešení'
 date: 2020-11-19
 authorId: daniel.galuszka
 author: Daniel Galuszka
