@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Zastupitelstvo ve Frýdku-Místku podpořilo návrh Pirátů a odvolalo radního Jiřího Zaorala (ČSSD)'
-date: 2020-12-16
+date: 2020-12-17
 author: Jana Ožanová
 image: posts/zastupko-fm-12-20.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
   - Jakub-Tichý
 ---
 
-Frýdek-Místek, 16. prosince 2020 – **Včerejší zasedání zastupitelstva města Frýdek-Místek přineslo řadu třaskavých témat a bouřlivou diskuzi. Nejdelší a poměrně vyostřená debata se překvapivě netočila kolem rozpočtu, ale kolem pirátského návrhu na odvolání Jiřího Zaorala z Rady města. Ten byl nakonec těsným výsledkem hlasování skutečně odvolán.**
+Frýdek-Místek, 17. prosince 2020 – **Včerejší zasedání zastupitelstva města Frýdek-Místek přineslo řadu třaskavých témat a bouřlivou diskuzi. Nejdelší a poměrně vyostřená debata se překvapivě netočila kolem rozpočtu, ale kolem pirátského návrhu na odvolání Jiřího Zaorala z Rady města. Ten byl nakonec těsným výsledkem hlasování skutečně odvolán.**
 
 <hr />
 
