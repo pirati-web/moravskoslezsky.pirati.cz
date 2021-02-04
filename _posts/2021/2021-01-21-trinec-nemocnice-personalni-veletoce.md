@@ -36,6 +36,8 @@ dodává Pavel Kořízek, pirátský krajský zastupitel a člen Výboru pro zdr
 
 Celé znění dopisu náměstkovi pro zdravotnictví Martinu Gebauerovi si můžete přečíst zde: [dopis-namestkovi-trinec.pdf](https://a.pirati.cz/msk/doc/dopis-namestkovi-trinec.pdf "411 KiB").
 
+Reakci náměstka Gebauera a jeho odpovědi si můžete přečíst zde: [dopis-namestkovi-trinec-odpovedi.pdf](https://a.pirati.cz/msk/doc/dopis-namestkovi-trinec-odpovedi.pdf "434 KiB")
+
 ---
 
 Úvodní obrázek zdroj: [Mapy.cz](https://mapy.cz/zakladni?x=18.6918665&y=49.6747638&z=18&source=firm&id=194507&gallery=1 "Mapy.cz").
