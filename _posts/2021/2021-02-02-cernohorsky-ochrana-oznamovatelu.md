@@ -9,6 +9,7 @@ tags:
   - Praha
   - Korupce
   - Kontrola-moci-a-mocných
+  - Sněmovna
   - Lukáš-Černohorský
 ---
 
@@ -21,5 +22,7 @@ Na základě zkušeností z konkrétních kauz mám pochybnosti, zda-li oznamova
 Proto navrhujeme, aby k pro účelu oznamování protiprávního jednání byly využity instituce, které jsou na vládě co nejvíce nezávislé. Aktivní podporu by oznamovatelům měl zajistit nezávislý profesionál pod Úřadem Veřejného ochránce práv. Již teď můžeme pozorovat osud oznamovatelů, kteří ve státní správě upozornili na možnou závažnou činnost a následně museli z ministerstva odejít. Zmínit lze odvážné oznamovatele Martinu Uhrinovou, Miloslavu Pošvářovou, Libora Michálka, Lukáše Wagenknechta, Jakuba Klouzala či Ondřeje Závodského.
 
 Úřad Veřejného ochránce práv by měl za úkol komunikovat s jednotlivými prošetřovateli, hodnotit oznamování na jednotlivých úřadech a povedl by Komisi pro ochranu a podporu oznamovatelů složenou ze zástupců nevládních organizací, ministerstev, státního zastupitelství, akademické obce a podobně.
+
+Zdroj: [Pirati.cz](https://www.pirati.cz/tiskove-zpravy/cernohorsky-ochrana-oznamovatelu.html "Pirati.cz - Lukáš Černohorský: Skutečnou podporu oznamovatelům protiprávního jednání může poskytnout jen nezávislý úřad, ne ministerstvo. Piráti dlouhodobě navrhují zapojení Veřejného ochránce práv")
 
 - - -
