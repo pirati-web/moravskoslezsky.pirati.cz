@@ -34,7 +34,7 @@ Konzultace poskytuje jak telefonicky a elektronicky, tak osobně, lidem radí ta
 
 dodává Jan Rejman.
 
-Nejdůležitější informace ke kompenzačním dotačním programům a odpovědi na nejčastěji kladené otázky najdete [zde (pdf, 999 KiB)](https://a.pirati.cz/msk/doc/kompenzace-faq.pdf "Informace ke kompenzačním dotačním programům a odpovědi na nejčastěji kladené otázky").
+Nejdůležitější informace ke kompenzačním dotačním programům a odpovědi na nejčastěji kladené otázky najdete [zde](https://a.pirati.cz/msk/doc/kompenzace-faq.pdf "Informace ke kompenzačním dotačním programům a odpovědi na nejčastěji kladené otázky") (pdf, 999 KiB).
 
 ---
 
