@@ -12,7 +12,7 @@ url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your
 mediaStorage: moravskoslezsky
 
 administrator:
-  email: michal.breskovec@pirati.cz # mail kam pujdou chybove vystupy
+  email: michal.breskovec@pirati.cz, jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
 
 emptyArray: []
 
