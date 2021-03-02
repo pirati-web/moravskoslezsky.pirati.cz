@@ -31,10 +31,8 @@ Finance na uzavření dolu půjdou ze státního rozpočtu a dle ředitele stá
 
 komentoval výsledky jednání Stanislav Uruba, předseda spolku Naše Beskydy, který bránil těžbě v CHKO Beskydy spolu se starosty.
 
-<!--
 ---
 
-Úvodní obrázek zdroj: Petr Zewlak Vrabec \([Facebook](https://www.facebook.com/zewlakk)\) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
--->
+Úvodní obrázek zdroj: Petr Zewlakk Vrabec \([Instagram](https://www.instagram.com/zewlakk_foto/)\) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
