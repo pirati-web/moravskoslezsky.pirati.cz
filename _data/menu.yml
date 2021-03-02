@@ -16,9 +16,6 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /volby/kde-kandidujeme
-    name: Volby
-    match: volby
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
