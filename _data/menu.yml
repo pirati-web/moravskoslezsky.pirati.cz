@@ -16,26 +16,6 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-#  - link: /volby/kde-kandidujeme
-  - link: /volby/kraj2020
-    name: Volby
-    match: volby
-    submenu:
-      - link: /volby/kraj2020
-        name: Krajské volby 2020
-        match: kraj2020
-      - link: /volby/senat2020
-        name: Senát 2020
-        match: senat
-      - link: /volby/kde-kandidujeme
-        name: Komunál 2018 - Kde kandidujeme?
-        match: radnice
-      - link: /volby/obecny-program
-        name: Komunál 2018 - Obecný program
-        match: radnice
-      - link: /volby/senat2018
-        name: Senát 2018
-        match: senat
   - link: /pripoj-se/
     name: Připoj se
     match: pripoj-se
