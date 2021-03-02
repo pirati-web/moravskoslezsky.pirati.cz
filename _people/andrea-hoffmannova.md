@@ -7,6 +7,7 @@ titles:
 category:
 - zast
 img: people/andrea-hoffmannova.jpg
+heroImg: header/panorama.jpg
 description: náměstkyně primátora města Ostravy, zastupitelka městského obvodu Poruba
 mail: andrea.hoffmannova@pirati.cz
 mob:			  

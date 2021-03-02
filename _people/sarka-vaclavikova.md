@@ -7,6 +7,7 @@ name:     Šárka Václavíková  	# běžně používáné jméno
 mail:
 - sarka.vaclavikova@pirati.cz
 img: people/sarka-vaclavikova.jpg   # 165x220px
+heroImg: header/panorama.jpg
 description: Koordinátorka jihomoravského krajského sdružení 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

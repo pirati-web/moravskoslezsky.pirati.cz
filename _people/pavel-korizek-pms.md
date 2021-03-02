@@ -6,7 +6,8 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pms
-img: people/pavel-korizek.jpg   # 165 x 220
+img: people/pavel-korizek.jpg   # 165 x 
+heroImg: header/panorama.jpg
 description: zastupitel města Opavy a předseda místního sdružení Opavské Slezsko       	# kratký popis, max 160 znaků
 mail:
 - pavel.korizek@pirati.cz

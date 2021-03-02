@@ -10,6 +10,7 @@ category:
 - zast
 ordpak: 1
 img: people/jakub-dedek.jpg
+heroImg: header/panorama.jpg
 description: zastupitel městského obvodu Poruba, koordinátor dobrovolníků pro Moravskoslezský kraj a místopředseda místního sdružení Ostrava
 mail: jakub.dedek@pirati.cz
 mob: +420 770 113 644

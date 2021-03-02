@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/lukas-cernohorsky.jpg   # 165 x 220
+heroImg: header/panorama.jpg
 description: poslanec PSP ČR za Moravskoslezský kraj a místopředseda místního sdružení Ostrava           	# kratký popis, max 160 znaků
 
 mail:

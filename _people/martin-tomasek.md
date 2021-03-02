@@ -7,6 +7,7 @@ titles:
 category:
 - zast
 img: people/martin-tomasek.jpg
+heroImg: header/panorama.jpg
 description: místostarosta městského obvodu Poruba
 mail: martin.tomasek@pirati.cz
 ---

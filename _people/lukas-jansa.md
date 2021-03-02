@@ -5,6 +5,7 @@ titles:
   before: JUDr. 
   after: 
 img: people/lukas-jansa.jpg
+heroImg: header/panorama.jpg
 description: radní městského obvodu Moravská Ostrava a Přívoz
 mail: # zjistit
 ---

@@ -5,6 +5,7 @@ fullname: Mgr. Karolína Sadílková  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mo-contact
 img: people/karolina-sadilkova.jpg    # 165 x 220
+heroImg: header/panorama.jpg
 description: PR manager a tisková mluvčí            	# kratký popis, max 160 znaků
 mail:
 - karolina.sadilkova@pirati.cz

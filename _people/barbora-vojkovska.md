@@ -7,6 +7,7 @@ titles:
 category:
 - zast
 img: people/barbora-vojkovska.jpg
+heroImg: header/panorama.jpg
 description: zastupitelka městského obvodu Moravská Ostrava a Přívoz 
 mail: barbora.vojkovska@pirati.cz
 ---

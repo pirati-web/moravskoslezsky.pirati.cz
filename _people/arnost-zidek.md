@@ -7,6 +7,7 @@ titles:
 category:
 - representativeJih
 img: people/arnost-zidek.jpg
+heroImg: header/panorama.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # - zjistit
 authorInfobox:
