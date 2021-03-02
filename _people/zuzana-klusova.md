@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - zast
+- kzast
 img: people/zuzana-klusova.jpg           # 165 x 220
 heroImg: header/panorama.jpg
 description: zastupitelka města Karviná, asistentka v regionální poslanecké kanceláři Lukáše Černohorského a Ondřeje Polanského a místopředsedkyně krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
