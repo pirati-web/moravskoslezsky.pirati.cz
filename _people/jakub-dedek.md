@@ -5,8 +5,6 @@ titles:
   before:
   after:
 category:
-- koordinator
-- kontaktni_osoba
 - zast
 ordpak: 1
 img: people/jakub-dedek.jpg
