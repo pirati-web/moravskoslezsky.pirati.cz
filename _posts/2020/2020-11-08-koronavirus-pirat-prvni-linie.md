@@ -25,7 +25,7 @@ Situace s bydlením v Praze není úplně jednoduchá. Chtěli bychom v budoucnu
 
 Ano, působím jako diplomovaná všeobecná sestra na onkologii. Pokud porovnám Prahu a Ostravu, tak si myslím, že v Ostravě je situace v oblasti sester o malinko lepší než v Praze. Zejména co jsem pracoval v Motole, tak tam právě pracovalo hodně sester z Ostravy, což je i případ mé manželky, ale hlavně sestry ze Slovenska a začínal tam i příliv sester z Ukrajiny, bohužel ani to nevedlo k vylepšení situace. V Ostravě jsou většinou naše sestry, a i když je jich nedostatek, tak situace není tak vážná.
 
-{% asset 'articles/2020/jan-fiser/jan-fiser-01.jpg' alt='Pirát Jan Fišer v práci.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/jan-fiser/jan-fiser-01.jpg' alt='Pirát Jan Fišer v práci.' %}
 
 <p style="text-align: center">
 <i>Pirát Jan Fišer v práci.</i>
