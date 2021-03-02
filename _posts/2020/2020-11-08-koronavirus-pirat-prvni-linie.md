@@ -39,7 +39,7 @@ Jsou to pacienti COVID-19 pozitivní a nebo suspektní. Pacienti, kteří potře
 
 Školením mě provedla moje kolegyně, která mě naučila oblékat a svlékat speciální ochranné obleky, existuje na to speciální postup. Práce je okořeněna o ty ochranné pomůcky, není jednoduché se třemi rukavicemi zavést kanylu či odebrat krev. U našich pacientů, kteří mají dost vysoký věk, často žíly praskají a nejsou v dobré kondici. Naše nejstarší pacientka má 97 let. Většina z nás je tam v nové situaci a tak by se dalo říci, že si budujeme nové oddělení, které nemá obdoby.
 
-{% asset 'articles/2020/jan-fiser/jan-fiser-02.jpg' alt='Pirát Jan Fišer v práci během koronaviru.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/jan-fiser/jan-fiser-02.jpg' alt='Pirát Jan Fišer v práci během koronaviru.' %}
 
 <p style="text-align: center">
 <i>Pirát Jan Fišer v práci během koronaviru.</i>
@@ -49,7 +49,7 @@ Jsou to pacienti COVID-19 pozitivní a nebo suspektní. Pacienti, kteří potře
 
 Je to velmi náročné. Obdivuju všechny své kolegyně. Vždy jsem celý  zpocený, ochranný oblek vůbec nic nepropustí. Respirátor FPP3 pouští pouze vzduchové částice, ale aerosol vám zůstává na obličeji, to vede k akné a k různým kožním postižením. Někdy v tom člověk je i sedm hodin v kuse, což je strašně dlouhá doba. Mlží se brýle a je také hůře vidět, opravdu je to složité.
 
-{% asset 'articles/2020/jan-fiser/jan-fiser-03.jpg' alt='Pirát Jan Fišer v práci v ochranném obleku.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/jan-fiser/jan-fiser-03.jpg' alt='Pirát Jan Fišer v práci v ochranném obleku.' %}
 
 <p style="text-align: center">
 <i>Pirát Jan Fišer v práci v ochranném obleku.</i>
