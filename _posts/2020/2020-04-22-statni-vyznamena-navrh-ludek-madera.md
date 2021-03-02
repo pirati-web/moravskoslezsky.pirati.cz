@@ -33,7 +33,7 @@ Piráti považují právo občanů na informace za naprosto zásadní demokratic
 
 dodává Lukáš Černohorský.
 
-{% asset 'articles/2020/ludek-madera.jpg' alt='Luděk Maděra' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/ludek-madera.jpg' alt='Luděk Maděra' %}
 
 <p style="text-align: center"><i><a href="https://wiki.pirati.cz/lide/ludek_madera">Luděk Maděra</a>, zdroj: fotky Luďka Maděry.</i></p>
 

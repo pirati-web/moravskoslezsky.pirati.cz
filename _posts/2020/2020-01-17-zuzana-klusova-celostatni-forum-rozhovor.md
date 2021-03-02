@@ -28,7 +28,7 @@ Na přípravě se podílelo celkem 57 dobrovolníků ze všech úrovní, od podp
 
 Nejspíš tím, že viděli, že sama dělám, co můžu. Stejně jako mně jim záleželo na tom, ať se akce povede a Ostravě uděláme dobré jméno.  Nerozdávala jsem úkoly, ale čekala, s jakým nápadem kdo přijde, co si sám vezme na starost. Snažila se mít pořád dobrou náladu, nadhled a smysl pro humor. Pochválit, když se něco povede a podpořit, když se něco nepovede. Jsme parta svobodomyslných pracovitých lidí, ti se neřídí, s těmi se spolupracuje. Je potřeba jim dát prostor pro nápady a nechat je dělat to, co umí nejlíp a co je baví. Pak se celá ta mozaika individuí složí do dokonalého celku. A jak říká spisovatel Paulo Coelho: „Když něco opravdu chceš, celý vesmír se spojí, abys to mohl uskutečnit.“
 
-{% asset 'articles/2020/cf2020-zuzka-david.jpg' alt='Zuzana Klusová a David Witosz na CF2020.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/cf2020-zuzka-david.jpg' alt='Zuzana Klusová a David Witosz na CF2020.' %}
 
 <p style="text-align: center">
 <i>Zuzana Klusová a David Witosz na CF2020.</i>

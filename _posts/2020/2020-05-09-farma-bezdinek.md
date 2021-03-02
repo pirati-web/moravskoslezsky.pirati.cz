@@ -18,19 +18,19 @@ Dolní Lutyně, 10. května 2020 – **Farma Bezdínek je ukázkovým příklade
 
 Farma Bezdínek zeleninu pěstuje ve sklenících, které se rozkládají na více než 11 hektarech. Skleníkový areál vyrostl na pomezí katastru Dolní Lutyně a Dětmarovic v loňském roce. Právě z nedaleké dětmarovické elektrárny se skleníky vytápí novým horkovodem.
 
-{% asset 'articles/2020/farma-bezdinek/farmar1.jpg' alt='Zuzana Klusová a Radim Kravčík ve skleníku u okurek.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/farma-bezdinek/farmar1.jpg' alt='Zuzana Klusová a Radim Kravčík ve skleníku u okurek.' %}
 
 <p style="text-align: center"><i>Zuzana Klusová a Radim Kravčík ve skleníku u okurek.</i></p>
 
 Ohleduplnost k životnímu prostředí se promítá do všech činností a postupů. Produkují zeleninu bez pesticidů, díky chytrému zachytávání dešťové vody ze střech skleníků mají dvě třetiny právě odtud. Aby neznehodnotili zemědělskou půdu, mají skleníky pevné základy pouze po obvodu, na zbytku plochy půda zůstává nedotčená pod plachtou. Rostliny opylují čmeláci a na ochranu rostlin před škůdci používají přirozené nepřátele - tedy jiné druhy hmyzu, které zabíjí škůdce a chrání rostliny. Zálivka je řešená dešťovou vodou, pesticidy nahrazuje biologická ochrana. Klima ve skleníku monitorují a upravují tak, aby měly rostliny ty nejlepší podmínky pro růst.
 
-{% asset 'articles/2020/farma-bezdinek/farmar2.jpg' alt='Zrající rajčata na farmě Bezdínek.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/farma-bezdinek/farmar2.jpg' alt='Zrající rajčata na farmě Bezdínek.' %}
 
 <p style="text-align: center"><i>Zrající rajčata na farmě Bezdínek.</i></p>
 
 Denně sklidí v průměru 7 tun rajčat a okurek, aktuálně sklízejí 15 tun denně. Jejich čerstvou zeleninu si můžete koupit buď přímo na [farmě](https://www.farmabezdinek.cz/kde-koupit/) nebo v některých supermarketech, kam ji pravidelně dodávají. Farma dnes zaměstnává asi 300 lidí především z Karvinska a plánuje další rozvoj.
 
-{% asset 'articles/2020/farma-bezdinek/farmar3.jpg' alt='Krásné okurky na farmě Bezdínek.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/farma-bezdinek/farmar3.jpg' alt='Krásné okurky na farmě Bezdínek.' %}
 
 <p style="text-align: center"><i>Krásné okurky na farmě Bezdínek.</i></p>
 
