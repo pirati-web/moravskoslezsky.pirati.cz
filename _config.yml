@@ -9,8 +9,6 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezký kraj, slezko, MSK
 url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
 
-
-
 administrator:
   email: michal.breskovec@pirati.cz, jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
 
