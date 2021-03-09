@@ -11,6 +11,7 @@ tags:
   - Andrea-Hoffmannová
 ---
 
+
 Ostrava, 5. března 2021 – **Další vlnu pandemie provází další vlna pomoci. Ostrava stejně jako v loňském roce vyčlenila finanční prostředky na pomoc drobným podnikatelům a nyní chystá další podporu i pro neziskové organizace. Program na podporu podnikatelů město spustilo v lednu a po dobu šesti týdnů rada města projednávala v jednotlivých balících podporu konkrétním žadatelům. Dohromady tak získá 1854 subjektů více než 37 milionů korun. S koncem výzvy pro podnikatele nyní město zveřejnilo program finanční pomoci pro neziskové organizace.**
 
 <hr />
