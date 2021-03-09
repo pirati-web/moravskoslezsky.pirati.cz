@@ -13,6 +13,7 @@ tags:
   - Ondřej-Polanský
 ---
 
+
 Praha, 8. března 2021 – **Piráti odmítají návrh poslance ANO Martina Kolovratníka umožňující tzv. konzervaci lokálních tratí a chtějí ho vyškrtnout z novely zákona o drahách, který je na programu jednání Sněmovny v tomto týdnu. Podle pirátského poslance Ondřeje Polanského by mohl znamenat rušení stovek kilometrů železnice v Česku. V uplynulých týdnech se proti snazšímu rušení lokálek vzedmula vlna kritiky z řad odborné i širší veřejnosti. Piráti návrh kritizovali od počátku a v únoru, kdy ho posvětil Hospodářský výbor Poslanecké sněmovny, jako jediní hlasovali proti. Pochybnosti podle nich vzbuzují nejen drakonicky nastavené podmínky, ale i zásadní chyba v paragrafovém znění návrhu. Pro případ, že by se jej ale vyškrtnout nepodařilo, připravili sérii pozměňovacích návrhů, kterými se snaží alespoň omezit největší rizika a problémy.**
 
 <hr />
