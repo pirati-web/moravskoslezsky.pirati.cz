@@ -21,7 +21,8 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11", group: :jekyll_plugins
+  gem "jekyll-assets", "3.0.11"
+  gem 'jekyll-environment-variables'
 end
 
 group :development, :test do
@@ -31,12 +32,12 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-gem "json" # For gem building
+gem 'execjs'
+gem "json"  # For gem building
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
-gem "autoprefixer-rails"
+gem "autoprefixer"
 gem "image_optim"
 gem "image_optim_bin" # Optional
 gem "image_optim_pack"
