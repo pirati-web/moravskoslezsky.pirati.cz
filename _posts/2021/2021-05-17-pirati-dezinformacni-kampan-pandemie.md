@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Piráti odhalili nelegální dezinformační kampaň zneužívající pandemii'			
 date: 2021-05-17
 author: Mediální odbor			
-image: posts/bilboard1.jpg
+image: posts/billboard1.jpg
 tags:					
   - Moravskoslezský-kraj
   - Ostrava
