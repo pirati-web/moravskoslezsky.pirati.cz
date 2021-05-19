@@ -32,7 +32,7 @@ Lídr kandidátky v Moravskoslezském kraji Lukáš Černohorský již odeslal �
 
 vysvětluje Lukáš Černohorský.
 
-{% asset 'articles/2021/liberty-ostrava-kauza-uver.jpg' alt='Kauza zmizelého úvěru 2 miliardy Kč Liberty Ostrava (Nová huť).' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2021/liberty-ostrava-kauza-uver.jpg' alt='Kauza zmizelého úvěru 2 miliardy Kč Liberty Ostrava (Nová huť).' %}
 
 <p style="text-align: center">
 <i>Kauza zmizelého úvěru 2 miliardy Kč Liberty Ostrava (Nová huť).</i>
