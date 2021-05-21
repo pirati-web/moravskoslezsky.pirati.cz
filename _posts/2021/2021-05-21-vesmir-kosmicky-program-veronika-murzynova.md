@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Vesmír není tak daleko, jak se zdá,“ říká autorka kosmického programu Veronika Murzynová'
 date: 2021-05-21
-authorId: veronika.murzynova
+author: Jana Ožanová
 image: posts/veronika-murzynova-vesmir.jpg
 tags:					
   - Ostrava
