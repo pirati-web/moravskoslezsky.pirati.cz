@@ -6,6 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/alena-klocova.jpg         # 165 x 220
+heroImg: header/panorama.jpg
 description: místní sdružení Karvinsko # kratký popis, max 160 znaků
 mail:
 - alena.klocova@pirati.cz

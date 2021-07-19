@@ -7,6 +7,7 @@ titles:
 category:
 - zast
 img: people/michal-breskovec.jpg
+heroImg: header/panorama.jpg
 description: zastupitel městského obvodu Ostrava-Jih a místopředseda místního sdružení Ostrava
 mail:
 - michal.breskovec@pirati.cz

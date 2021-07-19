@@ -1,13 +1,13 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
+    icon: "ico--newspaper"
 
 main:
   - link: /aktuality/
@@ -16,35 +16,15 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-#  - link: /volby/kde-kandidujeme	
-  - link: /volby/kraj2020	
-    name: Volby	
-    match: volby	
-    submenu:	
-      - link: /volby/kraj2020	
-        name: Krajské volby 2020	
-        match: kraj2020	
-      - link: /volby/senat2020	
-        name: Senát 2020	
-        match: senat	
-      - link: /volby/kde-kandidujeme	
-        name: Komunál 2018 - Kde kandidujeme?	
-        match: radnice	
-      - link: /volby/obecny-program	
-        name: Komunál 2018 - Obecný program	
-        match: radnice	
-      - link: /volby/senat2018	
-        name: Senát 2018	
-        match: senat        
-  - link: /pripoj-se/
-    name: Připoj se
-    match: pripoj-se
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
+  - link: /piratske-centrum/
+    name: Pirátské centrum
+    match: piratske-centrum
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
 
 bottom:
   - class: small-12 medium-4
@@ -57,7 +37,7 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /volby/kraj2020
+      - link: /volby/
         name: Volby
       - link: /aktuality/
         name: Aktuality
@@ -70,3 +50,14 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - id: jakub.dedek
+    position: Koordinátor
+  - id: sarka.vaclavikova
+    position: Volební manažerka
+  - id: zuzana.klusova
+    position: Kontakt pro novináře

@@ -8,6 +8,7 @@ category:
   - pms
 description: předseda místního sdružení Karvinsko
 img: people/jakub-jezisek.jpg
+heroImg: header/panorama.jpg
 mail:
   - jakub.jezisek@pirati.cz
 mob:

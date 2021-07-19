@@ -30,7 +30,7 @@ S „velkovýrobou“ rouškolapek začala Veronika před pár týdny, kdy ji ne
 
 říká s úsměvem Veronika a ukazuje na úhledně srovnané hromádky vydezinfikovaných rouškolapek, čekajících na zabalení a rozeslání. Za necelé tři týdny, kdy spony tiskne, jich pod jejíma rukama prošlo téměř 800. Pomáhají v ostravských nemocnicích a domovech s pečovatelskou službou, u záchranné služby, několik balíčků rozeslala dalším zájemcům různě po republice.
 
-{% asset 'articles/2020/andrea-hoffmannova-rouskolapka.jpg' alt='Rouškolapku při celodenním nošení roušky oceňuje i ostravská náměstkyně Andrea Hoffmannová.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/andrea-hoffmannova-rouskolapka.jpg' alt='Rouškolapku při celodenním nošení roušky oceňuje i ostravská náměstkyně Andrea Hoffmannová.' %}
 
 <p style="text-align: center">
 <i>Rouškolapku při celodenním nošení roušky oceňuje i ostravská náměstkyně Andrea Hoffmannová.</i>
@@ -50,7 +50,7 @@ Máte ve svém okolí někoho, komu by se rouškolapky také hodily? Stačí nas
 
 <p style="text-align: center">
 
-{% asset 'articles/2020/qr-rouskolapky.png' alt='Objednání rouškolapek.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/qr-rouskolapky.png' alt='Objednání rouškolapek.' %}
 
 <br /><i>Objednání rouškolapek.</i>
 </p>

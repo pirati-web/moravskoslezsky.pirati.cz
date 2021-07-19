@@ -3,51 +3,39 @@ layout: contacts
 # contentSize: big
 contentSize: even
 residences:
- - name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
-   url:
+ - name: Pirate Space Brno
+# Kontaktní a pracovní centrum
+   url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-     Ostravské pirátské centrum (OPiCe)
-     Denisova 639/2
-     702 00 Moravská Ostrava a Přívoz 
-   spravce: jakub.dedek
-   residenceImg: kontakt/opice.jpg
-   mapLink: "https://goo.gl/maps/dakQGzwQKng8ER9o7"
- - name: Regionální poslanecká kancelář
-   url: 
+                          Údolní 37 (suterén)
+                          60200 Brno
+   spravce: vendula.svobodova
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
+   mapLink: "SCcP8sLSHGg5pSBr8"
+ - name: Poslanecká kancelář <br> Tomáš Vymazal
+  # url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-     Denisova 639/2 (3. patro)
-     702 00 Moravská Ostrava a Přívoz 
-     
-     <strong>Kancelář je pro Vás otevřena:</strong>
-     Každé pondělí 10:00 - 12:00 <b>Lukáš Černohorský</b>
-     a 12:00 - 14:00 <b>Ondřej Polanský</b>.
-
-     Kdykoliv mimo tuto dobu je Vám k dispozici asistentka, s níž si můžete dohodnout schůzku v jiném termínu.
-   spravce: zuzana.klusova
-   residenceImg:
-   mapLink: "https://goo.gl/maps/dakQGzwQKng8ER9o7"
-contactPersons:
- - id: jakub.dedek
-   position: Kontakt pro dobrovolníky
- - id: zuzana.klusova
-   position: Kontakt pro novináře
+    Kopečná 940
+    Brno, 602 00
+   spravce: petra.vymazalova
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
+   #mapLink: "SCcP8sLSHGg5pSBr8"
+ - name: Poslanecká kancelář <br> Radek Holomčík
+  # url: https://www.facebook.com/PirateSpaceBrno/
+   address: |
+    Kostelní 1407
+    Strážnice, 696 62
+   spravce: simona.kollarova
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
+   #mapLink: "SCcP8sLSHGg5pSBr8"
 ---
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-
-Zajímá vás co piráti dělají? <a href="https://nalodeni.pirati.cz/">Naloďte se</a> a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
-
-Finanční dary můžete posílat na <a href="https://dary.pirati.cz">zde</a>.
-Pokud chcete darovat přimo našemu kraji, poraďte se prosím s koordinátorem.
-</div>
 
 <div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Poslanci</h1>
-
-{% assign person = site.people | where_exp: "item","item.uid contains 'lukas.cernohorsky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-<br>
-{% assign person = site.people | where_exp: "item","item.uid contains 'ondrej.polansky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
+  <h1 class="t-h2-alt">Kontaktní informace</h1>
 </div>
+* Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
+* **Schůze krajského sdružení** Zasedání krajského sdružení jsou vyhlašovány na <a href="https://forum.pirati.cz/viewforum.php?f=567" target="_blank">fóru</a>.
+* **Schůze místních sdružení** Zasedání místních sdružení jsou vyhlašovány v příslušných podsekcích na <a href="https://forum.pirati.cz/viewforum.php?f=589&sid=5d5208f19575021e0302aa8867091462" target="_blank">Fóru</a>.
+* **Akce a setkání s veřejností** Schůze jsou veřejnosti otevřené, avšak setkat se s námi můžete i neformálně mimo ně. Pro aktuální informace o plánovaných událostech <a href="https://www.facebook.com/CPS.JMK/" target="_blank">sledujte náš Facebook</a> nebo <a href="https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague">kalendář akcí</a>.
+

@@ -6,7 +6,7 @@ date: 2019-02-19T16:00:00.000Z
 authorId: arnost.zidek
 image: posts/maturita-matematika.jpg
 tags:
-  - Ostrava-Jih
+  - Jih
   - Blog
   - Vzdělávání
   - Arnoštovo-okénko

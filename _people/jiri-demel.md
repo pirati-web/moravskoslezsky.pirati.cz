@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 
 img: people/jiri-demel.jpg   # 165 x 220
+heroImg: header/panorama.jpg
 description: předseda krajského sdružení Moravskoslezského kraje           	# kratký popis, max 160 znaků
 mail:
 - jiri.demel@pirati.cz

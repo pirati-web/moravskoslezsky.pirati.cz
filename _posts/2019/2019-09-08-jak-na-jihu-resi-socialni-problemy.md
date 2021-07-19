@@ -2,12 +2,12 @@
 layout: post
 category: CLANKY
 title: 'Romana Körösi: Jak se na Jihu (ne)řeší sociální problémy'
-date: 2019-09-08
+date: 2019-09-08T00:00:00.000Z
 author: Romana Kӧrӧsi
 image: posts/hlubina.jpg
 tags:
   - Ostrava
-  - Ostrava-Jih
+  - Jih
   - Sociální-bydlení
   - Romana-Körösi
 ---

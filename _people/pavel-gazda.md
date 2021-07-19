@@ -5,6 +5,7 @@ category:                   	# kategorie: rp, praha, vary, hradec, jmk, senat
     - opa                	
 ordopa: 2
 img: people/pavel-gazda.jpg           # 165 x 220
+heroImg: header/panorama.jpg
 description: zastupitel městské části Opava-Malé Hoštice
 mail:
 - pavel.gazda@pirati.cz

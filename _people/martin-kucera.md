@@ -7,6 +7,7 @@ titles:
 category:
 - zast
 img: people/martin-kucera.jpg
+heroImg: header/panorama.jpg
 description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
 mail: martin.kucera@pirati.cz
 ---

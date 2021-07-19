@@ -5,6 +5,7 @@ category:       # kategorie: rp, praha, vary, hradec, jmk, senat
     - zast
 ordopa: 1
 img: people/jan-sterba.jpg           # 165 x 220
+heroImg: header/panorama.jpg
 description: zastupitel města Opavy a místopředseda místního sdružení Opavské Slezsko
 mail:
 - jan.sterba@pirati.cz

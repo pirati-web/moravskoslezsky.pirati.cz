@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/michal-klus.jpg   # 165 x 220
+heroImg: header/panorama.jpg
 description: webdesignér a místopředseda místního sdružení Karvinsko   	# kratký popis, max 160 znaků
 mail:
 - michal.klus@pirati.cz

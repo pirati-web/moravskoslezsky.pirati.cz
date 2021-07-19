@@ -18,7 +18,7 @@ Ostrava, 1. června 2020 – **Odvážně a s pokorou. S tímto heslem se chce o
 
 Martin Tomášek je pirátským místostarostou pro vzdělávání a prevenci kriminality v Ostravě-Porubě. Zároveň působí na Ostravské univerzitě, kde připravuje budoucí učitele. Díky této dvojroli může sledovat současný stav školství a podporovat moderní metody na různých úrovních, od mateřské školy po vysokou. Jaká je jeho vize českého vzdělávání? Školy otevřené všem dětem i rodičům. Sebevědomí, dobře připravení a ohodnocení učitelé vedoucí své žáky k aktivnímu přístupu k řešení problémů a k všestrannému rozvoji. Ředitelé jako pedagogičtí lídři citliví vůči měnícím se společenským potřebám a pedagogickým trendům.
 
-{% asset 'posts/martin-tomasek2.jpg' alt='Martin Tomášek, kandidát do Senátu za Piráty.' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/posts/martin-tomasek2.jpg' alt='Martin Tomášek, kandidát do Senátu za Piráty.' %}
 
 <p style="text-align: center"><i>Martin Tomášek, kandidát do Senátu za Piráty.</i></p>
 

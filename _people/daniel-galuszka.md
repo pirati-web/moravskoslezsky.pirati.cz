@@ -8,6 +8,7 @@ category:
 - zast
 - pks
 img: people/daniel-galuszka.jpg
+heroImg: header/panorama.jpg
 description: zastupitel města Bohumína a místopředseda místního sdružení Karvinsko a místopředseda krajského sdružení Moravskoslezského kraje
 mail:
 - daniel.galuszka@pirati.cz 

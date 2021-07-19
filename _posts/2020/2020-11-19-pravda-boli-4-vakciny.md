@@ -21,13 +21,13 @@ Ostrava, 19. listopadu 2020 – **Jakoby tomu bylo včera, kdy Roman Prymula je�
 Společný projekt předních českých výzkumných agentur přišel se zajímavými daty o tom, jak Češi vnímají koronavirus. Výzkumné šetření probíhá kontinuálně a jeho výsledkem je několik indexů, které zachycují vývoj společenských postojů a nálad v aktuální situaci. Těmito indexy jsou: míra strachu, důvěra v představitele státu, výhled obyvatel na průběh a vývoj pandemie, reálný dopad situace na obyvatele a vlastní zkušenost s výskytem nemoci či nemocných v blízkém okolí. Výsledné hodnoty a jejich vývoj v čase jsou vizualizovány do přehledných [grafů](https://www.nationalpandemicalarm.eu/cs/ "National Pandemic Alarm - Grafy"). Z čísel vychází, že od začátku pandemie šla důvěra Čechů ve státní instituce strmě dolů, zatímco zkušenost s nemocí zase strmě nahoru.
 
 <p style="text-align: center">
-{% asset 'articles/2020/graf1-duvera-ve-statni-aparat.png' alt='Graf 1: Index důvěry ve státní aparát' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/graf1-duvera-ve-statni-aparat.png' alt='Graf 1: Index důvěry ve státní aparát' %}
 
 <br /><i>Graf 1: Index důvěry ve státní aparát.</i>
 </p>
 
 <p style="text-align: center">
-{% asset 'articles/2020/graf2-mira-zkusenosti.png' alt='Graf 2: Míra zkušenosti' %}
+{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/graf2-mira-zkusenosti.png' alt='Graf 2: Míra zkušenosti' %}
 
 <br /><i>Graf 2: Míra zkušenosti.</i>
 </p>

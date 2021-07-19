@@ -1,4 +1,4 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:3.7.3
 
 # Install ImageMagick
 RUN apk --no-cache add \
