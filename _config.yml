@@ -9,8 +9,6 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezký kraj, slezko, MSK
 url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
 
-mediaStorage: moravskoslezsky
-
 administrator:
   email: michal.breskovec@pirati.cz, jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
 
@@ -26,7 +24,7 @@ organization:
     Ostravské pirátské centrum (OPiCe)
     Denisova 639/2
     702 00 Moravská Ostrava a Přívoz  
-  residenceImg: kontakt/opice.jpg
+  residenceImg:
   mapLink: https://goo.gl/maps/dakQGzwQKng8ER9o7
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
@@ -62,7 +60,7 @@ calendar:
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
   title: Krajský kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  id: i7ipksvi9b852grgjic8mnhua0@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
 
 facebook:
@@ -119,12 +117,12 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
-    permalink: /program/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
+    permalink: /volby/:path/
+  teams:
+    output: true
+    permalink: /pripoj-se/:title/
   candidatelists:
     output: false
 
@@ -133,19 +131,25 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
-      heroImg: https://a.pirati.cz/crop/1moravskoslezsky/img/posts/opava-obecni-dum-oko.jpg
       layout: "person"
-      rbar:
-        - profile
-        - people
+      rbar: foto 
+          #- foto
+          #- personContact
+          #- people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar:
-         - garant
-         - program
+      rbar: "volby"
+      #- garant
+      #   - program
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
 
 fb: https://www.facebook.com/cpsmsk
 tw: PiratiMSK
@@ -166,12 +170,10 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.2.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - assets/img/posts
     - _sass
-
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

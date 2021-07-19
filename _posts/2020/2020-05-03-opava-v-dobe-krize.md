@@ -26,13 +26,13 @@ Ostatní, kterým vláda nenařídila provozovny zavřít, ale i u nich došlo k
 
 Opavští Piráti se ale zapojili do pomoci lidem ve svém okolí i jinak. První místostarostka Hana Brňáková třeba pomáhala roznášet informační letáky do opavských schránek. Letáky poskytly užitečné informace, odkazy a telefonní čísla kam a na koho se v případě potřeby obrátit v této mimořádné situaci.
 
-{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/hana-brnakova-letaky.jpg' alt='Pirátská místostarostka Hana Brňáková roznáší letáky.' %}
+{% asset 'articles/2020/hana-brnakova-letaky.jpg' alt='Pirátská místostarostka Hana Brňáková roznáší letáky.' %}
 
 <p style="text-align: center"><i>Pirátská místostarostka Hana Brňáková roznáší letáky.</i></p>
 
 Další pirátský radní Jan Štěrba, který je současně náměstkem ředitele městského dopravního podniku, vypomáhal jako řidič autobusu na posilových spojích pro významné zaměstnavatele v regionu.
 
-{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/jan-sterba-autobus.jpg' alt='Náměstek ředitele MDPO, Pirát Jan Štěrba vypomáhá jako řidič autobusu.' %}
+{% asset 'articles/2020/jan-sterba-autobus.jpg' alt='Náměstek ředitele MDPO, Pirát Jan Štěrba vypomáhá jako řidič autobusu.' %}
 
 <p style="text-align: center"><i>Náměstek ředitele MDPO, Pirát Jan Štěrba vypomáhá jako řidič autobusu.</i></p>
 

@@ -7,7 +7,6 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 img: people/michal-gill.jpg           # 165 x 220
-heroImg: header/panorama.jpg
 description: předseda místního sdružení Karvinsko # kratký popis, max 160 znaků
 mail:
 - michal.gill@pirati.cz

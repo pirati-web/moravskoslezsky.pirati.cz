@@ -4,7 +4,6 @@ name:     Hana Brňáková      		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 img: people/hana-brnakova.jpg           # 165 x 220
-heroImg: header/panorama.jpg
 description: zastupitelka města Opavy a místopředsedkyně místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
 mail:
 - hana.brnakova@pirati.cz

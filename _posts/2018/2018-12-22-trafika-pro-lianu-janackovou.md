@@ -5,7 +5,7 @@ title: 'Trafika pro Lianu Janáčkovou za 1 milion korun?'
 date: 2018-12-22T08:00:00.000Z
 author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
-image: posts/tichy-daniel.jpg
+image: posts/mar-hory-radnicni-namesti.jpg
 tags:
   - Mariánské-Hory
   - Korupce
@@ -29,5 +29,9 @@ Paní Janáčková sice vystudovala architekturu, architektuře se ovšem již 3
 
 Daniel Tichý, Pirát a obyvatel městského obvodu k tomu dodává:
 >„Situaci kolem paní Janáčkové sleduji už dlouho. Paní Janáčková skončila po 28 letech v radě a místo toho, aby se městský obvod posunul dál, jsme uzavřeni v kruhu devadesátých let. Vládnoucí koalice má pouze 8 z 15 zastupitelů, kde Nezávislí mají pouze 4. Situace mi proto přijde o to víc absurdní, že se nenašel jediný koaliční partner, který by se proti trafice postavil. Celá situace dokazuje, že neoficiální starostkou zůstává i nadále paní Janáčková a pan Hujdus s ostatními ji jdou na ruku. Zisk vedoucí pozice v komisi její vliv jen potvrzuje.”
+
+---
+
+Úvodní obrázek zdroj: Lukáš Mižoch \[[CC-BY-SA-2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.cs)\], [z Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_Hory,_radni%C4%8Dn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_3.jpg)
 
 - - -

@@ -7,7 +7,6 @@ titles:
 category:
 - zast
 img: people/kamil-tomas.jpg
-heroImg: header/panorama.jpg
 description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
 mail: #
 ---

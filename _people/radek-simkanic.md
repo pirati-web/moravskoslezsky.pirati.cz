@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 
 img: people/radek-simkanic.jpg   # 165 x 220
-heroImg: header/panorama.jpg
 description:           	# kratký popis, max 160 znaků
 mail:
 - radek.simkanic@pirati.cz

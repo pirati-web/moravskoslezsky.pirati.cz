@@ -20,11 +20,11 @@ Ostrava, 12. května 2020 – **Na kraji změny. S takovým heslem půjdou do vo
 
 <hr />
 
-{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/na-kraji-zmeny-art.jpg' alt='Na kraji změny.' %}
+{% asset 'articles/2020/na-kraji-zmeny-art.jpg' alt='Na kraji změny.' %}
 
 <table>
   <tr>
-    <td style="width:15%;">{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/zuzana-klusova-orez.jpg' alt='Zuzana Klusová' %}</td>
+    <td style="width:15%;">{% asset 'articles/2020/zuzana-klusova-orez.jpg' alt='Zuzana Klusová' %}</td>
     <td style="text-align: justify;"><i>„Stojíme NA KRAJI ZMĚNY. Odvážně vykročíme na cestu transformace a udržitelnosti, na jejímž konci bude chytře propojený, zdravější a bohatší kraj. Bohatstvím nemáme na mysli jen finance, ale také přírodní bohatství, bohatství příležitostí a vzdělanou společnost,“</i></td>
   </tr>
 </table>

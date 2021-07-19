@@ -32,7 +32,7 @@ V Karviné byla informovanost minimálně zpočátku špatná. Můj kolega Tomá
 
 Řada hlavně starších lidí nevěděla, kam se obrátit, kde se mohou otestovat, zda mohou k lékaři. Natočili jsme jako opoziční zastupitelé v Karviné dvě informační videa, která měla obrovskou sledovanost v řádech desetitisíců, takže lidé skutečně byli hladoví pro aktuálních informacích, kterých se jim od primátora ani krizového štábu nedostávalo. Pak samozřejmě přišla „rouškokrize“, kdy jsem rozvážela známým roušky, sháněli jsme šicí stroje, látky, gumičky. Solidarita mezi lidmi byla nebývalá, od krizového štábu v Karviné jsme ale ani jako zastupitelé žádné informace nedostali. Schůzku jsme proto iniciovali sami, atmosféra byla fajn, snažili jsme se nabídnout pomoc, navrhli jsme řadu opatření na podporu drobných podnikatelů, ale bohužel bez velkého úspěchu. Vedení města spoléhá spíše na stát a kraj.
 
-{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/zuzka-cf/zuzana_klusova-ivan_bartos-mikulas_ferjencik.jpg' alt='Zuzana Klusová, Ivan Bartoš a Mikuláš Ferjenčík na Celostátním fóru České pirátské strany 2020.' %}
+{% asset 'articles/2020/zuzka-cf/zuzana_klusova-ivan_bartos-mikulas_ferjencik.jpg' alt='Zuzana Klusová, Ivan Bartoš a Mikuláš Ferjenčík na Celostátním fóru České pirátské strany 2020.' %}
 
 <p style="text-align: center"><i>Zuzana Klusová, Ivan Bartoš a Mikuláš Ferjenčík na Celostátním fóru České pirátské strany 2020.</i></p>
 
@@ -55,7 +55,7 @@ Protože se nacházíme na kraji změny. Krize pro nás může být velká pří
 
 Můj syn, pes a příroda. Takže totéž co před krizí &#x1F642;. A vlastně i Piráti, naštěstí mám kolem sebe úžasné kolegy se smyslem pro humor, kteří mě vždycky umějí rozesmát.
 
-{% asset 'https://a.pirati.cz/moravskoslezsky/img/articles/2020/zuzka-cf/zuzana_klusova-jiri_hoskovec.jpg' alt='Zuzana Klusová po boku Jiřího Hoskovce na CF Pirátů 2020.' %}
+{% asset 'articles/2020/zuzka-cf/zuzana_klusova-jiri_hoskovec.jpg' alt='Zuzana Klusová po boku Jiřího Hoskovce na CF Pirátů 2020.' %}
 
 <p style="text-align: center"><i>Zuzana Klusová po boku Jiřího Hoskovce na CF Pirátů 2020.</i></p>
 

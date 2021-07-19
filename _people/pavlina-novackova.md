@@ -9,7 +9,6 @@ category:
 - pms
 ordpms: 1
 img: people/pavlina-novackova.jpg
-heroImg: header/panorama.jpg
 description: zastupitelka městského obvodu Ostrava-Jih a předsedkyně místního sdružení Ostrava
 mail: pavlina.novackova@pirati.cz
 mob:			  
