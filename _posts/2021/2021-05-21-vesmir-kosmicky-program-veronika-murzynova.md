@@ -28,7 +28,7 @@ Silná vědecká a průmyslová základna pro kosmické instrumenty je zdrojem d
 
 uzavírá Veronika.  
 
-{% asset 'articles/2021/veronika-murzynova-portret.jpg' alt='Veronika Murzynová - zastupitelka města Ostravy, tajemnice resortního týmu Dopravy, specialistka kosmického programu.' %}
+{% asset 'https://a.pirat.cz/moravskoslezsky/articles/2021/veronika-murzynova-portret.jpg' alt='Veronika Murzynová - zastupitelka města Ostravy, tajemnice resortního týmu Dopravy, specialistka kosmického programu.' %}
 
 <p style="text-align: center">
 <i>Veronika Murzynová - zastupitelka města Ostravy, tajemnice resortního týmu Dopravy, specialistka kosmického programu. Studovala astrofyziku v Brně a Londýně a její celoživotní láskou jsou sci-fi literatura, angličtina, bojová umění a nové technologie. V mezičase studuje mezinárodní vztahy a vzácné volné dny tráví nejraději v horách a lesích mimo civilizaci, nejčastěji se svým psem Lokim.</i>
