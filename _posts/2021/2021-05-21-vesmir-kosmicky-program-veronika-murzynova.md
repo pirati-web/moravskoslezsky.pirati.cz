@@ -27,7 +27,7 @@ Silná vědecká a průmyslová základna pro kosmické instrumenty je zdrojem d
 > „Každá koruna investovaná do prostoru vysoko nad našimi hlavami se vrací zpět až v desetinásobné míře, na výsledku vesmírných aktivit je závislých až 60 procent ekonomiky. Tento zdánlivě vzdálený sektor dopravy je tak unikátním nástrojem pro udržitelnou a bezpečnou budoucnost,“
 
 uzavírá Veronika.  
-rzynová - zastupitelka města Ostravy, tajemnice resortního týmu Dopravy, specialistka kosmického programu.' %}
+
 
 <p style="text-align: center">
 <i>Veronika Murzynová - zastupitelka města Ostravy, tajemnice resortního týmu Dopravy, specialistka kosmického programu. Studovala astrofyziku v Brně a Londýně a její celoživotní láskou jsou sci-fi literatura, angličtina, bojová umění a nové technologie. V mezičase studuje mezinárodní vztahy a vzácné volné dny tráví nejraději v horách a lesích mimo civilizaci, nejčastěji se svým psem Lokim.</i>
