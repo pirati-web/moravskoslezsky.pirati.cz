@@ -17,7 +17,8 @@ addressNote:
 contactPersons:
   - id: jakub.dedek
     description: Správce co-worku
-residenceImg: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2573.476449416799!2d18.285943615709076!3d49.83350457939499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4713e49a5bf5d909%3A0x25013ec50478d11c!2sOstravsk%C3%A9%20pir%C3%A1tsk%C3%A9%20centrum%20(OPiCe)!5e0!3m2!1scs!2scz!4v1630234707848!5m2!1scs!2scz
+residenceImg: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2586.111521618909!2d17.24639791574584!3d49.59564635646581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47124f2fffff5aa9%3A0xc600af4921bef215!2sPicolo%20-%20Pir%C3%A1tsk%C3%A9%20centrum%20Olomouc!5e0!3m2!1scs!2scz!4v1623277268308!5m2!1scs!2scz
+
 ---
 
 # Kdo tu přes týden sedí v kanceláři?
@@ -56,7 +57,8 @@ Máme rychlou wifi, tiskárnu a hodně květin. Pracovat v OPiCi je prostě rado
 Dětský koutekJsme baby-friendly a rodičům s dětmi nabízíme pracovní místo s místem na hraní pro děti. 
 Nechybí samozřejmě ani koberec, hračky, knížky, apod. Chůvu ovšem (zatím) nevedeme. :)
 
-Chceš přispět našemu kraji?Darovat jakoukoliv finanční částku je možné tady! 
+# Chceš přispět našemu kraji?
+Darovat jakoukoliv finanční částku je možné tady! 
 
 - Facebook: [https://www.facebook.com/OPICEclub](https://www.facebook.com/OPICEclub)
 - Adresa: Denisova 639/2, 702 00 Moravská Ostrava a Přívoz
