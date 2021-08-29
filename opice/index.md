@@ -18,7 +18,7 @@ contactPersons:
   - id: jakub.dedek
     description: Správce co-worku
 residenceImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
-mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2586.111521618909!2d17.24639791574584!3d49.59564635646581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47124f2fffff5aa9%3A0xc600af4921bef215!2sPicolo%20-%20Pir%C3%A1tsk%C3%A9%20centrum%20Olomouc!5e0!3m2!1scs!2scz!4v1623277268308!5m2!1scs!2scz
+mapIframeLink: https://www.google.com/maps/place/Ostravsk%C3%A9+pir%C3%A1tsk%C3%A9+centrum+(OPiCe)/@49.833508,18.2859436,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e49a5bf5d909:0x25013ec50478d11c!8m2!3d49.8334204!4d18.2881846
 ---
 
 # Pirátské kanceláře MSKV OpiCi se pilně pracuje. 
