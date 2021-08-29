@@ -7,8 +7,8 @@ shorthand: OPiCE
 openingHoursSEO: 'Provozní doba Pirátské kanceláře:PO-PÁ: 9:00-15:00'
 heroHeadline: Pirátské kanceláře MSKV OpiCi se pilně pracuje. 
 heroDescription: OPiCE - Ostravské Pirátské Centrum
-heroImg: miscellaneous/opice.jpg
-img: miscellaneous/opice.jpg
+heroImg: https://a.pirati.cz/moravskoslezsky/opice/piratsky-kancl.jpg
+img: https://a.pirati.cz/moravskoslezsky/opice/piratsky-kancl.jpg
 address: |
   OPiCE - Ostravské Pirátské Centrum
   Denisova 639/2
