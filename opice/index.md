@@ -17,8 +17,7 @@ addressNote:
 contactPersons:
   - id: jakub.dedek
     description: Správce co-worku
-residenceImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
-mapIframeLink: https://www.google.com/maps/place/Ostravsk%C3%A9+pir%C3%A1tsk%C3%A9+centrum+(OPiCe)/@49.833508,18.2859436,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e49a5bf5d909:0x25013ec50478d11c!8m2!3d49.8334204!4d18.2881846
+residenceImg: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2573.476449416799!2d18.285943615709076!3d49.83350457939499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4713e49a5bf5d909%3A0x25013ec50478d11c!2sOstravsk%C3%A9%20pir%C3%A1tsk%C3%A9%20centrum%20(OPiCe)!5e0!3m2!1scs!2scz!4v1630234707848!5m2!1scs!2scz
 ---
 
 # Kdo tu přes týden sedí v kanceláři?
@@ -48,7 +47,7 @@ Vzděláváme se, bavíme se, schůzkujeme.
 - Workshopy
 - Deskohraní
 
-Aktuální kalendář akcí Pirátů MSK najdeš zde.
+Aktuální kalendář akcí Pirátů MSK najdeš [zde](https://calendar.google.com/calendar/u/0/embed?src=i7ipksvi9b852grgjic8mnhua0@group.calendar.google.com&amp;amp;ctz=Europe/Prague).
 
 Cowork pro fanoušky Pirátů zdarmaPotřebuješ chvíli někde nerušeně pracovat? Ozvi se nám dopředu na tel. 770 113 644 
 nebo emailu jakub.dedek@pirati.cz a dáme ti vědět, kdy je možné se zastavit. 
