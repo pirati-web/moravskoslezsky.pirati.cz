@@ -16,6 +16,9 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
+  - link: /opice/
+    name: Pirátské centrum
+    match: opice
   - link: https://www.piratiastarostove.cz/kandidati/kraj/moravskoslezsky/
     name: Volby 2021
   - link: /mistni-sdruzeni/
