@@ -3,8 +3,8 @@ layout: pirate-center
 description: OPiCE - Ostravské Pirátské Centrum
 keywords: OPiCE - Ostravské Pirátské Centrum
 title: OPiCE - Ostravské Pirátské Centrum
-shorthand: Picolo
-openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
+shorthand: OPiCE
+openingHoursSEO: Provozní doba Pirátské kanceláře:PO-PÁ: 9:00-15:00
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: OPiCE - Ostravské Pirátské Centrum
 heroImg: miscellaneous/picolo.jpg
