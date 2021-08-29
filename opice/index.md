@@ -19,7 +19,7 @@ contactPersons:
     description: Správce co-worku
 residenceImg: https://a.pirati.cz/olomoucky/img/opice/piratsky-kancl.jpg
 mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2586.111521618909!2d17.24639791574584!3d49.59564635646581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47124f2fffff5aa9%3A0xc600af4921bef21
-
+---
 # Kdo tu přes týden sedí v kanceláři?
 
 **Jakub Dedek**, Vedoucí kanceláře
