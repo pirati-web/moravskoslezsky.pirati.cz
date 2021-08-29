@@ -5,7 +5,7 @@ keywords: OPiCE - Ostravské Pirátské Centrum
 title: OPiCE - Ostravské Pirátské Centrum
 shorthand: OPiCE
 openingHoursSEO: Provozní doba Pirátské kanceláře:PO-PÁ: 9:00-15:00
-heroHeadline: Zbrusu nové krajské pirátské centrum!
+heroHeadline: Pirátské kanceláře MSKV OpiCi se pilně pracuje. 
 heroDescription: OPiCE - Ostravské Pirátské Centrum
 heroImg: miscellaneous/picolo.jpg
 img: miscellaneous/picolo.jpg
@@ -21,18 +21,16 @@ residenceImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
 mapIframeLink: https://www.google.com/maps/place/Ostravsk%C3%A9+pir%C3%A1tsk%C3%A9+centrum+(OPiCe)/@49.833508,18.2859436,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e49a5bf5d909:0x25013ec50478d11c!8m2!3d49.8334204!4d18.2881846
 ---
 
-# Pirátské kanceláře MSKV OpiCi se pilně pracuje. 
+# Kdo tu přes týden sedí v kanceláři?
 
-Kdo tu přes týden sedí v kanceláři?
-
-*Jakub Dedek*, Vedoucí kanceláře
+**Jakub Dedek**, Vedoucí kanceláře
 /Má na starosti administrativu Pirátů v Moravskoslezském kraji.
 
 - Email: [jakub.dedek@pirati.cz](mailto:jakub.dedek@pirati.cz)
 - Tel: 770 113 644
 
 
-*Hanka Pavlíčková*, Koordinátorka dobrovolníků MSK
+**Hanka Pavlíčková**, Koordinátorka dobrovolníků MSK
 /Máš zájem spolupracovat s Piráty? Tak se jí ozvi! Je styčným kontaktem pro veřejnost. 
 
 - Email: [hana.pavlickova@gmail.com](mailto:hana.pavlickova@gmail.com)
