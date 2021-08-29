@@ -26,17 +26,16 @@ mapIframeLink: https://www.google.com/maps/place/Ostravsk%C3%A9+pir%C3%A1tsk%C3%
 Kdo tu přes týden sedí v kanceláři?
 
 *Jakub Dedek*, Vedoucí kanceláře
+/Má na starosti administrativu Pirátů v Moravskoslezském kraji.
 
-Má na starosti administrativu Pirátů v Moravskoslezském kraji.
-- Email: jakub.dedek@pirati.cz
+- Email: [jakub.dedek@pirati.cz](mailto:jakub.dedek@pirati.cz)
 - Tel: 770 113 644
 
 
 *Hanka Pavlíčková*, Koordinátorka dobrovolníků MSK
+/Máš zájem spolupracovat s Piráty? Tak se jí ozvi! Je styčným kontaktem pro veřejnost. 
 
-Máš zájem spolupracovat s Piráty? 
-- Tak se jí ozvi! Je styčným kontaktem pro veřejnost. 
-- Email: hana.pavlickova@gmail.com
+- Email: [hana.pavlickova@gmail.com](mailto:hana.pavlickova@gmail.com)
 - Tel: 770 189 486
 
 
@@ -53,15 +52,18 @@ Vzděláváme se, bavíme se, schůzkujeme.
 
 Aktuální kalendář akcí Pirátů MSK najdeš zde.
 
-Cowork pro fanoušky Pirátů zdarmaPotřebuješ chvíli někde nerušeně pracovat? Ozvi se nám dopředu na tel. 770 113 644 nebo emailu jakub.dedek@pirati.cz a dáme ti vědět, kdy je možné se zastavit. Máme rychlou wifi, tiskárnu a hodně květin. Pracovat v OPiCi je prostě radost. 
+Cowork pro fanoušky Pirátů zdarmaPotřebuješ chvíli někde nerušeně pracovat? Ozvi se nám dopředu na tel. 770 113 644 
+nebo emailu jakub.dedek@pirati.cz a dáme ti vědět, kdy je možné se zastavit. 
+Máme rychlou wifi, tiskárnu a hodně květin. Pracovat v OPiCi je prostě radost. 
 
-Dětský koutekJsme baby-friendly a rodičům s dětmi nabízíme pracovní místo s místem na hraní pro děti. Nechybí samozřejmě ani koberec, hračky, knížky, apod. Chůvu ovšem (zatím) nevedeme. :)
+Dětský koutekJsme baby-friendly a rodičům s dětmi nabízíme pracovní místo s místem na hraní pro děti. 
+Nechybí samozřejmě ani koberec, hračky, knížky, apod. Chůvu ovšem (zatím) nevedeme. :)
 
 Chceš přispět našemu kraji?Darovat jakoukoliv finanční částku je možné tady! 
 
-- Facebook: https://www.facebook.com/OPICEclub
+- Facebook: [https://www.facebook.com/OPICEclub](https://www.facebook.com/OPICEclub)
 - Adresa: Denisova 639/2, 702 00 Moravská Ostrava a Přívoz
 - Pirátské centrum najdeš v 1. patře.
 - Tel: 770 113 644
-- Email: jakub.dedek@pirati.cz
+- Email: [jakub.dedek@pirati.cz](mailto:jakub.dedek@pirati.cz)
 
