@@ -4,7 +4,7 @@ description: OPiCE - Ostravské Pirátské Centrum
 keywords: OPiCE - Ostravské Pirátské Centrum
 title: OPiCE - Ostravské Pirátské Centrum
 shorthand: OPiCE
-openingHoursSEO: Provozní doba Pirátské kanceláře:PO-PÁ: 9:00-15:00
+openingHoursSEO: 'Provozní doba Pirátské kanceláře:PO-PÁ: 9:00-15:00'
 heroHeadline: Pirátské kanceláře MSKV OpiCi se pilně pracuje. 
 heroDescription: OPiCE - Ostravské Pirátské Centrum
 heroImg: miscellaneous/picolo.jpg
