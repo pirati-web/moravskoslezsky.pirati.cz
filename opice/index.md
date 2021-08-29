@@ -30,3 +30,28 @@ Kdo tu přes týden sedí v kanceláři?
 - Email: jakub.dedek@pirati.cz
 - Tel: 770 113 644
 
+
+Hanka Pavlíčková, Koordinátorka dobrovolníků MSKMáš zájem spolupracovat s Piráty? Tak se jí ozvi! Je styčným kontaktem pro veřejnost. Email: hana.pavlickova@gmail.comTel: 770 189 486
+
+
+AkceU nás v kraji se nuda nekoná. Vzděláváme se, bavíme se, schůzkujeme. Přijď mezi nás! Pořádáme:
+Schůze
+Přednášky
+Workshopy
+Deskohraní
+
+Aktuální kalendář akcí Pirátů MSK najdeš zde.
+
+
+Cowork pro fanoušky Pirátů zdarmaPotřebuješ chvíli někde nerušeně pracovat? Ozvi se nám dopředu na tel. 770 113 644 nebo emailu jakub.dedek@pirati.cz a dáme ti vědět, kdy je možné se zastavit. Máme rychlou wifi, tiskárnu a hodně květin. Pracovat v OPiCi je prostě radost. 
+
+
+Dětský koutekJsme baby-friendly a rodičům s dětmi nabízíme pracovní místo s místem na hraní pro děti. Nechybí samozřejmě ani koberec, hračky, knížky, apod. Chůvu ovšem (zatím) nevedeme. :)
+
+Chceš přispět našemu kraji?Darovat jakoukoliv finanční částku je možné tady! 
+
+
+
+Facebook: https://www.facebook.com/OPICEclubAdresa: Denisova 639/2, 702 00 Moravská Ostrava a Přívoz
+Pirátské centrum najdeš v 1. patře.Tel: 770 113 644Email: jakub.dedek@pirati.cz
+
