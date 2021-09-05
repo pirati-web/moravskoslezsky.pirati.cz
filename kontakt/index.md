@@ -7,7 +7,7 @@ residences:
 # Kontaktní a pracovní centrum
    url: https://www.facebook.com/OPICEclub
    address: |
-    Denisova 639/2
+    Denisova 639/2 (1. patro)
     702 00 Moravská Ostrava a Přívoz
    spravce: jakub.dedek
    residenceImg: opice/piratsky-kancl.jpg
