@@ -6,7 +6,7 @@ title: OPiCe - Ostravské Pirátské Centrum
 shorthand: OPiCe
 openingHoursSEO: 'Provozní doba Pirátské kanceláře:PO-PÁ: 9:00-15:00'
 heroHeadline: Pirátské kanceláře MSK - V OPiCe se pilně pracuje. 
-heroDescription: OPiCw - Ostravské Pirátské Centrum
+heroDescription: OPiCe - Ostravské Pirátské Centrum
 heroImg: opice/piratsky-kancl.jpg
 img: opice/piratsky-kancl.jpg
 address: |
@@ -32,7 +32,7 @@ Má na starosti administrativu Pirátů v Moravskoslezském kraji.
 **Hanka Pavlíčková**, Koordinátorka dobrovolníků MSK  
 Máš zájem spolupracovat s Piráty? Tak se jí ozvi! Je styčným kontaktem pro veřejnost. 
 
-- Email: [hana.pavlickova@gmail.com](mailto:hana.pavlickova@gmail.com)
+- Email: [hana.pavlickova@pirati.cz](mailto:hana.pavlickova@pirati.cz)
 - Tel: +420 770 189 486
 
 
