@@ -3,29 +3,29 @@ layout: contacts
 # contentSize: big
 contentSize: even
 residences:
- - name: Pirate Space Brno
+ - name: Ostravské Pirátské Centrum (OPiCe)
 # Kontaktní a pracovní centrum
-   url: https://www.facebook.com/PirateSpaceBrno/
+   url: https://www.facebook.com/OPICEclub
    address: |
-                          Údolní 37 (suterén)
-                          60200 Brno
-   spravce: vendula.svobodova
-   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
+    Denisova 639/2
+    702 00 Moravská Ostrava a Přívoz
+   spravce: jakub.dedek
+   residenceImg: opice/piratsky-kancl.jpg
    mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Tomáš Vymazal
-  # url: https://www.facebook.com/PirateSpaceBrno/
+ - name: Poslanecká kancelář <br> Lukáš Černohorský
+  # url: https://www.facebook.com/OPICEclub
    address: |
-    Kopečná 940
-    Brno, 602 00
-   spravce: petra.vymazalova
-   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
+    Denisova 639/2
+    702 00 Moravská Ostrava a Přívoz
+   spravce: zuzana.klusova
+   residenceImg: opice/poslanecky-kancl.jpg
    #mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Radek Holomčík
-  # url: https://www.facebook.com/PirateSpaceBrno/
+ - name: Poslanecká kancelář <br> Ondřej Polanský
+  # url: https://www.facebook.com/OPICEclub
    address: |
-    Kostelní 1407
-    Strážnice, 696 62
-   spravce: simona.kollarova
+    Denisova 639/2
+    702 00 Moravská Ostrava a Přívoz
+   spravce: zuzana.klusova
    residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
 ---
