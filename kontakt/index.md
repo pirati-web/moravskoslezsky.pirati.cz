@@ -10,7 +10,7 @@ residences:
     Denisova 639/2 (1. patro)
     702 00 Moravská Ostrava a Přívoz
    spravce: jakub.dedek
-   residenceImg: opice/piratsky-kancl.jpg
+   residenceImg: 'https://a.pirati.cz/moravskoslezsky/img/opice/piratsky-kancl.jpg'
    mapLink: "SCcP8sLSHGg5pSBr8"
  - name: Poslanecká kancelář <br> Lukáš Černohorský
   # url: https://www.facebook.com/OPICEclub
@@ -18,7 +18,7 @@ residences:
     Denisova 639/2
     702 00 Moravská Ostrava a Přívoz
    spravce: zuzana.klusova
-   residenceImg: opice/poslanecky-kancl.jpg
+   residenceImg: 'https://a.pirati.cz/moravskoslezsky/img/opice/poslanecky-kancl.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
  - name: Poslanecká kancelář <br> Ondřej Polanský
   # url: https://www.facebook.com/OPICEclub
