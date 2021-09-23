@@ -8,7 +8,7 @@ image: posts/mestske-kulturni-stredisko-havirov-akce.jpg
 tags:
   - Havířov
   - Martin Rédr
-  - Martin-Krnec
+  - Martin Kmec
   - Kultura
 ---
 
