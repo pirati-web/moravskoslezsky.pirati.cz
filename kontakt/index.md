@@ -12,21 +12,21 @@ residences:
    spravce: jakub.dedek
    residenceImg: 'https://a.pirati.cz/moravskoslezsky/img/opice/piratsky-kancl.jpg'
    mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Lukáš Černohorský
-  # url: https://www.facebook.com/OPICEclub
-   address: |
-    Denisova 639/2
-    702 00 Moravská Ostrava a Přívoz
-   spravce: zuzana.klusova
-   residenceImg: 'https://a.pirati.cz/moravskoslezsky/img/opice/poslanecky-kancl.jpg'
-   #mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Ondřej Polanský
-  # url: https://www.facebook.com/OPICEclub
-   address: |
-    Denisova 639/2
-    702 00 Moravská Ostrava a Přívoz
-   spravce: zuzana.klusova
-   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
+# - name: Poslanecká kancelář <br> Lukáš Černohorský
+#  # url: https://www.facebook.com/OPICEclub
+#   address: |
+#    Denisova 639/2
+#    702 00 Moravská Ostrava a Přívoz
+#   spravce: zuzana.klusova
+#   residenceImg: 'https://a.pirati.cz/moravskoslezsky/img/opice/poslanecky-kancl.jpg'
+#   #mapLink: "SCcP8sLSHGg5pSBr8"
+# - name: Poslanecká kancelář <br> Ondřej Polanský
+#  # url: https://www.facebook.com/OPICEclub
+#   address: |
+#    Denisova 639/2
+#    702 00 Moravská Ostrava a Přívoz
+#   spravce: zuzana.klusova
+#   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
 ---
 

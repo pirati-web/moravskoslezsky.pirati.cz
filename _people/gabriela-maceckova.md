@@ -8,7 +8,7 @@ category:
 - zast
 img: people/gabriela-maceckova.jpg
 heroImg: header/panorama.jpg
-description: zastupitelka městského obvodu Ostrava-Jih
+description: zastupitelka městského obvodu Ostrava-Jih a místopředsedkyně místního sdružení Ostrava
 mail: gabriela.maceckova@pirati.cz
 ---
 
