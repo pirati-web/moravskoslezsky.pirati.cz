@@ -7,11 +7,11 @@ titles:
 category:
 - zast
 #- pms
-ordpms: 1
+#ordpms: 1
 img: people/pavlina-polaskova.jpg
 heroImg: header/panorama.jpg
 description: zastupitelka městského obvodu Ostrava-Jih a místopředsedkyně místního sdružení Ostrava
-mail: pavlina.novackova@pirati.cz
+mail: pavlina.polaskova@pirati.cz
 mob:			  
 profiles:
   github:       
