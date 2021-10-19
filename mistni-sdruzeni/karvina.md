@@ -3,12 +3,7 @@ layout: page
 title: Místní sdružení Karvinsko
 ---
 
-<div class="row">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section o-section--noSpaceBottom">
-      <div class="o-section-inner">
-        <div class="c-BasicPage">
-          <div class="vspace-nb-m">
+<div class="container container--default pt-8 lg:py-24">
             <h1>Místní sdružení Karvinsko</h1>
             <hr>
             <h2>Předsednictvo:</h2>
@@ -129,14 +124,5 @@ title: Místní sdružení Karvinsko
                     <ul>
                       <li>FB: <a href="https://www.facebook.com/Pir%C3%A1ti-T%C4%9Brlicko-399953724105852" target="_blank">Piráti-Těrlicko-399953724105852</a></li>
                     </ul>
-                  </div>
-                </div>
-              </div>
-            <hr>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  </div>
+
 </div>
