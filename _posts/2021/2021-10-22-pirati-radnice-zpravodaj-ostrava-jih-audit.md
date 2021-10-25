@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Piráti chtějí vyváženější zpravodaj v Ostravě-Jihu, je hlásnou troubou vedení radnice'			
 date: 2021-10-22
-authorId: jana.ozanova		
+author: Jana Ožanová		
 image: posts/pavlina-polaskova.jpg
 tags:
      - Jih
@@ -33,7 +33,7 @@ Vzhledem k tomu, že Jižní listy nemají podle redakce dostatečný rozsah pro
 
 uzavírá Polášková.
 
-Zdroj:[hlasnatrouba.cz](https://hlasnatrouba.cz/periodikum/Ostrava-Jih/Jižní+Listy/Audity "Jižní listy - Audit")
+Zdroj: [hlasnatrouba.cz](https://hlasnatrouba.cz/periodikum/Ostrava-Jih/Jižní+Listy/Audity "Jižní listy - Audit")
 
 ---
 
