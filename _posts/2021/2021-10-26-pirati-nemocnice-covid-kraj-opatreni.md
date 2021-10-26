@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Nemocnice budou brzy nuceny omezovat péči kvůli Covidu. Piráti se ptají krajského náměstka pro zdravotnictví na opatření'			
 date: 2021-10-26
-author: Jana Ožanová"
+author: Jana Ožanová
 image: posts/coronavirus-g488dcd1200_628.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
 tags:				
   - Moravskoslezský-kraj
