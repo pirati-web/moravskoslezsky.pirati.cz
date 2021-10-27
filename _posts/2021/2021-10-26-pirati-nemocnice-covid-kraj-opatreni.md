@@ -52,4 +52,8 @@ komentuje Zuzana Klusová. V posledních dnech došlo sice k nárůstu zájmu o 
 >„Rizikový pacient, který má např. 55 let a léčí se pro vysoký krevní tlak, dostane po včasné diagnóze COVID-19 ve zdravotnickém zařízení ambulantně infuzi léčiva. Odchází domů a má o 70 % menší pravděpodobnost, že skončí v nemocnici a stonat bude podle klinické studie v průměru o 4 dny kratší dobu. Léčivo je ale drahé a příliš se nepropaguje mezi veřejností ani praktickými lékaři. Pořád je to ale levnější varianta než zahlcené nemocnice,“
 
 dodává Václav Parchaňský a shrnuje, že sice máme proti loňsku tři téměř zázračné nástroje, dostupné testování, očkování i léčiva ale kvůli neochotě konat a také kvůli zneužívání dezinformačních kanálů ve volební kampani jsme se je dosud nenaučili správně a včas používat, a tak se stejně jako loni opět řítíme do katastrofy, kterou už bez omezení zdravotní péče těžko zvládneme.
+
+---
+Úvodní obrázek zdroj: [Pixabay License](https://pixabay.com/cs/service/license/)
+
 - - -
