@@ -13,7 +13,7 @@ tags:
   - Václav-Parchaňský
 ---
 
-Ostrava, 26. řijna 2021 – **Ostrava: Piráti interpelují náměstka pro zdravotnictví kvůli další vlně pandemie covidu v Moravskoslezském kraji. Krajské nemocnice se podle nich již teď potýkají s nedostatkem lékařů, financí i zdravotnického personálu a v řádů několika týdnů hrozí omezování zdravotní péče. Ačkoliv byl již nařízen zákaz návštěv, problémem je nedostatečná proočkovanost zdravotníků i občanů, dokončenou vakcinaci má totiž jen polovina populace kraje. Není jasné, zda má kraj krizový scénář a zda například plánuje použít také monoklonální protilátky v okresech s nízkou proočkovaností.**
+Ostrava, 26. řijna 2021 – **Piráti interpelují náměstka pro zdravotnictví kvůli další vlně pandemie covidu v Moravskoslezském kraji. Krajské nemocnice se podle nich již teď potýkají s nedostatkem lékařů, financí i zdravotnického personálu a v řádů několika týdnů hrozí omezování zdravotní péče. Ačkoliv byl již nařízen zákaz návštěv, problémem je nedostatečná proočkovanost zdravotníků i občanů, dokončenou vakcinaci má totiž jen polovina populace kraje. Není jasné, zda má kraj krizový scénář a zda například plánuje použít také monoklonální protilátky v okresech s nízkou proočkovaností.**
 
 <hr />
 
@@ -54,6 +54,7 @@ komentuje Zuzana Klusová. V posledních dnech došlo sice k nárůstu zájmu o 
 dodává Václav Parchaňský a shrnuje, že sice máme proti loňsku tři téměř zázračné nástroje, dostupné testování, očkování i léčiva ale kvůli neochotě konat a také kvůli zneužívání dezinformačních kanálů ve volební kampani jsme se je dosud nenaučili správně a včas používat, a tak se stejně jako loni opět řítíme do katastrofy, kterou už bez omezení zdravotní péče těžko zvládneme.
 
 ---
-Úvodní obrázek zdroj: [Pixabay License](https://pixabay.com/cs/service/license/)
+
+Úvodní obrázek zdroj: Tumisu \[[Pixabay License](https://pixabay.com/service/license/)\], [z Pixabay](https://pixabay.com/cs/photos/koronavirus-virus-maska-kor%c3%b3na-4914026/).
 
 - - -
