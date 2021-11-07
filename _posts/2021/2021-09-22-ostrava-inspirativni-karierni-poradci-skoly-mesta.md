@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: ' Ostrava inspirativní: Rozvoj kariérových poradců ve školách je příkladem pro ostatní města'			
+title: 'Ostrava inspirativní: Rozvoj kariérových poradců ve školách je příkladem pro ostatní města'			
 date: 2021-09-22
 author: Jana Ožanová			
 image: posts/andrea-hoffmannova-deti-2.jpg
@@ -11,7 +11,7 @@ tags:
   - Andrea-Hoffmannová
 ---
 
-Ostrava, 22. září 2021 – **„Čím budu, až vyrostu?“ To je otázka, kterou si pokládá řada školáků. Na ostravských školách jim již třetím rokem pomáhají najít odpověď kariérní poradci. Projekt Kariérové poradenství, který iniciovala náměstkyně primátora Andrea Hoffmannová v Ostravě, teď inspiruje i ostatní města. Sdílení zkušeností s kariérovým poradenstvím a vzájemná inspirace byly také předmětem odborné konference „Volba kariéry v Ostravě“.**
+Ostrava, 22.září 2021 – **„Čím budu, až vyrostu?“ To je otázka, kterou si pokládá řada školáků. Na ostravských školách jim již třetím rokem pomáhají najít odpověď kariérní poradci. Projekt Kariérové poradenství, který iniciovala náměstkyně primátora Andrea Hoffmannová v Ostravě, teď inspiruje i ostatní města. Sdílení zkušeností s kariérovým poradenstvím a vzájemná inspirace byly také předmětem odborné konference „Volba kariéry v Ostravě“.**
 
 <hr />
 
