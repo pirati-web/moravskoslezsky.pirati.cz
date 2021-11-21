@@ -1,23 +1,22 @@
 ---
-uid: rostislav.reha	
+uid: rostislav.reha
 name: Rostislav Řeha
 titles:
-  before: Ing. 
-  after: 
+  before: Ing.
+  after:
 category:
 - zast
 - pks
+ordpks: 2
 img: people/rostislav-reha.jpg
 heroImg: header/panorama.jpg
-description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy a místopředseda krajského sdružení Moravskoslezského kraje
+description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy, místopředseda krajského sdružení Moravskoslezského kraje
 mail: rostislav.reha@pirati.cz
 profiles:
   github:
-  facebook:	https://www.facebook.com/rostislav.reha	
+  facebook:	https://www.facebook.com/rostislav.reha
   twitter:
   linkedin:
-
-ordpks: 3
 ---
 
 (* 16. záři 1973)

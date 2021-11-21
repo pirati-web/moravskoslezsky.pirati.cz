@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - pms
+ordpms: 3
 description: předseda místního sdružení Karvinsko
 img: people/jakub-jezisek.jpg
 heroImg: header/panorama.jpg
@@ -15,12 +16,11 @@ mob:
 profiles:
   github:
   facebook: https://www.facebook.com/jakub.jezisek.7
-  twitter: 
-  flickr: 
-ordpms: 3
+  twitter:
+  flickr:
 ---
 
-**Ing. Jakub Ježíšek** (*1982, Bohumín)
+**Ing. Jakub Ježíšek** (* 1982, Bohumín)
 
 Narodil se v Bohumíně, kde žije dodnes. Vystudoval bohumínské gymnázium Františka Živného a poté získal inženýrský titul na Slezské univerzitě v oboru Manažerská informatika. Během studia se více soustředil na technickou část informatiky a spolupracoval s fakultou i se správci. Po ukončení školy zůstal na univerzitě jako správce sítě a serverů. Postupem času přebral správu většiny informačních systémů na Karvinské části Slezské univerzity. Věnuje se také řešení několika projektů s fakultami a dalšími součástmi SU. Vyučuje specializované předměty. Kromě práce na univerzitě spolupracuje s firmami při řešení jejich IT problémů.
 

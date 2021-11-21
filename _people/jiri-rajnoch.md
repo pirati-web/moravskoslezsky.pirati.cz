@@ -8,7 +8,7 @@ category:
 - zast
 img: people/jiri-rajnoch.jpg
 heroImg: header/panorama.jpg
-description: radní městského obvodu Poruba a místopředseda místního sdružení Ostrava
+description: radní městského obvodu Poruba
 mail: jiri.rajnoch@pirati.cz
 ---
 

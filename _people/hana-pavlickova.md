@@ -10,7 +10,7 @@ category:
 ordpak: 1
 img: people/hana-pavlickova.jpg
 heroImg: header/panorama.jpg
-description: 
+description: koordinátor dobrovolníků pro Moravskoslezský kraj 
 mail: hana.pavlickova@pirati.cz
 mob: +420 770 189 486
 profiles:

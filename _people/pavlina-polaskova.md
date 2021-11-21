@@ -6,11 +6,9 @@ titles:
   after:
 category:
 - zast
-#- pms
-#ordpms: 1
 img: people/pavlina-polaskova.jpg
 heroImg: header/panorama.jpg
-description: zastupitelka městského obvodu Ostrava-Jih a místopředsedkyně místního sdružení Ostrava
+description: zastupitelka městského obvodu Ostrava-Jih, místopředsedkyně místního sdružení Ostrava
 mail: pavlina.polaskova@pirati.cz
 mob:			  
 profiles:
@@ -32,6 +30,6 @@ Zajímá se o kulturu, zefektivňování státní a veřejné správy, architekt
 
 Ráda čte a sportuje, pokud to čas dovolí, a stará se o své dvě kočky.
 
-Její dvě oblíbená motta zní:
-„Když člověk dojde na konec života, měl by si při ohlédnutí říct víc než jen ‚Byl jsem tady‛.“
+Její dvě oblíbená motta zní:  
+„Když člověk dojde na konec života, měl by si při ohlédnutí říct víc než jen ‚Byl jsem tady‛.“  
 „Co nechceš, aby ti jiní činili, nečiň ty jim.“

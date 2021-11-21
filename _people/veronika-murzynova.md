@@ -2,23 +2,22 @@
 uid: veronika.murzynova
 name: Veronika Murzynová
 titles:
-  before: 
-  after: 
+  before:
+  after:
 category:
 - zast
 - pks
+ordpks: 3
 img: people/veronika-murzynova.jpg
 heroImg: header/panorama.jpg
-description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba a místopředsedkyně krajského sdružení Moravskoslezského kraje
+description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba, místopředsedkyně krajského sdružení Moravskoslezského kraje
 mail: veronika.murzynova@pirati.cz
 mob:			  
 profiles:
   github:       
   facebook:     
   twitter: 		  
-  flickr:	
-
-ordpks: 5
+  flickr:
 ---
 
 (* 1. prosince 1985)

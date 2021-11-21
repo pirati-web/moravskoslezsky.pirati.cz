@@ -5,9 +5,10 @@ titles:
   before: Mgr.
   after:
 category:
-#- vedeni
+- kzast
+ordzas: 4
 img: people/martina-duskova.jpg
-description: místopředsedkyně místního sdružení Ostrava
+description: zastupitelka Moravskoslezského kraje, místopředsedkyně místního sdružení Ostrava
 mail: martina.duskova@pirati.cz
 ---
 
@@ -17,4 +18,4 @@ Pracovní dráhu zahájila už při studiích, nejdříve studovala na Slezské 
 
 V současné době působí na Ministerstvu pro místní rozvoj na Odboru (Agentuře) sociálního začleňování jako metodička vzdělávání a spolupracuje s krajským úřadem jako konzultantka komunitního plánování a metodička pro terénní programy. Před nástupem na úřady působila v nestátních neziskových organizacích jako sociální pracovnice v Sociálně právní poradně a také jako vedoucí Sociálně aktivizačních služeb pro rodiny s dětmi, kde se věnovala terénní sociální práci s rodinami, sociální asistencí v rodinách, vedla předškolní klub pro děti ohrožené sociálním znevýhodněním, pracovala s rodinami žijícími v sociálně vyloučených lokalitách, ale také s rodinami pěstounskými. Má zkušenosti také s pedagogickou činností, pracovala jako vychovatelka a jako asistentka pedagoga, učila hru na hudební nástroje a několik let vedla programy primární prevence na školách.
 
-Pirátské barvy hájí v Sociální a zdravotní komisi při Radě města Ostravy a Komisi pro sociální a bytovou politiku při Radě městského obvodu Poruba. 
+Pirátské barvy hájí v Sociální a zdravotní komisi při Radě města Ostravy a Komisi pro sociální a bytovou politiku při Radě městského obvodu Poruba.

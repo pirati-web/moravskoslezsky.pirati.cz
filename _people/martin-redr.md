@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 img: people/martin-redr.jpg   # 165 x 220
 heroImg: header/panorama.jpg
-description: zastupitel města Havířov          	# kratký popis, max 160 znaků
+description: zastupitel města Havířova          	# kratký popis, max 160 znaků
 mail:
 - martin.redr@pirati.cz
 mob:			  
@@ -16,9 +16,7 @@ profiles:
   github:                 
   facebook: 		  https://www.facebook.com/martin.redr.5
   twitter: 		  
-  flickr: 
+  flickr:
 ---
 
-Studoval gastronomii, hotelnictví a služby cestovního ruchu na střední škole a poté i na vyšší odborné škole. Původem je z Havířova Během studií absolvoval praxe v různých hotelech v České republice, Německu a Švýcarsku. Poté nastoupil jako učitel odborných předmětů na hotelové škole. Během zaměstnání vystudoval sociální pedagogiku a následně učitelství na Ostravské univerzitě. Nějaký čas  působil v souokromém sektoru jako vedoucí recepce horského hotelu v Beskydech. V součnasnosti pracuje jako sociální pracovník v nestátní neziskové organizaci, která se zabývá zejména zprostředkováním sociálního bydlení a komunitní čínnosti v havířovské lokalitě, která je často označována jako sociálně vyloučená. Členem Pirátů je od roku 2012. Je ženatý a má jednoho syna.
-
-
+Studoval gastronomii, hotelnictví a služby cestovního ruchu na střední škole a poté i na vyšší odborné škole. Původem je z Havířova Během studií absolvoval praxe v různých hotelech v České republice, Německu a Švýcarsku. Poté nastoupil jako učitel odborných předmětů na hotelové škole. Během zaměstnání vystudoval sociální pedagogiku a následně učitelství na Ostravské univerzitě. Nějaký čas  působil v soukromém sektoru jako vedoucí recepce horského hotelu v Beskydech. V současnosti pracuje jako sociální pracovník v nestátní neziskové organizaci, která se zabývá zejména zprostředkováním sociálního bydlení a komunitní činnosti v havířovské lokalitě, která je často označována jako sociálně vyloučená. Členem Pirátů je od roku 2012. Je ženatý a má jednoho syna.

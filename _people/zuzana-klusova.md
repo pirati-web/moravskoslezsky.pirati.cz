@@ -4,12 +4,13 @@ name:     Zuzana Klusová      		# běžně používáné jméno
 titles:
   before: Mgr.
   after:
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
+category:
 - zast
+- kzast
+ordzas: 1
 img: people/zuzana-klusova.jpg           # 165 x 220
 heroImg: header/panorama.jpg
-description: zastupitelka města Karviná, asistentka v regionální poslanecké kanceláři Lukáše Černohorského a Ondřeje Polanského a místopředsedkyně krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
+description: zastupitelka Moravskoslezského kraje, zastupitelka města Karviná # kratký popis, max 160 znaků
 mail:
 - zuzana.klusova@pirati.cz
 mob: +420 737 480 813
@@ -18,11 +19,9 @@ profiles:
   facebook:				
   twitter:
   linkedin:
-ordpks: 2  
 ---
 
-
-Mgr. Zuzana Klusová (*1985, Karviná)
+Mgr. Zuzana Klusová (* 1985, Karviná)
 
 Zuzana Klusová se narodila v Karviné, kde také vystudovala osmileté gymnázium. Po maturitě se rozhodla pro studium žurnalistiky a sociální práce na Fakultě sociálních studií Masarykovy univerzity v Brně. Toto spojení jí totiž umožnilo věnovat se zároveň oběma zájmům - psaní a pomoci druhým. Po úspěšném ukončení studia na brněnské univerzitě se díky silné vazbě, která ji pojí ke karvinskému regionu, rozhodla vrátit zpět do rodného města. Zde již během studií pracovala jako koordinátorka a metodička evropských projektů v Okresní hospodářské komoře Karviná. Na hospodářské komoře získala krom jiného šanci setkat se s místními podnikateli a seznámit se s jejich problémy i možnostmi podpory podnikání v regionu. Nyní pracuje jako asistentka ředitele americké výrobní společnosti. Jejím snem je ale vrátit se k novinařině nebo pracovat jako PR manažer charitativní či jiné neziskové organizace z oblasti ekologie či pomoci sociálně znevýhodněným.
 
