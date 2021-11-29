@@ -7,10 +7,10 @@ titles:
 category:
 - pks
 - kzast
-ordpks: 1
+ordpks: 3
 img: people/jiri-demel.jpg   # 165 x 220
 heroImg: header/panorama.jpg
-description: zastupitel Moravskoslezského kraje, předseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
+description: zastupitel Moravskoslezského kraje, místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
 mail:
 - jiri.demel@pirati.cz
 mob:			  

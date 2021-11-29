@@ -6,11 +6,11 @@ titles:
   after:
 category:
 - zast
-- pks
-ordpks: 3
+#- pks
+#ordpks: 3
 img: people/veronika-murzynova.jpg
 heroImg: header/panorama.jpg
-description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba, místopředsedkyně krajského sdružení Moravskoslezského kraje
+description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba
 mail: veronika.murzynova@pirati.cz
 mob:			  
 profiles:

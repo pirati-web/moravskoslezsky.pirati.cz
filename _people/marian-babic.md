@@ -6,10 +6,12 @@ titles:
   after:
 category:
 - pms
+- pks
 ordpms: 2
+ordpks: 4
 img: people/marian-babic.jpg   # 165 x 220
 heroImg: header/panorama.jpg
-description: předseda místního sdružení Opavské Slezsko       	# kratký popis, max 160 znaků
+description: předseda místního sdružení Opavské Slezsko, místopředseda krajského sdružení Moravskoslezského kraje       	# kratký popis, max 160 znaků
 mail:
 - marian.babic@pirati.cz
 mob: +420 776 376 035

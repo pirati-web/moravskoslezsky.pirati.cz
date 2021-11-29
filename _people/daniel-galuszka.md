@@ -7,7 +7,7 @@ titles:
 category:
 - zast
 - pks
-ordpks: 4
+ordpks: 5
 img: people/daniel-galuszka.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Bohumína, místopředseda místního sdružení Karvinsko, místopředseda krajského sdružení Moravskoslezského kraje

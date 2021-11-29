@@ -2,12 +2,12 @@
 uid: hana.brnakova
 name: Hana Brňáková
 category:
-- pks
+#- pks
 - zast
-ordpks: 5
+#ordpks: 5
 img: people/hana-brnakova.jpg           # 165 x 220
 heroImg: header/panorama.jpg
-description: zastupitelka města Opavy, místopředsedkyně Krajského sdružení Moravskoslezského kraje, místopředsedkyně místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
+description: zastupitelka města Opavy, místopředsedkyně místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
 mail:
 - hana.brnakova@pirati.cz
 mob: +420 721 741 919

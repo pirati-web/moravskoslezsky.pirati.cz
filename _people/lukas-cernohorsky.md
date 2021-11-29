@@ -6,10 +6,12 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 #- psp
+- pks
+ordpks: 1
 img: people/lukas-cernohorsky.jpg   # 165 x 220
 heroImg: header/panorama.jpg
 #description: poslanec PSP ČR za Moravskoslezský kraj a místopředseda místního sdružení Ostrava           	# kratký popis, max 160 znaků
-description: byl poslanec PSP ČR za Moravskoslezský kraj 2017-2021	# kratký popis, max 160 znaků
+description: předseda krajského sdružení Moravskoslezského kraje, byl poslanec PSP ČR za Moravskoslezský kraj 2017-2021	# kratký popis, max 160 znaků
 
 mail:
 - lukas.cernohorsky@pirati.cz
