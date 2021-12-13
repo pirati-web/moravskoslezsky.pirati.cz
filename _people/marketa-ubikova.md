@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/marketa-ubikova.jpg   # 165 x 220
+img: people/marketa-ubikova-edit.jpg 
 heroImg: header/panorama.jpg
 description: zastupitelka města Frýdku-Místku # kratký popis, max 160 znaků
 mail:

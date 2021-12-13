@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 - kzast
 ordzas: 5
-img: people/pavel-korizek.jpg   # 165 x 220
+img: people/pavel-korizek-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Opavy, zastupitel Moravskoslezského kraje     	# kratký popis, max 160 znaků
 mail:

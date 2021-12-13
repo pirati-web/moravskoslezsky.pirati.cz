@@ -6,7 +6,7 @@ titles:
   after: 
 category:
 - zast
-img: people/ondrej-netocny.jpg
+img: people/ondrej-netocny-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitel městského obvodu Ostrava-Jih
 mail: ondrej.netocny@pirati.cz 

@@ -8,7 +8,7 @@ category:
 - zast
 #- pks
 #ordpks: 3
-img: people/veronika-murzynova.jpg
+img: people/veronika-murzynova-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba
 mail: veronika.murzynova@pirati.cz

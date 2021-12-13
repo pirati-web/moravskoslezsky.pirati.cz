@@ -9,7 +9,7 @@ category:
 - pks
 ordpms: 2
 ordpks: 4
-img: people/marian-babic.jpg   # 165 x 220
+img: people/marian-babic-edit.jpg
 heroImg: header/panorama.jpg
 description: předseda místního sdružení Opavské Slezsko, místopředseda krajského sdružení Moravskoslezského kraje       	# kratký popis, max 160 znaků
 mail:

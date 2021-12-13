@@ -8,7 +8,7 @@ category:
 - pks
 - kzast
 ordpks: 3
-img: people/jiri-demel.jpg   # 165 x 220
+img: people/jiri-demel-edit.jpg
 heroImg: header/panorama.jpg
 description: zastupitel Moravskoslezského kraje, místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
 mail:

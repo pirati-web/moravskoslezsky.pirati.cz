@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/david-witosz.jpg
+img: people/david-witosz-2021.jpg
 heroImg: header/panorama.jpg
 description: místostarosta městského obvodu Moravská Ostrava a Přívoz, radní města Ostravy
 mail: david.witosz@pirati.cz

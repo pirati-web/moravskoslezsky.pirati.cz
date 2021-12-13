@@ -6,7 +6,7 @@ titles:
   after: Ph.D.
 category:
 - zast
-img: people/martin-tomasek.jpg
+img: people/martin-tomasek-2021.jpg
 heroImg: header/panorama.jpg
 description: místostarosta městského obvodu Poruba
 mail: martin.tomasek@pirati.cz

@@ -5,7 +5,7 @@ category:
 #- pks
 - zast
 #ordpks: 5
-img: people/hana-brnakova.jpg           # 165 x 220
+img: people/hana-brnakova-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitelka města Opavy, místopředsedkyně místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
 mail:

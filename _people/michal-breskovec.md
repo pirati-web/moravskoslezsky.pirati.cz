@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/michal-breskovec.jpg
+img: people/michal-breskovec-2021.jpg
 heroImg: header/panorama.jpg
 # description: zastupitel městského obvodu Ostrava-Jih a místopředseda místního sdružení Ostrava
 description: zastupitel městského obvodu Ostrava-Jih

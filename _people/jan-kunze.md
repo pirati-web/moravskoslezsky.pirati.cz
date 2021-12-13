@@ -8,7 +8,7 @@ category:
 - zast
 - kzast
 ordzas: 6
-img: people/jan-kunze.jpg   # 165 x 220
+img: people/jan-kunze-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Opavy, zastupitel Moravskoslezského kraje       	# kratký popis, max 160 znaků
 mail:

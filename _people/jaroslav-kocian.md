@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/jaroslav-kocian.jpg   # 165 x 220
+img: people/jaroslav-kocian-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Havířova          	# kratký popis, max 160 znaků
 mail:

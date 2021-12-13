@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
-img: people/martin-redr.jpg   # 165 x 220
+img: people/martin-redr-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Havířova          	# kratký popis, max 160 znaků
 mail:

@@ -3,7 +3,7 @@
 
 # Site settings
 title: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
-email: jiri.demel@pirati.cz
+email: lukas.cernohorsky@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web krajského sdružení České pirátské strany v Moravskoslezském kraji.
 keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezký kraj, slezko, MSK
@@ -20,7 +20,7 @@ organization:
   name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
   shortName: Piráti MSK
 #  contactUid: jiri.demel
-  email: jiri.demel@pirati.cz
+  email: lukas.cernohorsky@pirati.cz
   phone: +420 731 417 618
   address: |
     Ostravské pirátské centrum (OPiCe)

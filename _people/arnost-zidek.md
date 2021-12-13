@@ -8,7 +8,7 @@ category:
 - kzast
 - representativeJih
 ordzas: 9
-img: people/arnost-zidek.jpg
+img: people/arnost-zidek-2021.jpg
 heroImg: header/panorama.jpg
 description: zastupitel Moravskoslezského kraje, člen komise kulturní a školské Ostravy-Jihu
 mail: arnost.zidek@vsb.cz

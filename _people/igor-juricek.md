@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/igor-juricek.jpg   # 165 x 220
+img: people/igor-juricek-2021.jpg
 heroImg: header/panorama.jpg
 description: náměstek primátora města Frýdku-Místku # kratký popis, max 160 znaků
 mail:

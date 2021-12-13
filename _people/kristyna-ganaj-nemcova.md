@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/kristyna-ganaj-nemcova.jpg   # 165 x 220
+img: people/kristyna-ganaj-nemcova-edit.jpg
 heroImg: header/panorama.jpg
 description: zastupitelka města Havířova          	# kratký popis, max 160 znaků
 mail:

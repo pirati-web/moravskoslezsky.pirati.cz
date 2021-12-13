@@ -8,7 +8,7 @@ category:
   - clenove
 description: manažerka marketingu a pr # zobrazuje se v lide
 profession: manažerka marketingu a pr
-img: people/michaela-davidova.jpg # zakomentuj radek dokud není fotka
+img: people/michaela-davidova-2021.jpg
 heroImg: header/panorama.jpg
 
 # mail:

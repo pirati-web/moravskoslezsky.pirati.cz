@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/jakub-tichy.jpg   # 165 x 220
+img: people/jakub-tichy-2021.jpg
 heroImg: header/panorama.jpg
 description: radní města Frýdku-Místku # kratký popis, max 160 znaků
 mail:

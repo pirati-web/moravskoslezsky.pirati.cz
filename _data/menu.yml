@@ -62,5 +62,9 @@ transparencySection: false
 contact:
   - id: hana.pavlickova
     position: Koordinátorka
-  - id: zuzana.klusova
+  - id: jakub.dedek
+    position: Vedoucí kanceláře
+  - id: jana.ozanova
     position: Kontakt pro novináře
+  - id: zuzana.klusova
+    position: Vedoucí mediálního odboru

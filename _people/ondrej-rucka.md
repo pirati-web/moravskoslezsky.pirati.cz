@@ -7,7 +7,7 @@ titles:
 category:
 - kzast
 ordzas: 7
-img: people/ondrej-rucka.jpg
+img: people/ondrej-rucka-2021.jpg
 description: Zastupitel Moravskoslezského kraje, předseda komise proti kriminalitě Ostravy-Jihu
 mail:
 - ondrej.rucka@pirati.cz

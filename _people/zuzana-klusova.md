@@ -8,7 +8,7 @@ category:
 - zast
 - kzast
 ordzas: 1
-img: people/zuzana-klusova.jpg           # 165 x 220
+img: people/zuzana-klusova-2021.jpg 
 heroImg: header/panorama.jpg
 description: zastupitelka Moravskoslezského kraje, zastupitelka města Karviná # kratký popis, max 160 znaků
 mail:

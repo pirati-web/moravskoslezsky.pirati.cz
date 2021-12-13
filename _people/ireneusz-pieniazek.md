@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/ireneusz-pieniazek.jpg   # 165 x 220
+img: people/ireneusz-pieniazek-edit.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Český Těšín	# kratký popis, max 160 znaků
 mail:

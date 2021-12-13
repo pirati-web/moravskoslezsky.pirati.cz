@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/martin-kmec.jpg   # 165 x 220
+img: people/martin-kmec-edit.jpg
 heroImg: header/panorama.jpg
 description: zastupitel města Havířova          	# kratký popis, max 160 znaků
 mail:

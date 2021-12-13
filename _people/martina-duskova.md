@@ -7,7 +7,7 @@ titles:
 category:
 - kzast
 ordzas: 4
-img: people/martina-duskova.jpg
+img: people/martina-duskova-2021.jpg
 description: zastupitelka Moravskoslezského kraje, místopředsedkyně místního sdružení Ostrava
 mail: martina.duskova@pirati.cz
 ---
