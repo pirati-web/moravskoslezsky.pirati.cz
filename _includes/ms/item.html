@@ -1,16 +1,17 @@
 <article class="card card--hoveractive">
 
   <div class="card__body p-4">
-    <h1 class="card-headline mb-2"><a href="{{include.link}}">{% asset {{include.img}} alt=include.name %}</a>  {{ include.name}} </h1> 
+    <h1 class="card-headline mb-2"><a href="{{include.link}}"><img src="{{include.img}}" alt="{{include.name }}" title="{{include.title }}"></a>  {{ include.name}} </h1> 
 
     <ul>
-      <li>Působnost: {{ include.area }}</li>
+      <li class="pt-2">Působnost: {{ include.area }}</li>
       {% assign person = site.people | where_exp:"item","item.uid contains include.president" | first %}
       {% if person %}
-        <li>Předseda: <a href={{person.url}}> {{person.name}}</a> </li>
+        <li class="pt-2">Kontakt:<a href={{person.url}}>{{person.name}}</a></li>
       {% else %}
-        <li>Předseda: {{include.president}} </li>
+        <li class="pt-2">Kontakt: {{include.president}} </li>
       {% endif %}
+      <li class="pt-2">Facebook: <a href="https://www.facebook.com/{{ include.fb }}"> {{ include.fb }}</a></li>
     </ul>
 
 <p class="card-body-text"></p></div></article>

@@ -1,128 +1,102 @@
 ---
-layout: page
+layout: default
 title: Místní sdružení Karvinsko
+predsednictvo: 
+  - name: Jakub Ježíšek
+    funkce: Předseda
+  - name: Jakub Vontroba
+    funkce: 1. místopředseda
 ---
 
-<div class="container container--default pt-8 lg:py-24">
-            <h1>Místní sdružení Karvinsko</h1>
-            <hr>
-            <h2>Předsednictvo:</h2>
+<div class="container container--default pt-0 lg:py-24">
+ <section><header>
+<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Místní sdružení Karvinsko</h1>
             <ul>
-	    <li>Předseda - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/personProfile/653/" target="_blank">Profil</a>)</li>
-            <li>1. místopředseda - <b>Jakub Vontroba</b> (<a href="https://wiki.pirati.cz/lide/jakub_vontroba" target="_blank">Profil</a>)</li>
-	    <li>2. místopředseda - <b>Alena Klocová</b> (<a href="https://lide.pirati.cz/person/415/" target="_blank">Profil</a>)</li>
-            <li>3. místopředseda - <b>Daniel Galuszka</b> (<a href="../lide/daniel-galuszka" target="_blank">Profil</a>)</li>
-	    <li>4. místopředseda - <b>Jaroslav Kameň</b> (<a href="https://lide.pirati.cz/person/583/" target="_blank">Profil</a>)</li>
-            </ul>
-            <hr>
-            <h2>Rozcestník místních organizací:</h2>
-            <div class="row vspace-nb-m">
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/bohumin_wiki.jpg' | relative_url }}" alt="Náměstí T. G. Masaryka v Bohumíně" title="Náměstí T. G. Masaryka v Bohumíně - autor: Ondřej Žváček [CC BY-SA 3.0]; zdroj: https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_T._G._Masaryka_v_Bohum%C3%ADn%C4%9B.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://bohumin.pirati.cz/" target="_blank">Bohumín</a>
-                    </h3>
-                    <ul>
-                      <li>Web: <a href="https://bohumin.pirati.cz/" target="_blank">bohumin.pirati.cz</a></li>
-                      <li>FB: <a href="https://www.facebook.com/piratibohumin" target="_blank">piratibohumin</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/cesky-tesin_wiki.jpg' | relative_url }}" alt="Radnice v Českém Těšíně" title="Radnice v Českém Těšíně - autor: Ondřej Žváček [CC BY-SA 3.0]; zdroj: https://commons.wikimedia.org/wiki/File:Radnice_v_%C4%8Cesk%C3%A9m_T%C4%9B%C5%A1%C3%ADn%C4%9B.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://www.pirati-tesin.cz" target="_blank">Český Těšín</a>
-                    </h3>
-                    <ul>
-                      <li>Web: <a href="https://www.pirati-tesin.cz" target="_blank">www.pirati-tesin.cz</a></li>
-                      <li>FB <a href="https://www.facebook.com/piratitesin" target="_blank">piratitesin</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/havirov_wiki.jpg' | relative_url }}" alt="Havířov - Hlavní třída" title="Havířov, Hlavní třída - autor: Petr Michalik [CC BY-SA 4.0]; zdroj: https://commons.wikimedia.org/wiki/File:Hav%C3%AD%C5%99ov_-_Hlavn%C3%AD_t%C5%99%C3%ADda.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://havirov.pirati.cz/" target="_blank">Havířov</a>
-                    </h3>
-                    <ul>
-                      <li>Web: <a href="https://havirov.pirati.cz/" target="_blank">havirov.pirati.cz</a></li>
-                      <li>FB: <a href="https://www.facebook.com/piratihavirov" target="_blank">piratihavirov</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/karvina.jpg' | relative_url }}" alt="Karviná - Fryštát, náměstí" title="Karviná - Fryštát, náměstí - autor: Hons084 [CC BY-SA 4.0]; zdroj: https://commons.wikimedia.org/wiki/File:2013_Karwina,_Frysztat,_%C5%BBeliwna_fontanna_na_rynku_01.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="http://www.piratiastarostove.cz" target="_blank">Karviná</a>
-                    </h3>
-                    <ul>
-                      <li>Web: <a href="http://www.piratiastarostove.cz" target="_blank">www.piratiastarostove.cz</a></li>
-                      <li>FB (Pir. a Starostové): <a href="https://www.facebook.com/piratiastarostove" target="_blank">piratiastarostove</a></li>
-                      <li>FB (Piráti Karviná): <a href="https://www.facebook.com/piratikarvina" target="_blank">piratikarvina</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/orlova_wiki.jpg' | relative_url }}" alt="Orlová-Lutyně" title="Orlová-Lutyně - autor: Mecidlo [CC BY-SA 3.0]; zdroj: https://commons.wikimedia.org/wiki/File:Orlov%C3%A1-Lutyn%C4%9B_2012.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/Pir%C3%A1ti-Orlov%C3%A1-278899782799506" target="_blank">Orlová</a>
-                    </h3>
-                    <ul>
-                      <li>FB: <a href="https://www.facebook.com/Pir%C3%A1ti-Orlov%C3%A1-278899782799506" target="_blank">Piráti-Orlová-278899782799506</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/rychvald_wiki.jpg' | relative_url }}" alt="Rychvald - Husitský kostel" title="Rychvald, Husitský kostel - autor: Michal Klajban [CC BY-SA 3.0]; zdroj: https://commons.wikimedia.org/wiki/File:Rychvald,_The_Czechoslovak_Hussite_Church.jpg">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/Pir%C3%A1ti-Rychvald-1999583840283560" target="_blank">Rychvald</a>
-                    </h3>
-                    <ul>
-                      <li>FB: <a href="https://www.facebook.com/Pir%C3%A1ti-Rychvald-1999583840283560" target="_blank">Piráti-Rychvald-1999583840283560</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="large-4 medium-6 small-12 columns end">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    <img src="{{ '/assets/img/teams/terlicko_wiki.jpg' | relative_url }}" alt="Těrlicko, náměstí" title="Těrlicko, náměstí - autor: Vojtěch Dočkal [CC BY-SA 4.0]; zdroj: https://commons.wikimedia.org/wiki/File:T%C4%9Brlicko_n%C3%A1m%C4%9Bst%C3%AD.JPG">
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/Pir%C3%A1ti-T%C4%9Brlicko-399953724105852" target="_blank">Těrlicko</a>
-                    </h3>
-                    <ul>
-                      <li>FB: <a href="https://www.facebook.com/Pir%C3%A1ti-T%C4%9Brlicko-399953724105852" target="_blank">Piráti-Těrlicko-399953724105852</a></li>
-                    </ul>
-
+	    <li>Předseda MS - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/personProfile/653/" target="_blank">Profil</a>)</li>
+            <li class="pt-5">1. místopředseda - <b>Jakub Vontroba</b> (<a href="https://wiki.pirati.cz/lide/jakub_vontroba" target="_blank">Profil</a>)</li>
+	    <li class="pt-5">2. místopředseda - <b>Alena Klocová</b> (<a href="https://lide.pirati.cz/person/415/" target="_blank">Profil</a>)</li>
+            <li class="pt-5">3. místopředseda - <b>Daniel Galuszka</b> (<a href="../lide/daniel-galuszka" target="_blank">Profil</a>)</li>
+	    <li class="pt-5">4. místopředseda - <b>Jaroslav Kameň</b> (<a href="https://lide.pirati.cz/person/583/" target="_blank">Profil</a>)</li>
+	 </ul></header>
+ </section>
 </div>
+<div class="container container--default pt-0  ">
+ <section>
+<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Rozcestník místních organizací na Karvinsku</h1>
+  <main>
+   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16 pb-8">
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/bohumin_wiki.jpg'
+    title='Náměstí T. G. Masaryka v Bohumíně - autor: Ondřej Žváček [CC BY-SA 3.0]; zdroj: https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_T._G._Masaryka_v_Bohum%C3%ADn%C4%9B.jpg'
+    name='Bohumín'
+    area='okolí Bohumína'
+    link='https://bohumin.pirati.cz'
+    president='Daniel Galuszka'
+    fb="piratibohumin"    
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/cesky-tesin_wiki.jpg'
+    title='Radnice v Českém Těšíně - autor: Ondřej Žváček [CC BY-SA 3.0]'
+    name='Český Těšín'
+    area='Český Těšín a okolí'
+    link='https://www.pirati-tesin.cz/'
+    president='Lukáš Chlebik'
+    fb="piratislovacko"  
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/havirov_wiki.jpg'
+    title='Havířov, Hlavní třída - autor: Petr Michalik [CC BY-SA 4.0]'
+    name='Havířov'
+    area='okolí Haviřova'
+    link='https://havirov.pirati.cz/'
+    president='Marcel Molnár'
+    fb="piratihavirov"  
+    %}
+
+    
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/karvina.jpg'
+    title='Karviná - Fryštát, náměstí - autor: Hons084 [CC BY-SA 4.0]'
+    name='Karviná - Fryštát'
+    area='Karviná a okolí'
+    link='https://karvina.pirati.cz/'
+    president='Jakub Ježíšek'
+    fb="cpsmsk"  
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/orlova_wiki.jpg'
+    title='Orlová-Lutyně - autor: Mecidlo [CC BY-SA 3.0];'
+    name='Orlová'
+    area='Orlová a okolí'
+    link='https://www.facebook.com/OrlovstiPirati/'
+    president='Zdena Kupcová'
+    fb="OrlovstiPirati"  
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/rychvald_wiki.jpg'
+    title='Rychvald, Husitský kostel - autor: Michal Klajban [CC BY-SA 3.0];'
+    name='Rychvald'
+    area='Rychvaldsko'
+    link='https://www.facebook.com/Piráti-Rychvald-1999583840283560'
+    president='Alice Mazurková'
+    fb="Piráti-Rychvald-1999583840283560"  
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/moravskoslezsky/img/teams/terlicko_wiki.jpg'
+    title='Radnice v Českém Těšíně - autor: Ondřej Žváček [CC BY-SA 3.0]'
+    name='Těrlicko'
+    area='oblast Těrlicka'
+    link='https://www.facebook.com/Pir%C3%A1ti-T%C4%9Brlicko-399953724105852'
+    president='Lukáš Černohorský'
+    fb="Piráti-Těrlicko-399953724105852"  
+    %}
+   </div>
+  </main>
+ </section>
+</div>
+ 
