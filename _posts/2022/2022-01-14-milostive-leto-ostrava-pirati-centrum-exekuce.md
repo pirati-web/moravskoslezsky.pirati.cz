@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Milostivé léto v Ostravském pirátském centru: Piráti poradí, jak se zbavit exekucí jednou provždy!'
 date: 2022-01-14
-author: Jana Ožanová
+authorId: jana.ozanova
 image: posts/bez-penez-chudy-penize-ne-krize.jpg
 tags:				
   - Moravskoslezský-kraj
@@ -13,7 +13,7 @@ tags:
   - Ondřej-Ručka		
 ---
 
-Ostrava, 14.ledna 2022 – **Milostivé léto je akce, díky níž mohou lidé v exekuci ušetřit a vymanit se ze svých závazků. Až do 28. ledna 2022 mají jedinečnou šanci, jak se zbavit exekucí vůči státu, kraji, obci či jejich většinově vlastněným organizacím. Umožňuje dlužníkům ušetřit desítky tisíc korun, protože jim odpouští všechny úroky a další poplatky. Stačí zaplatit původní dluh a poplatek 908 Kč exekutorovi. Tématu exekucí se dlouhodobě věnuje pirátská senátorka a právnička Adéla Šípová, která v rámci akce Milostivé léto poskytuje bezplatné konzultace. Na její aktivity navazují i Piráti z našeho kraje.**
+Ostrava, 14. ledna 2022 – **Milostivé léto je akce, díky níž mohou lidé v exekuci ušetřit a vymanit se ze svých závazků. Až do 28. ledna 2022 mají jedinečnou šanci, jak se zbavit exekucí vůči státu, kraji, obci či jejich většinově vlastněným organizacím. Umožňuje dlužníkům ušetřit desítky tisíc korun, protože jim odpouští všechny úroky a další poplatky. Stačí zaplatit původní dluh a poplatek 908 Kč exekutorovi. Tématu exekucí se dlouhodobě věnuje pirátská senátorka a právnička Adéla Šípová, která v rámci akce Milostivé léto poskytuje bezplatné konzultace. Na její aktivity navazují i Piráti z našeho kraje.**
 
 <hr />
 
@@ -27,12 +27,9 @@ vysvětluje krajská zastupitelka Martina Dušková.
 
 dodává krajský zastupitel Ondřej Ručka, který bude na místě poskytovat právní rady.
 
-
-
 ---
 
-
-Úvodní obrázek zdroj: 1820796 \[[Pixabay   License](https://pixabay.com/cs/service/license/)\],
+Úvodní obrázek zdroj: 1820796 \[[Pixabay License](https://pixabay.com/cs/service/license/)\],
 [z Pixabay](https://pixabay.com/cs/illustrations/bez-pen%C4%9Bz-chud%C3%BD-pen%C3%ADze-ne-krize-2070384/).
 
 - - -
