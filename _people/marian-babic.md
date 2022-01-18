@@ -6,7 +6,6 @@ titles:
   after:
 category:
 - pks
-ordpms: 2
 ordpks: 4
 img: people/marian-babic-edit.jpg
 heroImg: header/panorama.jpg

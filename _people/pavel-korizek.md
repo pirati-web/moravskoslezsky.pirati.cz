@@ -7,10 +7,12 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 - kzast
+- pms
+ordpms: 2
 ordzas: 5
 img: people/pavel-korizek-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Opavy, zastupitel Moravskoslezského kraje     	# kratký popis, max 160 znaků
+description: zastupitel města Opavy, zastupitel Moravskoslezského kraje a předseda místního sdružení Opavské Slezsko
 mail:
 - pavel.korizek@pirati.cz
 mob: +420 777 237 635		  
