@@ -13,7 +13,7 @@ predsednictvo:
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Místní sdružení Karvinsko</h1>
             <ul>
 	    <li>Předseda MS - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/personProfile/653/" target="_blank">Profil</a>)</li>
-            <li class="pt-5">1. místopředseda - <b>Jakub Vontroba</b> (<a href="https://wiki.pirati.cz/lide/jakub_vontroba" target="_blank">Profil</a>)</li>
+            <li class="pt-5">1. místopředseda - <b>Jakub Vontroba</b> (<a href="https://lide.pirati.cz/osoba/1236/" target="_blank">Profil</a>)</li>
 	    <li class="pt-5">2. místopředseda - <b>Alena Klocová</b> (<a href="https://lide.pirati.cz/person/415/" target="_blank">Profil</a>)</li>
             <li class="pt-5">3. místopředseda - <b>Daniel Galuszka</b> (<a href="../lide/daniel-galuszka" target="_blank">Profil</a>)</li>
 	    <li class="pt-5">4. místopředseda - <b>Jaroslav Kameň</b> (<a href="https://lide.pirati.cz/person/583/" target="_blank">Profil</a>)</li>
@@ -31,7 +31,7 @@ predsednictvo:
     name='Bohumín'
     area='okolí Bohumína'
     link='https://bohumin.pirati.cz'
-    president='Daniel Galuszka'
+    president='Jakub Ježíšek'
     fb="piratibohumin"    
     %}
 
@@ -42,7 +42,7 @@ predsednictvo:
     area='Český Těšín a okolí'
     link='https://www.pirati-tesin.cz/'
     president='Lukáš Chlebik'
-    fb="piratislovacko"  
+    fb="piratitesin"  
     %}
 
 {% include ms/item.html 
@@ -51,7 +51,7 @@ predsednictvo:
     name='Havířov'
     area='okolí Haviřova'
     link='https://havirov.pirati.cz/'
-    president='Marcel Molnár'
+    president='Martin Rédr'
     fb="piratihavirov"  
     %}
 
@@ -59,10 +59,10 @@ predsednictvo:
 {% include ms/item.html 
     img='https://a.pirati.cz/moravskoslezsky/img/teams/karvina.jpg'
     title='Karviná - Fryštát, náměstí - autor: Hons084 [CC BY-SA 4.0]'
-    name='Karviná - Fryštát'
+    name='Karviná'
     area='Karviná a okolí'
     link='https://karvina.pirati.cz/'
-    president='Jakub Ježíšek'
+    president='Alena Klocová'
     fb="cpsmsk"  
     %}
 
@@ -72,7 +72,7 @@ predsednictvo:
     name='Orlová'
     area='Orlová a okolí'
     link='https://www.facebook.com/OrlovstiPirati/'
-    president='Zdena Kupcová'
+    president='Jaroslav Kameň'
     fb="OrlovstiPirati"  
     %}
 
@@ -82,17 +82,17 @@ predsednictvo:
     name='Rychvald'
     area='Rychvaldsko'
     link='https://www.facebook.com/Piráti-Rychvald-1999583840283560'
-    president='Alice Mazurková'
+    president='Jakub Ježíšek'
     fb="Piráti-Rychvald-1999583840283560"  
     %}
 
 {% include ms/item.html 
     img='https://a.pirati.cz/moravskoslezsky/img/teams/terlicko_wiki.jpg'
-    title='Radnice v Českém Těšíně - autor: Ondřej Žváček [CC BY-SA 3.0]'
+    title='Těrlické náměstí - autor: Vojtěch Dočkal [CC BY-SA 4.0]'
     name='Těrlicko'
     area='oblast Těrlicka'
     link='https://www.facebook.com/Pir%C3%A1ti-T%C4%9Brlicko-399953724105852'
-    president='Lukáš Černohorský'
+    president='Adam Wantulok'
     fb="Piráti-Těrlicko-399953724105852"  
     %}
    </div>
