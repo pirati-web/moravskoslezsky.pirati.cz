@@ -61,9 +61,9 @@ predsednictvo:
     title='Karviná - Fryštát, náměstí - autor: Hons084 [CC BY-SA 4.0]'
     name='Karviná'
     area='Karviná a okolí'
-    link='https://karvina.pirati.cz/'
+    link='https://www.facebook.com/piratikarvina'
     president='Alena Klocová'
-    fb="cpsmsk"  
+    fb="piratikarvina"  
     %}
 
 {% include ms/item.html 
