@@ -27,6 +27,7 @@ Mezi úspěšně dokončené projekty patří například rozšíření sportovn
 
 Všechny podpořené projekty mají jedno společné – na jejich konci je radost z pohybu a sportovních zážitků.
 
+---
 
 Úvodní obrázek zdroj: Petr „Zewlak“ Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
