@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Piráti k teplárenské kauze Havířova: Nechme ENVEZ posoudit odborníky a smlouvu ministerstvem'		
 date: 2022-02-17
-authorId: jana.ozanova
+author: Jana Ožanová
 image: posts/martin-redr-trubky.jpg
 tags:
   - Havířov
