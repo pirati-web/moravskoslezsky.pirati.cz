@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Pomoci lidem postiženým válkou na Ukrajině může každý: Piráti spustili nový web'			
-date: 2022-28-02
+date: 2022-02-28
 image: posts/podporme-ukrajinu.jpg
 tags:						
   - Zahraničí		
@@ -11,7 +11,7 @@ tags:
   - Web			
 ---
 
-Praha, 28.února 2022 – **Evropa je po letech míru znovu ve válce. Invazi Ruska na Ukrajinu, do státu sousedícího se Slovenskem, Polskem nebo Maďarskem, demokratické státy odsoudily. Miliony lidí čelí bezprostřední hrozbě ztráty majetku, naděje i svých holých životů. Ukrajinci nyní potřebují naši pomoc. Jen slova ale nestačí.**
+Praha, 28. února 2022 – **Evropa je po letech míru znovu ve válce. Invazi Ruska na Ukrajinu, do státu sousedícího se Slovenskem, Polskem nebo Maďarskem, demokratické státy odsoudily. Miliony lidí čelí bezprostřední hrozbě ztráty majetku, naděje i svých holých životů. Ukrajinci nyní potřebují naši pomoc. Jen slova ale nestačí.**
 
 <hr />
 
@@ -19,7 +19,7 @@ Naší lidskou povinností je vynaložit veškeré úsilí k podpoře všech Ukr
 
 Pomoci lidem stiženým válkou na Ukrajině může každý z nás. Zvolte vhodnou formu pomoci, informujte své přátele i okolí. Podporujeme svobodnou Ukrajinu společně!
 
-Sledujte nový web: ukrajina.pirati.cz.
+Sledujte nový web: [ukrajina.pirati.cz](https://ukrajina.pirati.cz/).
 
 ---
 Úvodní obrázek zdroj: Česká pirátská strana
