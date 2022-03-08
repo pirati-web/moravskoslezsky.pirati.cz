@@ -11,7 +11,7 @@ tags:
   - Web			
 ---
 
-Praha, 28. února 2022 – **Evropa je po letech míru znovu ve válce. Invazi Ruska na Ukrajinu, do státu sousedícího se Slovenskem, Polskem nebo Maďarskem, demokratické státy odsoudily. Miliony lidí čelí bezprostřední hrozbě ztráty majetku, naděje i svých holých životů. Ukrajinci nyní potřebují naši pomoc. Jen slova ale nestačí.**
+Praha, 28.února 2022 – **Evropa je po letech míru znovu ve válce. Invazi Ruska na Ukrajinu, do státu sousedícího se Slovenskem, Polskem nebo Maďarskem, demokratické státy odsoudily. Miliony lidí čelí bezprostřední hrozbě ztráty majetku, naděje i svých holých životů. Ukrajinci nyní potřebují naši pomoc. Jen slova ale nestačí.**
 
 <hr />
 
