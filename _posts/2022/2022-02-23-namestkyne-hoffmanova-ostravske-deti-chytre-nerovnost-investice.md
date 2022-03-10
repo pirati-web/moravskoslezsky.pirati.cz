@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Náměstkyně pro školství Hoffmannová: „Ostravské děti jsou tak chytré jako děti Pražanů, nerovnosti řešíme masivními investicemi do školství.“'			
-date: 2021-02-23
+date: 2022-02-23
 authorId: zuzana.klusova
 image: posts/andrea-hoffmannova2.jpg
 tags:						
