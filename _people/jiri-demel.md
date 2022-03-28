@@ -7,17 +7,19 @@ titles:
 category:
 - pks
 - kzast
+- pms
 ordpks: 3
+ordpms: 5
 img: people/jiri-demel-edit.jpg
 heroImg: header/panorama.jpg
-description: zastupitel Moravskoslezského kraje, místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
+description: zastupitel Moravskoslezského kraje, místopředseda krajského sdružení Moravskoslezského kraje, předseda místního sdružení Novojičínsko
 mail:
 - jiri.demel@pirati.cz
 mob:			  
 - +420 731 417 618
 profiles:
   github:                 
-  facebook: 		  https://www.facebook.com/jiri.demel.1
+  facebook: https://www.facebook.com/jiri.demel.1
   twitter: 		  
   flickr:
 ---
