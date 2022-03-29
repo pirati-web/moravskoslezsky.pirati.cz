@@ -2,10 +2,9 @@
 uid: jakub.vontroba
 name: Jakub Vontroba
 titles:
-  before: Bc.
+  before: 
   after:
 category:
-- zast
 - pks
 ordpks: 5
 img: people/jakub-vontroba.jpg
@@ -27,4 +26,4 @@ Nad rámec studia Jakub participoval na několika grantových projektech a strá
 
 Po dokončení navazujícího magisterského studia Jakub zůstal na univerzitě a ve studiu ekonomie pokračuje dále. Více než rok zastával pozici zástupce šéfredaktorky ve fakultním magazínu Sokolská33.
 
-Jakuba zajímá politika a sport. Rád si zahraje fotbal nebo floorbal, sleduje hokej, podniká výlety a rád poznává nové země. Mezi jeho další záliby patří filmy, seriály, procházky a četba.
+Jakuba zajímá politika a sport. Rád si zahraje fotbal nebo florbal, sleduje hokej, podniká výlety a rád poznává nové země. Mezi jeho další záliby patří filmy, seriály, procházky a četba.
