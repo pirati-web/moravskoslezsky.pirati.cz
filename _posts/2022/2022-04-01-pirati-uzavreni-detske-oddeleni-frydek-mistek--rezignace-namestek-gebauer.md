@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti: „Uzavření dětského oddělení ve Frýdku-Místku je hazard se životy dětí! Náměstek Gebauer by měl rezignovat.”'		
-date: 2022-04-05
+date: 2022-04-01
 authorId: jana.ozanova
 image: posts/igor-korc-vondrak-gebauer.jpg
 tags:					
