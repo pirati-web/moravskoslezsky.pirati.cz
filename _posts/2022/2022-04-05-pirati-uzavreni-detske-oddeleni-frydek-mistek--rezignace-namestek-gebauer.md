@@ -41,6 +41,6 @@ dodává pirátský náměstek Igor Juriček.
 
 
 ---
-Úvodní obrázek zdroj: Magistrát města Frýdek-Místek
+Úvodní obrázek zdroj: autor: René Stejskal
 
 - - -
