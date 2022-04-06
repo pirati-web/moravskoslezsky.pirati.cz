@@ -9,7 +9,7 @@ tags:
   - Frýdek-Místek
   - Jakub-Tichý
   - Leonard-Varga
-  - Igor-Juříček
+  - Igor-Juriček
 ---
 
 Frýdek-Místek, 16. března 2021 – **Po dvaceti letech končí ČSSD ve vedení města Frýdku-Místku. Návrh na odvolání primátora a jeho náměstků prošel o dva hlasy, podpořili jej i pirátští zastupitelé. Součástí návrhu, který zastupitelům předložilo hnutí Naše Město, bylo kromě odvolání členů rady města také navržení nového vedení města. Na primátorském postu tak dnešním dnem končí Michal Pobucký (ČSSD), který byl v čele města od roku 2012. Odvoláni byli také jeho náměstci Karel Deutcher (ČSSD), Pavel Machala (ČSSD) a Marcel Sikora (KDU-ČSL) a další tři členové rady z ČSSD a KDU-ČSL.  Novým primátorem byl zároveň zvolen předkladatel návrhu Petr Korč (NMFM) a jeho náměstky se stali Leonard Varga (Piráti), Igor Juriček (Piráti) a Jiří Kajzar (NMFM). V radě zasedne také jako neuvolněný radní Pirát Jakub Tichý. K obměnám došlo i u členů a předsedů kontrolního a finančního výboru. Součástí koalice nadále zůstávají členové hnutí ANO.**
