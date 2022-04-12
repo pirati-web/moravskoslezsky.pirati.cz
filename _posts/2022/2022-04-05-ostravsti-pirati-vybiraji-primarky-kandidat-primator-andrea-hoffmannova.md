@@ -7,7 +7,6 @@ authorId: jana.ozanova
 image: posts/andrea-hoffmannova-vitkovice.jpg
 tags:					
   - Ostrava			
-  - Piráti		
   - Volby		
   - Michal-Najvárek			
   - Andrea-Hoffmannova		
