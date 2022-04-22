@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Tiskové prohlášení'			
 date: 2022-04-22
-author: Jana Ožanová
+authorId: jana.ozanova
 image: posts/splavneni-odry.jpg
 tags:			
   - Moravskoslezský-kraj		
