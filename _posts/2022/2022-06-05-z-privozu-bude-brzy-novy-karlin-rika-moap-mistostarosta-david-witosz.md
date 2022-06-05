@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: '„Z Přívozu bude brzy nový Karlín,” říká místostarosta Moravské Ostravy a Přívozu David Witosz'			
 date: 2022-06-05
-author: Jana Ožanová
+authorId: jana.ozanova
 image: posts/david-witosz-cerny-kun.jpg
 tags:				
   - Ostrava			
