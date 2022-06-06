@@ -7,10 +7,10 @@ authorId: jana.ozanova
 image: posts/david-witosz-cerny-kun.jpg
 tags:
   - Ostrava
+  - MOaP
   - Ekonomika
-  - David-Witosz
   - Rozhovor
-  - Přivoz
+  - David-Witosz
 ---
 
 Ostrava, 5. června 2022 – **Na  zahrádce Černý Kůň Marketu pod ikonickým muralem jsme si povídali s kandidátem na starostu obvodu Moravská Ostrava a Přívoz Davidem Witoszem. V rozhovoru prozradil, co vše se Pirátům v uplynulých 4 letech v Ostravě povedlo i proč rád nosí triko Forever Fracek nebo japonské digitálky.**
