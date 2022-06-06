@@ -84,3 +84,4 @@ To jo. Ostravu miluji. Jsem okouzlený historií a úspěchy našeho města. Svo
 Úvodní obrázek zdroj: Petr Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
+
