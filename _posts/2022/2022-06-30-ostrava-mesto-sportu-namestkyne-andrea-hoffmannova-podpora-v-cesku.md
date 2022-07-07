@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Ostrava je město sportu: Pod vedením náměstkyně Andrey Hoffmannové má ostravský sport největší podporu v Česku'			
 date: 2022-06-30
-author: Jana Ožanová
+authorId: jana.ozanova
 image: posts/andrea-hoffmannova-tretra.jpg
 tags:					
   - Ostrava
