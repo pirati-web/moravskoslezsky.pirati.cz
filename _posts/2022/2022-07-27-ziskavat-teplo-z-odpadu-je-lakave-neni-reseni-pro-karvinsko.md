@@ -43,6 +43,8 @@ Zuzana Klusová, zastupitelka Moravskoslezského kraje a Karviné.
 
 ---
 
-Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj:
+Úvodní obrázek zdroj: Jaroslav Kocián \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
 
 - - -
