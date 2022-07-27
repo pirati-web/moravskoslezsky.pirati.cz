@@ -6,7 +6,7 @@ date: 2022-04-14
 authorId: jana.ozanova
 image: posts/andrea-hoffmannova5.jpg
 tags:			
-  - Ostrava 
+  - Ostrava
   - Volby
   - Andrea-Hoffmannová			
 ---
@@ -43,6 +43,6 @@ V Ostravě Porubě i v Mariánských Horách prošli do druhého kola oba kandid
 
 ---
 
-Úvodní obrázek zdroj:  Kristína Polakovičová
+Úvodní obrázek zdroj:  Atelíér Mošnov
 
 - - -
