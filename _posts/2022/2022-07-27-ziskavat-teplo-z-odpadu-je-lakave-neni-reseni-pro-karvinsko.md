@@ -13,7 +13,7 @@ tags:
   - Spalovna
 ---
 
-Ostrava, 22. července 2022 – **Co s odpady? Česko stojí na rozcestí. Stojí na něm už mnoho let a stále otálí. Jak už to tak bývá, všechno zlé je ale k něčemu dobré. Několikrát odložený termín konce skládkování a chybějící odpadová legislativa nám daly prostor podívat se pozorně na vývoj v okolních zemích, analyzovat ho, vyvarovat se chyb a nyní investovat do technologií, které nás skutečně posunou dopředu. Přála bych si, abychom místo pohodlných řešení hledali pro Karvinsko to skutečně nejlepší. Oblast, která má trvale zhoršené životní prostředí a spoustu ekologických zátěží, to ke skutečnému zlepšení potřebuje. Společnost Veolia plánuje v Karviné vystavět multipalivový kotel o kapacitě 150 tisíc tun odpadu ve formě TAP s možností přidání biomasy. Jaká rizika to přinese, je fluidní kotel skutečně to nejlepší? Obávám se, že pro Karvinou ne.**
+Ostrava, 27. července 2022 – **Co s odpady? Česko stojí na rozcestí. Stojí na něm už mnoho let a stále otálí. Jak už to tak bývá, všechno zlé je ale k něčemu dobré. Několikrát odložený termín konce skládkování a chybějící odpadová legislativa nám daly prostor podívat se pozorně na vývoj v okolních zemích, analyzovat ho, vyvarovat se chyb a nyní investovat do technologií, které nás skutečně posunou dopředu. Přála bych si, abychom místo pohodlných řešení hledali pro Karvinsko to skutečně nejlepší. Oblast, která má trvale zhoršené životní prostředí a spoustu ekologických zátěží, to ke skutečnému zlepšení potřebuje. Společnost Veolia plánuje v Karviné vystavět multipalivový kotel o kapacitě 150 tisíc tun odpadu ve formě TAP s možností přidání biomasy. Jaká rizika to přinese, je fluidní kotel skutečně to nejlepší? Obávám se, že pro Karvinou ne.**
 
 <hr />
 
