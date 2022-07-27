@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Získávat teplo z odpadu je lákavé, ale ne nejlepší řešení pro Karvinsko'		
-date: 2022-07-22
+date: 2022-07-27
 authorId: zuzana.klusova		
 image: posts/zuzana-klusova-halda.jpg
 tags:				
