@@ -71,7 +71,7 @@ predsednictvo:
     title='Orlová-Lutyně - autor: Mecidlo [CC BY-SA 3.0];'
     name='Orlová'
     area='Orlová a okolí'
-    link='https://www.facebook.com/OrlovstiPirati/'
+    link='https://orlova.pirati.cz/'
     president='Jaroslav Kameň'
     fb="OrlovstiPirati"  
     %}
