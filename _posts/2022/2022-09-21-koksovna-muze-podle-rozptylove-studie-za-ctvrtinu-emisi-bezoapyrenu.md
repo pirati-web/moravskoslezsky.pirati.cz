@@ -14,7 +14,7 @@ tags:
   - Václav-Parchaňský
 ---
 
-Ostrava, 21. zaří 2022 – **Rozptylová studie ukázala významný vliv Koksovny Svoboda na ovzduší Moravské Ostravy a Přívozu. Koksovna podle rozptylové studie může za více než čtvrtinu povoleného limitu v oblasti přívozských základních škol. Benzo(a)pyren je látkou prokazatelně způsobující rakovinu, jehož limity dané zákonem jsou bohužel v Ostravě dlouhodobě překračovány. Město proto připravuje další navazující studii, tentokrát zaměřenou na vliv těchto emisí na zdraví obyvatel. Provoz koksovny ohrožuje miliardové investice v okolí a pomalu tráví městskou čtvrť, která je obtěžována nejen rakovinotvornými látkami, ale také výrazným zápachem. Koksovna měla v roce 2021 rekordní zisk, vyrobený koks vyváží do zahraničí.**
+Ostrava, 21.září 2022 – **Rozptylová studie ukázala významný vliv Koksovny Svoboda na ovzduší Moravské Ostravy a Přívozu. Koksovna podle rozptylové studie může za více než čtvrtinu povoleného limitu v oblasti přívozských základních škol. Benzo(a)pyren je látkou prokazatelně způsobující rakovinu, jehož limity dané zákonem jsou bohužel v Ostravě dlouhodobě překračovány. Město proto připravuje další navazující studii, tentokrát zaměřenou na vliv těchto emisí na zdraví obyvatel. Provoz koksovny ohrožuje miliardové investice v okolí a pomalu tráví městskou čtvrť, která je obtěžována nejen rakovinotvornými látkami, ale také výrazným zápachem. Koksovna měla v roce 2021 rekordní zisk, vyrobený koks vyváží do zahraničí.**
 
 <hr />
 
