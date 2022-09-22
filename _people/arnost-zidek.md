@@ -18,15 +18,10 @@ authorInfobox:
   Od roku 2014 spolupracuji s Pirátskou stranou. Stal jsem se garantem programového bodu Školství v komunálních volbách 2018 v městském obvodu Ostrava-jih, kde většinu života bydlím. Po těchto volbách mě Piráti nominovali za člena Komise kulturní a školské v našem obvodu a také Komise pro vzdělávání, vědu a výzkum Statutárního města Ostrava.  
 ---
 
-(* 7. srpna 1976)
-
-Arnošt Žídek se v Ostravě narodil a kromě vysokoškolského studia ve městě celý život žije a pracuje.
+Arnošt Žídek se v Ostravě narodil (*1976) a kromě vysokoškolského studia ve městě celý život žije a pracuje.
 
 Vystudoval obor Učitelství matematiky a fyziky na přírodovědecké fakultě Univerzity Palackého v Olomouci. Doktorát získal na fakultě elektrotechniky a informatiky VŠB - TU Ostrava na oboru Výpočetní a aplikovaná matematika.
 
-Skoro 20 let pracuje na katedře matematiky a deskriptivní geometrie na VŠB. Aktuálně přednáší matematiku na fakultě strojní v Ostravě-Porubě, stal se spoluzakladatelem centra pro výuku matematiky na VŠB - Math Support Centre.
+Celkem 21 let pracoval na katedře matematiky a deskriptivní geometrie na VŠB-TU Ostrava, kde spoluzaložil centrum pro podporu matematiky - Math Support Center. Od 1.7.2020 je ředitelem Základní školy Otické v Opavě. Je také členem Asociace ředitelů základních škol.
 
-Několik let reprezentoval Českou republiku v karetní hře Magic: the Gathering. Má rád sci-fi a fantasy literaturu. Občas si zahraje squash, projede se synem na kole, zajde si na hory nebo na zápas HC Vítkovice.
-
-Přestože je oficiálně nezávislý, za Pirátskou stranu kandiduje již potřetí.
-Na Ostravě-Jihu je garantem programového bodu <a href="{{ 'program/jih2018/skolstvi-jih/' | relative_url }}">Školství</a>.
+Jako nezávislý spolupracuje s Pirátskou stranou od roku 2014. Od komunálních voleb 2018 je členem Komise kulturní a školské v obvodu Ostrava-Jih a také Komise pro vzdělávání, vědu a výzkum Statutárního města Ostrava. V roce 2020 byl zvolen do krajského zastupitelstva Moravskoslezského kraje, je členem krajského Výboru pro vzdělání, výchovu a zaměstnanost.
