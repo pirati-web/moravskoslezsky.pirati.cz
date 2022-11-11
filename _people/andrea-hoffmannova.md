@@ -6,9 +6,9 @@ titles:
   after: Ph.D.
 category:
 - zast
-img: people/andrea-hoffmannova-2021.jpg
+img: people/andrea-hoffmannova-2022.jpg
 heroImg: header/panorama.jpg
-description: náměstkyně primátora města Ostravy, zastupitelka městského obvodu Poruba
+description: náměstkyně primátora města Ostravy
 mail: andrea.hoffmannova@pirati.cz
 mob:			  
 profiles:

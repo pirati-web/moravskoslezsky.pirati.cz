@@ -4,12 +4,10 @@ name: Michal Breškovec
 titles:
   before: Ing.
   after:
-category:
-- zast
 img: people/michal-breskovec-2021.jpg
 heroImg: header/panorama.jpg
 # description: zastupitel městského obvodu Ostrava-Jih a místopředseda místního sdružení Ostrava
-description: zastupitel městského obvodu Ostrava-Jih
+description: člen Finančního výboru městského obvodu Ostrava-Jih a člen Komise bezpečnostní a pro IZS
 mail:
 - michal.breskovec@pirati.cz
 profiles:
@@ -32,6 +30,4 @@ Ačkoliv typický „ajťák“, vystudoval obor Ekonomika a management v průmy
 
 Po absolvování základní vojenské služby začal pracovat v IT jako servisní technik, nyní pracuje v české pobočce významné Skandinávské korporace jako specialista na počítačové sítě.
 
-Práce je mu i koníčkem, zajímá se o technologie a propaguje Free software a Open Source.
-
-V komunální politice se zajímá hlavně o vztah IT ke veřejné správě.
+Práce je mu i koníčkem, zajímá se o technologie a propaguje Free software, Open Source a Bitcoin.

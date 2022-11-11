@@ -4,11 +4,12 @@ name: Martin Kučera
 titles:
   before: Mgr.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/martin-kucera.jpg
 heroImg: header/panorama.jpg
-description: zastupitel městského obvodu Moravská Ostrava a Přívoz, místopředseda republikového předsednictva
+#description: zastupitel městského obvodu Moravská Ostrava a Přívoz, místopředseda republikového předsednictva
+description: byl zastupitel městského obvodu Moravská Ostrava a Přívoz (2018-2022)
 mail: martin.kucera@pirati.cz
 ---
 

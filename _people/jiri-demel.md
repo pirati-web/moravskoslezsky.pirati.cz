@@ -10,7 +10,7 @@ category:
 - pms
 ordpks: 3
 ordpms: 5
-img: people/jiri-demel-edit.jpg
+img: people/jiri-demel-2022.jpg
 heroImg: header/panorama.jpg
 description: zastupitel Moravskoslezského kraje, místopředseda krajského sdružení Moravskoslezského kraje, předseda místního sdružení Novojičínsko
 mail:

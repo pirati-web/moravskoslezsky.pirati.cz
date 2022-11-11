@@ -4,11 +4,12 @@ name: Ireneusz Pieniążek
 titles:
   before: Ing.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/ireneusz-pieniazek-edit.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Český Těšín	# kratký popis, max 160 znaků
+#description: zastupitel města Český Těšín
+description: byl zastupitel města Český Těšín (2018-2022)
 mail:
 mob:
 profiles:

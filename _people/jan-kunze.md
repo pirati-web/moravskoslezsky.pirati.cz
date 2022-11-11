@@ -5,12 +5,13 @@ titles:
   before: Ing.
   after:
 category:
-- zast
+#- zast
 - kzast
 ordzas: 6
 img: people/jan-kunze-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Opavy, zastupitel Moravskoslezského kraje       	# kratký popis, max 160 znaků
+#description: zastupitel města Opavy, zastupitel Moravskoslezského kraje
+description: zastupitel Moravskoslezského kraje
 mail:
 - jan.kunze@seznam.cz
 mob: +420 771 171 087		  

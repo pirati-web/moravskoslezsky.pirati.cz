@@ -8,7 +8,7 @@ category:
 - zast
 img: people/martin-tomasek-2021.jpg
 heroImg: header/panorama.jpg
-description: místostarosta městského obvodu Poruba
+description: zastupitel městského obvodu Poruba
 mail: martin.tomasek@pirati.cz
 ---
 

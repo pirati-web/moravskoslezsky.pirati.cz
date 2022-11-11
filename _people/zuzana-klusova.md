@@ -5,12 +5,13 @@ titles:
   before: Mgr.
   after:
 category:
-- zast
+#- zast
 - kzast
 ordzas: 1
 img: people/zuzana-klusova-2021.jpg 
 heroImg: header/panorama.jpg
-description: zastupitelka Moravskoslezského kraje, zastupitelka města Karviná # kratký popis, max 160 znaků
+#description: zastupitelka Moravskoslezského kraje, zastupitelka města Karviná
+description: zastupitelka Moravskoslezského kraje
 mail:
 - zuzana.klusova@pirati.cz
 mob: +420 737 480 813

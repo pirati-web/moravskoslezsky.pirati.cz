@@ -10,7 +10,7 @@ category:
 ordzas: 9
 img: people/arnost-zidek-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel Moravskoslezského kraje, člen komise kulturní a školské Ostravy-Jihu
+description: zastupitel Moravskoslezského kraje, zastupitel městského obvodu Ostrava-Jih, předseda komise kulturní a školské Ostravy-Jihu
 mail: arnost.zidek@vsb.cz
 authorInfobox:
   Už delší dobu si říkám, že zkusím vyrobit takový nepravidelný „blog“, kde bych se rád věnoval stavu školství v ČR a psal nejen o jeho aktuálním stavu a bolestech, ale také nějaké názory, nápady a postřehy, co si myslím, že by našemu školství mohlo pomoci do let dalších. V prvé řadě je však žádoucí, abych se představil.<br/><br/>

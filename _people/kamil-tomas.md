@@ -4,11 +4,12 @@ name: Kamil Tomáš
 titles:
   before: Ing. 
   after: 
-category:
-- zast
+#category:
+#- zast
 img: people/kamil-tomas.jpg
 heroImg: header/panorama.jpg
-description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
+#description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
+description: byl zastupitel městského obvodu Moravská Ostrava a Přívoz (2018-2022)
 mail: #
 ---
 

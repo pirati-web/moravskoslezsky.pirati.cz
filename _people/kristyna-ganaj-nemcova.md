@@ -4,11 +4,12 @@ name: Kristýna Ganaj Němcová
 titles:
   before: Mgr. Bc.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/kristyna-ganaj-nemcova-edit.jpg
 heroImg: header/panorama.jpg
-description: zastupitelka města Havířova          	# kratký popis, max 160 znaků
+#description: zastupitelka města Havířova
+description: byla zastupitelka města Havířova (2018-2022)
 mail:
 - nemcovakn@centrum.cz
 mob:

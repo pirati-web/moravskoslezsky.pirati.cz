@@ -4,11 +4,12 @@ name: Jaroslav Kocián
 titles:
   before: MgA.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/jaroslav-kocian-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Havířova          	# kratký popis, max 160 znaků
+#description: zastupitel města Havířova
+description: byl zastupitel města Havířova (2018-2022)
 mail:
 - jaroslav.kocian@gmail.com
 mob: +420 777 747 908

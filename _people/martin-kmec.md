@@ -4,11 +4,12 @@ name: Martin Kmec
 titles:
   before:
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/martin-kmec-edit.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Havířova          	# kratký popis, max 160 znaků
+#description: zastupitel města Havířova
+description: byl zastupitel města Havířova (2018-2022)
 mail:
 - martin.kmec@pirati.cz
 mob: +420 775 223 232

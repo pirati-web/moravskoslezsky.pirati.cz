@@ -4,11 +4,12 @@ name: Daniel Galuszka
 titles:
   before: Bc.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/daniel-galuszka-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Bohumína, místopředseda místního sdružení Karvinsko
+#description: zastupitel města Bohumína, místopředseda místního sdružení Karvinsko
+description: místopředseda místního sdružení Karvinsko, byl zastupitel města Bohumína (2018-2022)
 mail:
 - daniel.galuszka@pirati.cz
 mob:

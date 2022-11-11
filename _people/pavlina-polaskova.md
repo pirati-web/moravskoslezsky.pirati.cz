@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zast
-img: people/pavlina-polaskova-2021.jpg
+img: people/pavlina-polaskova-2022.jpg
 heroImg: header/panorama.jpg
 description: zastupitelka městského obvodu Ostrava-Jih, místopředsedkyně místního sdružení Ostrava
 mail: pavlina.polaskova@pirati.cz

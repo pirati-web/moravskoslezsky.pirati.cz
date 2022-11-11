@@ -4,11 +4,12 @@ name: Andrea Branná
 titles:
   before: Bc.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/andrea-branna.jpg   # 165 x 220
 heroImg: header/panorama.jpg
-description: zastupitelka města Český Těšín	# kratký popis, max 160 znaků
+#description: zastupitelka města Český Těšín	# kratký popis, max 160 znaků
+description: byla zastupitelka města Český Těšín (2018-2022)	# kratký popis, max 160 znaků
 mail: zatloukalovaandrea@seznam.cz
 mob: +420 731 745 932
 profiles:

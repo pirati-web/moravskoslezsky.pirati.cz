@@ -6,9 +6,9 @@ titles:
   after:
 category:
 - zast
-img: people/jiri-rajnoch.jpg
+img: people/jiri-rajnoch-2022.jpg
 heroImg: header/panorama.jpg
-description: radní městského obvodu Poruba
+description: zastupitel městského obvodu Poruba
 mail: jiri.rajnoch@pirati.cz
 ---
 

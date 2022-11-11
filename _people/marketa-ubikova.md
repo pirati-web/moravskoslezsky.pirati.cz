@@ -4,11 +4,12 @@ name: Markéta Ubíková
 titles:
   before: Mgr.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/marketa-ubikova-edit.jpg 
 heroImg: header/panorama.jpg
-description: zastupitelka města Frýdku-Místku # kratký popis, max 160 znaků
+#description: zastupitelka města Frýdku-Místku
+description: byla zastupitelka města Frýdku-Místku (2018-2022)
 mail:
 - marketa@smartzena.cz
 mob: +420 608 701 869

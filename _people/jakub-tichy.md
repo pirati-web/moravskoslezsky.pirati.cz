@@ -4,11 +4,12 @@ name: Jakub Tichý
 titles:
   before: Bc. et Bc.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/jakub-tichy-2021.jpg
 heroImg: header/panorama.jpg
-description: radní města Frýdku-Místku # kratký popis, max 160 znaků
+#description: radní města Frýdku-Místku
+description: byl radní města Frýdku-Místku (2018-2022)
 mail:
 - jakubtichyfm@gmail.com
 mob: +420 736 665 652

@@ -4,11 +4,12 @@ name: Igor Juríček
 titles:
   before: Mgr. Bc.
   after:
-category:
-- zast
+#category:
+#- zast
 img: people/igor-juricek-2021.jpg
 heroImg: header/panorama.jpg
-description: náměstek primátora města Frýdku-Místku # kratký popis, max 160 znaků
+#description: náměstek primátora města Frýdku-Místku
+description: byl náměstek primátora města Frýdku-Místku (2018-2022)
 mail:
 - igor.juricek@pirati.cz
 mob:

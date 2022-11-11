@@ -1,20 +1,21 @@
 ---
 uid: martin.redr
-name:     Martin Rédr  	# běžně používáné jméno
+name: Martin Rédr  	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zast
+#category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+#- zast
 img: people/martin-redr-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel města Havířova          	# kratký popis, max 160 znaků
+#description: zastupitel města Havířova
+description: byl zastupitel města Havířova (2018-2022)
 mail:
 - martin.redr@pirati.cz
 mob:			  
 profiles:
   github:                 
-  facebook: 		  https://www.facebook.com/martin.redr.5
+  facebook: https://www.facebook.com/martin.redr.5
   twitter: 		  
   flickr:
 ---

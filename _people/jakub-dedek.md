@@ -5,13 +5,14 @@ titles:
   before:
   after:
 category:
-- zast
+#- zast
 - kzast
 ordpak: 1
 ordzas: 2
 img: people/jakub-dedek.jpg
 heroImg: header/panorama.jpg
-description: zastupitel Moravskoslezského kraje, zastupitel městského obvodu Poruba
+#description: zastupitel Moravskoslezského kraje, zastupitel městského obvodu Poruba
+description: zastupitel Moravskoslezského kraje
 mail: jakub.dedek@pirati.cz
 mob: +420 770 113 644
 profiles:

@@ -6,10 +6,11 @@ titles:
   after: 
 category:
 - zast
-img: people/barbora-vojkovska.jpg
+img: people/barbora-vojkovska-2022.jpg
 heroImg: header/panorama.jpg
 description: zastupitelka městského obvodu Moravská Ostrava a Přívoz 
 mail: barbora.vojkovska@pirati.cz
+
 ---
 
 (* 1986)

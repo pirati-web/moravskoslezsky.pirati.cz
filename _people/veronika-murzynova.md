@@ -4,13 +4,14 @@ name: Veronika Murzynová
 titles:
   before:
   after:
-category:
-- zast
+#category:
+#- zast
 #- pks
 #ordpks: 3
 img: people/veronika-murzynova-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba
+#description: zastupitelka města Ostravy, zastupitelka městského obvodu Poruba
+description: byla zastupitelka města Ostravy, zastupitelka městského obvodu Poruba (2018-2022)
 mail: veronika.murzynova@pirati.cz
 mob:			  
 profiles:

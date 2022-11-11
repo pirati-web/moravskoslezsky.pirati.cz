@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 #- psp
 - pks
 ordpks: 1
-img: people/lukas-cernohorsky-2021.jpg
+img: people/lukas-cernohorsky-2022.jpg
 heroImg: header/panorama.jpg
 #description: poslanec PSP ČR za Moravskoslezský kraj a místopředseda místního sdružení Ostrava           	# kratký popis, max 160 znaků
 description: předseda krajského sdružení Moravskoslezského kraje, byl poslanec PSP ČR za Moravskoslezský kraj 2017-2021	# kratký popis, max 160 znaků

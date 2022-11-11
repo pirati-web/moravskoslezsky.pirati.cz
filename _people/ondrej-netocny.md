@@ -4,11 +4,12 @@ name: Ondřej Netočný
 titles:
   before: Ing. 
   after: 
-category:
-- zast
+#category:
+#- zast
 img: people/ondrej-netocny-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel městského obvodu Ostrava-Jih
+#description: zastupitel městského obvodu Ostrava-Jih
+description: byl zastupitel městského obvodu Ostrava-Jih (2018-2022)
 mail: ondrej.netocny@pirati.cz 
 ---
 
