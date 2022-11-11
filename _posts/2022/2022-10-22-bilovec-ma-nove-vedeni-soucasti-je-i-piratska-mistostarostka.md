@@ -21,14 +21,14 @@ V nové roli bude mít na starost rozvoj města, moderní technologie, smart cit
 
 Završením povolebního vyjednávání je podpis koaliční smlouvy. Piráti tak formálně potvrdili ústní dohody se svými koaličními partnery.
 
->„Jako Pirátka budu dbát na otevřenou transparentní radnici. Jsem ráda, že zveřejněná koaliční smlouva jasně deklaruje náš záměr nic občanům neskrývat,“
+> „Jako Pirátka budu dbát na otevřenou transparentní radnici. Jsem ráda, že zveřejněná koaliční smlouva jasně deklaruje náš záměr nic občanům neskrývat,“
 
 uvedla Tereza Grabcová Hozová.
 
-Koaliční smlouvu a programové prohlášení si můžete přečíst. [ZDE](https://bilovec.pirati.cz/documents/214/Koali%C4%8Dn%C3%AD_smlouva_2022_fin%C3%A1ln%C3%AD.pdf).
-
+Koaliční smlouvu a programové prohlášení si můžete přečíst [ZDE](https://bilovec.pirati.cz/documents/214/Koali%C4%8Dn%C3%AD_smlouva_2022_fin%C3%A1ln%C3%AD.pdf "Koaliční smlouva 2022 Bílovec [PDF]").
 
 ---
 
 Úvodní obrázek zdroj: Michaela Melecká
+
 - - -
