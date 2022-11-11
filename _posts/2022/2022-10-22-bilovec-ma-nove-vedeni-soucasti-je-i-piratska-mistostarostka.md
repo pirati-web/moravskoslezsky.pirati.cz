@@ -30,5 +30,5 @@ Koaliční smlouvu a programové prohlášení si můžete přečíst. [ZDE](htt
 
 ---
 
-Úvodní obrázek zdroj:
+Úvodní obrázek zdroj: Michaela Melecká
 - - -
