@@ -6,7 +6,7 @@ titles:
   after: 
 category:
 - zast
-#img: people/tereza-grabcova-hozova.jpg
+img: people/tereza-grabcova-hozova.jpg
 heroImg: header/panorama.jpg
 description: místostarostka města Bílovec 
 mail: 
