@@ -2,21 +2,21 @@
 layout: default
 title: Místní sdružení Karvinsko
 predsednictvo: 
-  - name: Jakub Ježíšek
+  - name: Martin Rédr
     funkce: Předseda
-  - name: Jakub Vontroba
+  - name: Jakub Ježíšek
     funkce: 1. místopředseda
 ---
 
 <div class="container container--default pt-0 lg:py-24">
  <section><header>
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Místní sdružení Karvinsko</h1>
-            <ul>
-	    <li>Předseda MS - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/personProfile/653/" target="_blank">Profil</a>)</li>
-            <li class="pt-5">1. místopředseda - <b>Jakub Vontroba</b> (<a href="https://lide.pirati.cz/osoba/1236/" target="_blank">Profil</a>)</li>
-	    <li class="pt-5">2. místopředseda - <b>Alena Klocová</b> (<a href="https://lide.pirati.cz/person/415/" target="_blank">Profil</a>)</li>
-            <li class="pt-5">3. místopředseda - <b>Daniel Galuszka</b> (<a href="../lide/daniel-galuszka" target="_blank">Profil</a>)</li>
-	    <li class="pt-5">4. místopředseda - <b>Jaroslav Kameň</b> (<a href="https://lide.pirati.cz/person/583/" target="_blank">Profil</a>)</li>
+	<ul>
+	<li>Předseda MS - <b>Martin Rédr</b> (<a href="https://lide.pirati.cz/profil/1556/" target="_blank">Profil</a>)</li>
+	<li class="pt-5">1. místopředseda - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/profil/2649/" target="_blank">Profil</a>)</li>
+	<li class="pt-5">2. místopředseda - <b>Lubomír Lukšík</b> (<a href="https://lide.pirati.cz/profil/1561//" target="_blank">Profil</a>)</li>
+	<li class="pt-5">3. místopředseda - <b>Sara Kubátová</b> (<a href="https://lide.pirati.cz/profil/3407/" target="_blank">Profil</a>)</li>
+	<li class="pt-5">4. místopředseda - <b>Adam Wantulok</b> (<a href="https://lide.pirati.cz/profil/1980/" target="_blank">Profil</a>)</li>
 	 </ul></header>
  </section>
 </div>

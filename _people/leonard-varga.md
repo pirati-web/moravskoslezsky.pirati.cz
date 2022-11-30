@@ -6,12 +6,10 @@ titles:
   after:
 category:
 - kzast
-- pms
 ordzas: 8
-ordpms: 4
 img: people/leonard-varga-2021.jpg
 heroImg: header/panorama.jpg
-description: zastupitel Moravskoslezského kraje, předseda místního sdružení Frýdecko-Místecko # kratký popis, max 160 znaků
+description: zastupitel Moravskoslezského kraje
 mail:
 - leonard.varga@pirati.cz
 mob:

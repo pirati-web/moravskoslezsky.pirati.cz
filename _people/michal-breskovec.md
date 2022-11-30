@@ -6,6 +6,8 @@ titles:
   after:
 img: people/michal-breskovec-2021.jpg
 heroImg: header/panorama.jpg
+category:
+  - clenove
 # description: zastupitel městského obvodu Ostrava-Jih a místopředseda místního sdružení Ostrava
 description: člen Finančního výboru městského obvodu Ostrava-Jih a člen Komise bezpečnostní a pro IZS
 mail:

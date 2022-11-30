@@ -4,12 +4,13 @@ name: Martin Rédr  	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
-#category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-#- zast
+category:
+  - pms
+ordpms: 3
 img: people/martin-redr-2021.jpg
 heroImg: header/panorama.jpg
 #description: zastupitel města Havířova
-description: byl zastupitel města Havířova (2018-2022)
+description: předseda místního sdružení Karvinsko, byl zastupitel města Havířova (2018-2022)
 mail:
 - martin.redr@pirati.cz
 mob:			  

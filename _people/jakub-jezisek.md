@@ -5,9 +5,8 @@ titles:
   before: Ing.
   after:
 category:
-  - pms
-ordpms: 3
-description: předseda místního sdružení Karvinsko
+  - clenove
+description: místopředseda místního sdružení Karvinsko
 img: people/jakub-jezisek.jpg
 heroImg: header/panorama.jpg
 mail:

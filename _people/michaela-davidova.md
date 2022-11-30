@@ -6,17 +6,16 @@ titles:
   after:
 category:
   - clenove
-description: manažerka marketingu a pr # zobrazuje se v lide
+  - pms
+ordpms: 4
+description: předsedkyně místního sdružení Frýdecko-Místecko
 profession: manažerka marketingu a pr
 img: people/michaela-davidova-2021.jpg
 heroImg: header/panorama.jpg
 
 # mail:
-#  - marketa.ubikova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
-  # googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  # twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 Michaela Davidová (4. října 1984), Frýdek-Místek
 
