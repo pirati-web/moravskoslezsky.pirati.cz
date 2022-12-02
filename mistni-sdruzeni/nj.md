@@ -4,22 +4,20 @@ title: Místní sdružení Novojičínsko
 predsednictvo: 
   - name: Jiří Demel
     funkce: Předseda
+  - name: Emil Adámek
+    funkce: 1. místopředseda
 ---
 
-<!--
 <div class="container container--default pt-0 lg:py-24">
  <section><header>
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Místní sdružení Novojičínsko</h1>
 	<ul>
 	<li>Předseda MS - <b>Jiří Demel</b> (<a href="https://lide.pirati.cz/profil/3301/" target="_blank">Profil</a>)</li>
-	<li class="pt-5">1. místopředseda - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/profil/2649/" target="_blank">Profil</a>)</li>
-	<li class="pt-5">2. místopředseda - <b>Lubomír Lukšík</b> (<a href="https://lide.pirati.cz/profil/1561//" target="_blank">Profil</a>)</li>
-	<li class="pt-5">3. místopředseda - <b>Sara Kubátová</b> (<a href="https://lide.pirati.cz/profil/3407/" target="_blank">Profil</a>)</li>
-	<li class="pt-5">4. místopředseda - <b>Adam Wantulok</b> (<a href="https://lide.pirati.cz/profil/1980/" target="_blank">Profil</a>)</li>
+	<li class="pt-5">1. místopředseda - <b>Emil Adámek</b> (<a href="https://lide.pirati.cz/profil/1536/" target="_blank">Profil</a>)</li>
+	<li class="pt-5">2. místopředseda - <b>Ladislav Stehlík</b> (<a href="https://lide.pirati.cz/profil/1984/" target="_blank">Profil</a>)</li>
 	 </ul></header>
  </section>
 </div>
--->
 
 <div class="container container--default pt-0  ">
  <section>

@@ -14,7 +14,7 @@ predsednictvo:
 	<ul>
 	<li>Předseda MS - <b>Martin Rédr</b> (<a href="https://lide.pirati.cz/profil/1556/" target="_blank">Profil</a>)</li>
 	<li class="pt-5">1. místopředseda - <b>Jakub Ježíšek</b> (<a href="https://lide.pirati.cz/profil/2649/" target="_blank">Profil</a>)</li>
-	<li class="pt-5">2. místopředseda - <b>Lubomír Lukšík</b> (<a href="https://lide.pirati.cz/profil/1561//" target="_blank">Profil</a>)</li>
+	<li class="pt-5">2. místopředseda - <b>Lubomír Lukšík</b> (<a href="https://lide.pirati.cz/profil/1561/" target="_blank">Profil</a>)</li>
 	<li class="pt-5">3. místopředsedkyně - <b>Sara Kubátová</b> (<a href="https://lide.pirati.cz/profil/3407/" target="_blank">Profil</a>)</li>
 	<li class="pt-5">4. místopředseda - <b>Adam Wantulok</b> (<a href="https://lide.pirati.cz/profil/1980/" target="_blank">Profil</a>)</li>
 	 </ul></header>
