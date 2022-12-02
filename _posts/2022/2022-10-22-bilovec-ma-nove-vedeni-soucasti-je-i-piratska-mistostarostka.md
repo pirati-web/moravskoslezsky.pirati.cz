@@ -11,7 +11,7 @@ tags:
   - Tereza-Grabcová-Hozová
 ---
 
-Bílovec, 22. října 2022 – **Město Bílovec nové vedení, na ustavujícím zasedání o něm rozhodli zastupitelé. Do čela města zvolili starostu Martina Holuba (Bílovecké spolky), historicky první pirátskou místostarostkou se stala Gabriela Grabcová Hozová. Koalici dále tvoří zástupci KDU-ČSL, ANO a Nezávislých.**
+Bílovec, 22. října 2022 – **Město Bílovec nové vedení, na ustavujícím zasedání o něm rozhodli zastupitelé. Do čela města zvolili starostu Martina Holuba (Bílovecké spolky), historicky první pirátskou místostarostkou se stala Tereza Grabcová Hozová. Koalici dále tvoří zástupci KDU-ČSL, ANO a Nezávislých.**
 
 <hr />
 
